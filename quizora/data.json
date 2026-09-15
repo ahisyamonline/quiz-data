@@ -1,0 +1,962 @@
+{
+  "version": "1.0.1",
+  "generated_at": "2026-09-15T08:58:59.779Z",
+  "last_updated": "2026-09-15",
+  "settings": {
+    "ads_enable": false,
+    "ads_open_unit": "ca-app-pub-3940256099942544/9257395921",
+    "ads_banner_unit": "ca-app-pub-3940256099942544/6300978111",
+    "ads_reward_unit": "ca-app-pub-3940256099942544/5224354917",
+    "privacy_policy_url": "https://mationetic.com/apps/privacy-policy",
+    "app_title": "Quizora Cerdas Cermat Islam",
+    "ota_update_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/data.json"
+  },
+  "data": [
+    {
+      "package_id": "pkg_aqidah_01",
+      "package_name": "Akidah & Rukun Iman",
+      "category": "Akidah",
+      "price_coins": 0,
+      "is_unlocked_by_default": true,
+      "levels": [
+        {
+          "level_id": 101,
+          "level_title": "Mengenal Rukun Iman",
+          "questions": [
+            {
+              "id": "q_101_01",
+              "type": "multiple_choice",
+              "question": "Beriman kepada Allah SWT merupakan rukun iman yang ke berapa?",
+              "options": [
+                "Pertama",
+                "Kedua",
+                "Ketiga",
+                "Keempat"
+              ],
+              "correct_answer": 0,
+              "explanation": "Rukun iman yang pertama adalah iman kepada Allah SWT."
+            },
+            {
+              "id": "q_101_02",
+              "type": "true_false",
+              "question": "Malaikat Mikail bertugas meniup sangkakala pada hari kiamat.",
+              "options": [
+                "Benar",
+                "Salah"
+              ],
+              "correct_answer": 1,
+              "explanation": "Salah. Malaikat yang bertugas meniup sangkakala adalah Malaikat Israfil. Malaikat Mikail bertugas membagikan rezeki."
+            },
+            {
+              "id": "q_101_03",
+              "type": "image_quiz",
+              "question": "Malaikat manakah yang bertugas mencatat amal baik manusia?",
+              "image_placeholder": "malaikat_raqib",
+              "options": [
+                "Raqib",
+                "Atid",
+                "Munkar",
+                "Nakir"
+              ],
+              "correct_answer": 0,
+              "explanation": "Malaikat Raqib bertugas mencatat amal baik, dan Malaikat Atid mencatat amal buruk."
+            },
+            {
+              "id": "q_101_04",
+              "type": "fill_in_blank",
+              "question": "Kitab suci yang diturunkan kepada Nabi Isa AS adalah Kitab ...",
+              "correct_answer": "Injil",
+              "explanation": "Nabi Musa menerima Taurat, Nabi Daud menerima Zabur, Nabi Isa menerima Injil, dan Nabi Muhammad SAW menerima Al-Qur'an."
+            },
+            {
+              "id": "q_101_05",
+              "type": "scramble_word",
+              "question": "Susun huruf acak berikut menjadi sifat wajib Allah yang berarti Maha Mendengar:",
+              "scrambled_hint": "M - I - A - S - U - N",
+              "correct_answer": "SAMIUN",
+              "explanation": "Sami'un artinya Allah Maha Mendengar segala sesuatu."
+            },
+            {
+              "id": "q_101_06",
+              "type": "matching",
+              "question": "Pasangkan Malaikat dengan tugas mulianya secara tepat:",
+              "pairs": [
+                {
+                  "left": "Jibril",
+                  "right": "Menyampaikan Wahyu"
+                },
+                {
+                  "left": "Izrail",
+                  "right": "Mencabut Nyawa"
+                },
+                {
+                  "left": "Malik",
+                  "right": "Menjaga Neraka"
+                }
+              ],
+              "explanation": "Setiap malaikat memiliki tugas mulia yang telah ditetapkan oleh Allah SWT."
+            },
+            {
+              "id": "q_101_07",
+              "type": "ordering",
+              "question": "Urutkan rukun iman dari yang pertama hingga keempat:",
+              "items": [
+                "Iman kepada Allah SWT",
+                "Iman kepada Malaikat-Nya",
+                "Iman kepada Kitab-Kitab-Nya",
+                "Iman kepada Rasul-Rasul-Nya"
+              ],
+              "correct_order": [
+                0,
+                1,
+                2,
+                3
+              ],
+              "explanation": "Urutan rukun iman: 1. Allah, 2. Malaikat, 3. Kitab, 4. Rasul, 5. Hari Kiamat, 6. Qada dan Qadar."
+            }
+          ]
+        },
+        {
+          "level_id": 102,
+          "level_title": "Sifat-Sifat Wajib Allah",
+          "questions": [
+            {
+              "id": "q_102_01",
+              "type": "multiple_choice",
+              "question": "Sifat wajib bagi Allah 'Wujud' memiliki arti apa?",
+              "options": [
+                "Ada",
+                "Terdahulu",
+                "Kekal",
+                "Berdiri Sendiri"
+              ],
+              "correct_answer": 0,
+              "explanation": "Wujud artinya Ada. Allah SWT ada tanpa permulaan dan tanpa akhir."
+            },
+            {
+              "id": "q_102_02",
+              "type": "true_false",
+              "question": "Sifat wajib bagi Allah SWT berjumlah 20 sifat.",
+              "options": [
+                "Benar",
+                "Salah"
+              ],
+              "correct_answer": 0,
+              "explanation": "Benar. Ada 20 sifat wajib, 20 sifat mustahil, dan 1 sifat jaiz bagi Allah SWT."
+            },
+            {
+              "id": "q_102_03",
+              "type": "fill_in_blank",
+              "question": "Lawan dari sifat wajib 'Wujud' (Ada) adalah sifat mustahil ...",
+              "correct_answer": "Adam",
+              "explanation": "Adam artinya tidak ada, mustahil bagi Allah SWT tidak ada."
+            },
+            {
+              "id": "q_102_04",
+              "type": "scramble_word",
+              "question": "Susun huruf menjadi sifat wajib Allah yang berarti Maha Mengetahui:",
+              "scrambled_hint": "I - L - M - U - N",
+              "correct_answer": "ILMUN",
+              "explanation": "Al-Ilm (Ilmun) berarti Allah Maha Mengetahui segalanya."
+            },
+            {
+              "id": "q_102_05",
+              "type": "matching",
+              "question": "Pasangkan sifat wajib Allah dengan artinya:",
+              "pairs": [
+                {
+                  "left": "Qidam",
+                  "right": "Terdahulu"
+                },
+                {
+                  "left": "Baqa",
+                  "right": "Kekal"
+                },
+                {
+                  "left": "Wahdaniyah",
+                  "right": "Maha Esa"
+                }
+              ],
+              "explanation": "Qidam artinya terdahulu, Baqa artinya kekal, Wahdaniyah artinya Maha Esa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "package_id": "pkg_fiqih_01",
+      "package_name": "Fiqih Ibadah & Rukun Islam",
+      "category": "Fiqih",
+      "price_coins": 150,
+      "is_unlocked_by_default": true,
+      "levels": [
+        {
+          "level_id": 201,
+          "level_title": "Thaharah & Tata Cara Wudhu",
+          "questions": [
+            {
+              "id": "q_201_01",
+              "type": "multiple_choice",
+              "question": "Rukun wudhu yang pertama setelah membaca basmalah dan berniat adalah?",
+              "options": [
+                "Membasuh Muka",
+                "Membasuh Tangan",
+                "Mengusap Kepala",
+                "Membasuh Kaki"
+              ],
+              "correct_answer": 0,
+              "explanation": "Rukun wudhu pertama adalah niat disertai membasuh seluruh wajah/muka."
+            },
+            {
+              "id": "q_201_02",
+              "type": "ordering",
+              "question": "Urutkan rukun wudhu secara berurutan:",
+              "items": [
+                "Niat dan membasuh muka",
+                "Membasuh kedua tangan sampai siku",
+                "Mengusap sebagian kepala",
+                "Membasuh kedua kaki sampai mata kaki"
+              ],
+              "correct_order": [
+                0,
+                1,
+                2,
+                3
+              ],
+              "explanation": "Urutan rukun wudhu adalah tertib dari wajah hingga kedua kaki."
+            },
+            {
+              "id": "q_201_03",
+              "type": "true_false",
+              "question": "Air teh manis dapat digunakan untuk bersuci dan berwudhu.",
+              "options": [
+                "Benar",
+                "Salah"
+              ],
+              "correct_answer": 1,
+              "explanation": "Salah. Air teh adalah air suci namun tidak menyucikan (thahir ghairu muthahhir)."
+            },
+            {
+              "id": "q_201_04",
+              "type": "fill_in_blank",
+              "question": "Bersuci menggunakan debu yang bersih ketika tidak ada air disebut ...",
+              "correct_answer": "Tayammum",
+              "explanation": "Tayammum adalah pengganti wudhu atau mandi wajib saat ketiadaan air atau sakit."
+            },
+            {
+              "id": "q_201_05",
+              "type": "matching",
+              "question": "Pasangkan shalat fardhu dengan jumlah rakaatnya:",
+              "pairs": [
+                {
+                  "left": "Subuh",
+                  "right": "2 Rakaat"
+                },
+                {
+                  "left": "Maghrib",
+                  "right": "3 Rakaat"
+                },
+                {
+                  "left": "Isya",
+                  "right": "4 Rakaat"
+                }
+              ],
+              "explanation": "Subuh 2 rakaat, Maghrib 3 rakaat, Dzuhur, Ashar, dan Isya masing-masing 4 rakaat."
+            }
+          ]
+        },
+        {
+          "level_id": 202,
+          "level_title": "Shalat Wajib & Sunnah",
+          "questions": [
+            {
+              "id": "q_202_01",
+              "type": "multiple_choice",
+              "question": "Shalat sunnah yang dikerjakan pada sepertiga malam terakhir adalah?",
+              "options": [
+                "Tahajjud",
+                "Dhuha",
+                "Rawatib",
+                "Istikharah"
+              ],
+              "correct_answer": 0,
+              "explanation": "Shalat Tahajjud dilakukan pada malam hari setelah tidur."
+            },
+            {
+              "id": "q_202_02",
+              "type": "true_false",
+              "question": "Membaca Surah Al-Fatihah adalah rukun di setiap rakaat shalat.",
+              "options": [
+                "Benar",
+                "Salah"
+              ],
+              "correct_answer": 0,
+              "explanation": "Benar. Al-Fatihah adalah rukun qauli yang wajib dibaca pada setiap rakaat."
+            },
+            {
+              "id": "q_202_03",
+              "type": "scramble_word",
+              "question": "Susun huruf menjadi nama kiblat umat Islam di Kota Mekkah:",
+              "scrambled_hint": "B - A - A - K - H",
+              "correct_answer": "KABAH",
+              "explanation": "Ka'bah di Masjidil Haram adalah kiblat bagi seluruh muslim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "package_id": "pkg_ski_01",
+      "package_name": "Sejarah Kebudayaan Islam",
+      "category": "SKI",
+      "price_coins": 250,
+      "is_unlocked_by_default": false,
+      "levels": [
+        {
+          "level_id": 301,
+          "level_title": "Kisah Kelahiran Nabi Muhammad SAW",
+          "questions": [
+            {
+              "id": "q_301_01",
+              "type": "multiple_choice",
+              "question": "Nabi Muhammad SAW dilahirkan pada tahun penyerangan pasukan bergajah yang dipimpin oleh?",
+              "options": [
+                "Abrahah",
+                "Abu Jahal",
+                "Abu Lahab",
+                "Namrud"
+              ],
+              "correct_answer": 0,
+              "explanation": "Tahun Gajah dinamai karena serbuan pasukan bergajah pimpinan Abrahah yang ingin menghancurkan Ka'bah."
+            },
+            {
+              "id": "q_301_02",
+              "type": "fill_in_blank",
+              "question": "Ibunda tercinta dari Nabi Muhammad SAW bernama Sayyidah ...",
+              "correct_answer": "Aminah",
+              "explanation": "Ayahanda beliau adalah Abdullah dan ibundanya adalah Sayyidah Aminah."
+            },
+            {
+              "id": "q_301_03",
+              "type": "matching",
+              "question": "Pasangkan Khulafaur Rasyidin dengan gelarnya:",
+              "pairs": [
+                {
+                  "left": "Abu Bakar",
+                  "right": "Ash-Shiddiq"
+                },
+                {
+                  "left": "Umar bin Khattab",
+                  "right": "Al-Faruq"
+                },
+                {
+                  "left": "Utsman bin Affan",
+                  "right": "Dzun Nurain"
+                }
+              ],
+              "explanation": "Gelar mulia para sahabat menunjukkan keutamaan akhlak dan pengorbanan mereka."
+            },
+            {
+              "id": "q_301_04",
+              "type": "true_false",
+              "question": "Wahyu pertama diturunkan kepada Nabi Muhammad SAW di Gua Tsur.",
+              "options": [
+                "Benar",
+                "Salah"
+              ],
+              "correct_answer": 1,
+              "explanation": "Salah. Wahyu pertama diturunkan di Gua Hira di Jabal Nur."
+            },
+            {
+              "id": "q_301_05",
+              "type": "scramble_word",
+              "question": "Susun huruf menjadi nama gua tempat turunnya wahyu pertama:",
+              "scrambled_hint": "A - H - I - R",
+              "correct_answer": "HIRA",
+              "explanation": "Gua Hira adalah tempat Nabi bertahannuts dan menerima Surah Al-Alaq 1-5."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "package_id": "pkg_akhlak_01",
+      "package_name": "Akhlak Terpuji & Adab Mulia",
+      "category": "Akhlak",
+      "price_coins": 300,
+      "is_unlocked_by_default": false,
+      "levels": [
+        {
+          "level_id": 401,
+          "level_title": "Adab kepada Orang Tua dan Guru",
+          "questions": [
+            {
+              "id": "q_401_01",
+              "type": "multiple_choice",
+              "question": "Berbakti kepada kedua orang tua dalam istilah agama Islam disebut?",
+              "options": [
+                "Birrul Walidain",
+                "Uququl Walidain",
+                "Silaturrahim",
+                "Tawadhu"
+              ],
+              "correct_answer": 0,
+              "explanation": "Birrul walidain merupakan amalan utama berbakti dan menghormati orang tua."
+            },
+            {
+              "id": "q_401_02",
+              "type": "true_false",
+              "question": "Bersikap rendah hati di hadapan sesama manusia disebut sifat Takabur.",
+              "options": [
+                "Benar",
+                "Salah"
+              ],
+              "correct_answer": 1,
+              "explanation": "Salah. Rendah hati disebut Tawadhu, sedangkan Takabur adalah sombong."
+            },
+            {
+              "id": "q_401_03",
+              "type": "fill_in_blank",
+              "question": "Sifat berkata jujur dan dapat dipercaya yang dimiliki Rasulullah SAW adalah ...",
+              "correct_answer": "Siddiq",
+              "explanation": "Siddiq artinya benar atau jujur dalam perkataan dan perbuatan."
+            },
+            {
+              "id": "q_401_04",
+              "type": "scramble_word",
+              "question": "Susun huruf menjadi sifat terpuji yang berarti dapat dipercaya:",
+              "scrambled_hint": "A - M - A - H - N - A",
+              "correct_answer": "AMANAH",
+              "explanation": "Amanah berarti dapat dipercaya mengemban tugas dan tanggung jawab."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "package_id": "pkg_hafalan_01",
+      "package_name": "Hafalan Doa & Surah Pendek",
+      "category": "Hafalan",
+      "price_coins": 400,
+      "is_unlocked_by_default": false,
+      "levels": [
+        {
+          "level_id": 501,
+          "level_title": "Surah Pendek Juz 30",
+          "questions": [
+            {
+              "id": "q_501_01",
+              "type": "multiple_choice",
+              "question": "Surah Al-Ikhlas menegaskan pokok ajaran tentang?",
+              "options": [
+                "Kemurnian Tauhid",
+                "Kisah Nabi Musa",
+                "Tata Cara Shalat",
+                "Hukum Waris"
+              ],
+              "correct_answer": 0,
+              "explanation": "Surah Al-Ikhlas memurnikan ketauhidan bahwa Allah SWT adalah Maha Esa."
+            },
+            {
+              "id": "q_501_02",
+              "type": "ordering",
+              "question": "Urutkan ayat Surah Al-Kautsar dari ayat 1 sampai 3:",
+              "items": [
+                "Inna a'thainaakal kautsar",
+                "Fa shalli li rabbika wanhar",
+                "Inna syaani'aka huwal abtar"
+              ],
+              "correct_order": [
+                0,
+                1,
+                2
+              ],
+              "explanation": "Urutan Surah Al-Kautsar: Ayat 1, Ayat 2, lalu Ayat 3."
+            },
+            {
+              "id": "q_501_03",
+              "type": "fill_in_blank",
+              "question": "Surah penutup dalam mushaf Al-Qur'an (surah ke-114) adalah Surah An-...",
+              "correct_answer": "Naas",
+              "explanation": "Surah An-Naas adalah surah terakhir di dalam Al-Qur'an."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "packages": [
+    {
+      "package_id": "pkg_aqidah_01",
+      "package_name": "Akidah & Rukun Iman",
+      "category": "Akidah",
+      "price_coins": 0,
+      "is_unlocked_by_default": true,
+      "levels": [
+        {
+          "level_id": 101,
+          "level_title": "Mengenal Rukun Iman",
+          "questions": [
+            {
+              "id": "q_101_01",
+              "type": "multiple_choice",
+              "question": "Beriman kepada Allah SWT merupakan rukun iman yang ke berapa?",
+              "options": [
+                "Pertama",
+                "Kedua",
+                "Ketiga",
+                "Keempat"
+              ],
+              "correct_answer": 0,
+              "explanation": "Rukun iman yang pertama adalah iman kepada Allah SWT."
+            },
+            {
+              "id": "q_101_02",
+              "type": "true_false",
+              "question": "Malaikat Mikail bertugas meniup sangkakala pada hari kiamat.",
+              "options": [
+                "Benar",
+                "Salah"
+              ],
+              "correct_answer": 1,
+              "explanation": "Salah. Malaikat yang bertugas meniup sangkakala adalah Malaikat Israfil. Malaikat Mikail bertugas membagikan rezeki."
+            },
+            {
+              "id": "q_101_03",
+              "type": "image_quiz",
+              "question": "Malaikat manakah yang bertugas mencatat amal baik manusia?",
+              "image_placeholder": "malaikat_raqib",
+              "options": [
+                "Raqib",
+                "Atid",
+                "Munkar",
+                "Nakir"
+              ],
+              "correct_answer": 0,
+              "explanation": "Malaikat Raqib bertugas mencatat amal baik, dan Malaikat Atid mencatat amal buruk."
+            },
+            {
+              "id": "q_101_04",
+              "type": "fill_in_blank",
+              "question": "Kitab suci yang diturunkan kepada Nabi Isa AS adalah Kitab ...",
+              "correct_answer": "Injil",
+              "explanation": "Nabi Musa menerima Taurat, Nabi Daud menerima Zabur, Nabi Isa menerima Injil, dan Nabi Muhammad SAW menerima Al-Qur'an."
+            },
+            {
+              "id": "q_101_05",
+              "type": "scramble_word",
+              "question": "Susun huruf acak berikut menjadi sifat wajib Allah yang berarti Maha Mendengar:",
+              "scrambled_hint": "M - I - A - S - U - N",
+              "correct_answer": "SAMIUN",
+              "explanation": "Sami'un artinya Allah Maha Mendengar segala sesuatu."
+            },
+            {
+              "id": "q_101_06",
+              "type": "matching",
+              "question": "Pasangkan Malaikat dengan tugas mulianya secara tepat:",
+              "pairs": [
+                {
+                  "left": "Jibril",
+                  "right": "Menyampaikan Wahyu"
+                },
+                {
+                  "left": "Izrail",
+                  "right": "Mencabut Nyawa"
+                },
+                {
+                  "left": "Malik",
+                  "right": "Menjaga Neraka"
+                }
+              ],
+              "explanation": "Setiap malaikat memiliki tugas mulia yang telah ditetapkan oleh Allah SWT."
+            },
+            {
+              "id": "q_101_07",
+              "type": "ordering",
+              "question": "Urutkan rukun iman dari yang pertama hingga keempat:",
+              "items": [
+                "Iman kepada Allah SWT",
+                "Iman kepada Malaikat-Nya",
+                "Iman kepada Kitab-Kitab-Nya",
+                "Iman kepada Rasul-Rasul-Nya"
+              ],
+              "correct_order": [
+                0,
+                1,
+                2,
+                3
+              ],
+              "explanation": "Urutan rukun iman: 1. Allah, 2. Malaikat, 3. Kitab, 4. Rasul, 5. Hari Kiamat, 6. Qada dan Qadar."
+            }
+          ]
+        },
+        {
+          "level_id": 102,
+          "level_title": "Sifat-Sifat Wajib Allah",
+          "questions": [
+            {
+              "id": "q_102_01",
+              "type": "multiple_choice",
+              "question": "Sifat wajib bagi Allah 'Wujud' memiliki arti apa?",
+              "options": [
+                "Ada",
+                "Terdahulu",
+                "Kekal",
+                "Berdiri Sendiri"
+              ],
+              "correct_answer": 0,
+              "explanation": "Wujud artinya Ada. Allah SWT ada tanpa permulaan dan tanpa akhir."
+            },
+            {
+              "id": "q_102_02",
+              "type": "true_false",
+              "question": "Sifat wajib bagi Allah SWT berjumlah 20 sifat.",
+              "options": [
+                "Benar",
+                "Salah"
+              ],
+              "correct_answer": 0,
+              "explanation": "Benar. Ada 20 sifat wajib, 20 sifat mustahil, dan 1 sifat jaiz bagi Allah SWT."
+            },
+            {
+              "id": "q_102_03",
+              "type": "fill_in_blank",
+              "question": "Lawan dari sifat wajib 'Wujud' (Ada) adalah sifat mustahil ...",
+              "correct_answer": "Adam",
+              "explanation": "Adam artinya tidak ada, mustahil bagi Allah SWT tidak ada."
+            },
+            {
+              "id": "q_102_04",
+              "type": "scramble_word",
+              "question": "Susun huruf menjadi sifat wajib Allah yang berarti Maha Mengetahui:",
+              "scrambled_hint": "I - L - M - U - N",
+              "correct_answer": "ILMUN",
+              "explanation": "Al-Ilm (Ilmun) berarti Allah Maha Mengetahui segalanya."
+            },
+            {
+              "id": "q_102_05",
+              "type": "matching",
+              "question": "Pasangkan sifat wajib Allah dengan artinya:",
+              "pairs": [
+                {
+                  "left": "Qidam",
+                  "right": "Terdahulu"
+                },
+                {
+                  "left": "Baqa",
+                  "right": "Kekal"
+                },
+                {
+                  "left": "Wahdaniyah",
+                  "right": "Maha Esa"
+                }
+              ],
+              "explanation": "Qidam artinya terdahulu, Baqa artinya kekal, Wahdaniyah artinya Maha Esa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "package_id": "pkg_fiqih_01",
+      "package_name": "Fiqih Ibadah & Rukun Islam",
+      "category": "Fiqih",
+      "price_coins": 150,
+      "is_unlocked_by_default": true,
+      "levels": [
+        {
+          "level_id": 201,
+          "level_title": "Thaharah & Tata Cara Wudhu",
+          "questions": [
+            {
+              "id": "q_201_01",
+              "type": "multiple_choice",
+              "question": "Rukun wudhu yang pertama setelah membaca basmalah dan berniat adalah?",
+              "options": [
+                "Membasuh Muka",
+                "Membasuh Tangan",
+                "Mengusap Kepala",
+                "Membasuh Kaki"
+              ],
+              "correct_answer": 0,
+              "explanation": "Rukun wudhu pertama adalah niat disertai membasuh seluruh wajah/muka."
+            },
+            {
+              "id": "q_201_02",
+              "type": "ordering",
+              "question": "Urutkan rukun wudhu secara berurutan:",
+              "items": [
+                "Niat dan membasuh muka",
+                "Membasuh kedua tangan sampai siku",
+                "Mengusap sebagian kepala",
+                "Membasuh kedua kaki sampai mata kaki"
+              ],
+              "correct_order": [
+                0,
+                1,
+                2,
+                3
+              ],
+              "explanation": "Urutan rukun wudhu adalah tertib dari wajah hingga kedua kaki."
+            },
+            {
+              "id": "q_201_03",
+              "type": "true_false",
+              "question": "Air teh manis dapat digunakan untuk bersuci dan berwudhu.",
+              "options": [
+                "Benar",
+                "Salah"
+              ],
+              "correct_answer": 1,
+              "explanation": "Salah. Air teh adalah air suci namun tidak menyucikan (thahir ghairu muthahhir)."
+            },
+            {
+              "id": "q_201_04",
+              "type": "fill_in_blank",
+              "question": "Bersuci menggunakan debu yang bersih ketika tidak ada air disebut ...",
+              "correct_answer": "Tayammum",
+              "explanation": "Tayammum adalah pengganti wudhu atau mandi wajib saat ketiadaan air atau sakit."
+            },
+            {
+              "id": "q_201_05",
+              "type": "matching",
+              "question": "Pasangkan shalat fardhu dengan jumlah rakaatnya:",
+              "pairs": [
+                {
+                  "left": "Subuh",
+                  "right": "2 Rakaat"
+                },
+                {
+                  "left": "Maghrib",
+                  "right": "3 Rakaat"
+                },
+                {
+                  "left": "Isya",
+                  "right": "4 Rakaat"
+                }
+              ],
+              "explanation": "Subuh 2 rakaat, Maghrib 3 rakaat, Dzuhur, Ashar, dan Isya masing-masing 4 rakaat."
+            }
+          ]
+        },
+        {
+          "level_id": 202,
+          "level_title": "Shalat Wajib & Sunnah",
+          "questions": [
+            {
+              "id": "q_202_01",
+              "type": "multiple_choice",
+              "question": "Shalat sunnah yang dikerjakan pada sepertiga malam terakhir adalah?",
+              "options": [
+                "Tahajjud",
+                "Dhuha",
+                "Rawatib",
+                "Istikharah"
+              ],
+              "correct_answer": 0,
+              "explanation": "Shalat Tahajjud dilakukan pada malam hari setelah tidur."
+            },
+            {
+              "id": "q_202_02",
+              "type": "true_false",
+              "question": "Membaca Surah Al-Fatihah adalah rukun di setiap rakaat shalat.",
+              "options": [
+                "Benar",
+                "Salah"
+              ],
+              "correct_answer": 0,
+              "explanation": "Benar. Al-Fatihah adalah rukun qauli yang wajib dibaca pada setiap rakaat."
+            },
+            {
+              "id": "q_202_03",
+              "type": "scramble_word",
+              "question": "Susun huruf menjadi nama kiblat umat Islam di Kota Mekkah:",
+              "scrambled_hint": "B - A - A - K - H",
+              "correct_answer": "KABAH",
+              "explanation": "Ka'bah di Masjidil Haram adalah kiblat bagi seluruh muslim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "package_id": "pkg_ski_01",
+      "package_name": "Sejarah Kebudayaan Islam",
+      "category": "SKI",
+      "price_coins": 250,
+      "is_unlocked_by_default": false,
+      "levels": [
+        {
+          "level_id": 301,
+          "level_title": "Kisah Kelahiran Nabi Muhammad SAW",
+          "questions": [
+            {
+              "id": "q_301_01",
+              "type": "multiple_choice",
+              "question": "Nabi Muhammad SAW dilahirkan pada tahun penyerangan pasukan bergajah yang dipimpin oleh?",
+              "options": [
+                "Abrahah",
+                "Abu Jahal",
+                "Abu Lahab",
+                "Namrud"
+              ],
+              "correct_answer": 0,
+              "explanation": "Tahun Gajah dinamai karena serbuan pasukan bergajah pimpinan Abrahah yang ingin menghancurkan Ka'bah."
+            },
+            {
+              "id": "q_301_02",
+              "type": "fill_in_blank",
+              "question": "Ibunda tercinta dari Nabi Muhammad SAW bernama Sayyidah ...",
+              "correct_answer": "Aminah",
+              "explanation": "Ayahanda beliau adalah Abdullah dan ibundanya adalah Sayyidah Aminah."
+            },
+            {
+              "id": "q_301_03",
+              "type": "matching",
+              "question": "Pasangkan Khulafaur Rasyidin dengan gelarnya:",
+              "pairs": [
+                {
+                  "left": "Abu Bakar",
+                  "right": "Ash-Shiddiq"
+                },
+                {
+                  "left": "Umar bin Khattab",
+                  "right": "Al-Faruq"
+                },
+                {
+                  "left": "Utsman bin Affan",
+                  "right": "Dzun Nurain"
+                }
+              ],
+              "explanation": "Gelar mulia para sahabat menunjukkan keutamaan akhlak dan pengorbanan mereka."
+            },
+            {
+              "id": "q_301_04",
+              "type": "true_false",
+              "question": "Wahyu pertama diturunkan kepada Nabi Muhammad SAW di Gua Tsur.",
+              "options": [
+                "Benar",
+                "Salah"
+              ],
+              "correct_answer": 1,
+              "explanation": "Salah. Wahyu pertama diturunkan di Gua Hira di Jabal Nur."
+            },
+            {
+              "id": "q_301_05",
+              "type": "scramble_word",
+              "question": "Susun huruf menjadi nama gua tempat turunnya wahyu pertama:",
+              "scrambled_hint": "A - H - I - R",
+              "correct_answer": "HIRA",
+              "explanation": "Gua Hira adalah tempat Nabi bertahannuts dan menerima Surah Al-Alaq 1-5."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "package_id": "pkg_akhlak_01",
+      "package_name": "Akhlak Terpuji & Adab Mulia",
+      "category": "Akhlak",
+      "price_coins": 300,
+      "is_unlocked_by_default": false,
+      "levels": [
+        {
+          "level_id": 401,
+          "level_title": "Adab kepada Orang Tua dan Guru",
+          "questions": [
+            {
+              "id": "q_401_01",
+              "type": "multiple_choice",
+              "question": "Berbakti kepada kedua orang tua dalam istilah agama Islam disebut?",
+              "options": [
+                "Birrul Walidain",
+                "Uququl Walidain",
+                "Silaturrahim",
+                "Tawadhu"
+              ],
+              "correct_answer": 0,
+              "explanation": "Birrul walidain merupakan amalan utama berbakti dan menghormati orang tua."
+            },
+            {
+              "id": "q_401_02",
+              "type": "true_false",
+              "question": "Bersikap rendah hati di hadapan sesama manusia disebut sifat Takabur.",
+              "options": [
+                "Benar",
+                "Salah"
+              ],
+              "correct_answer": 1,
+              "explanation": "Salah. Rendah hati disebut Tawadhu, sedangkan Takabur adalah sombong."
+            },
+            {
+              "id": "q_401_03",
+              "type": "fill_in_blank",
+              "question": "Sifat berkata jujur dan dapat dipercaya yang dimiliki Rasulullah SAW adalah ...",
+              "correct_answer": "Siddiq",
+              "explanation": "Siddiq artinya benar atau jujur dalam perkataan dan perbuatan."
+            },
+            {
+              "id": "q_401_04",
+              "type": "scramble_word",
+              "question": "Susun huruf menjadi sifat terpuji yang berarti dapat dipercaya:",
+              "scrambled_hint": "A - M - A - H - N - A",
+              "correct_answer": "AMANAH",
+              "explanation": "Amanah berarti dapat dipercaya mengemban tugas dan tanggung jawab."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "package_id": "pkg_hafalan_01",
+      "package_name": "Hafalan Doa & Surah Pendek",
+      "category": "Hafalan",
+      "price_coins": 400,
+      "is_unlocked_by_default": false,
+      "levels": [
+        {
+          "level_id": 501,
+          "level_title": "Surah Pendek Juz 30",
+          "questions": [
+            {
+              "id": "q_501_01",
+              "type": "multiple_choice",
+              "question": "Surah Al-Ikhlas menegaskan pokok ajaran tentang?",
+              "options": [
+                "Kemurnian Tauhid",
+                "Kisah Nabi Musa",
+                "Tata Cara Shalat",
+                "Hukum Waris"
+              ],
+              "correct_answer": 0,
+              "explanation": "Surah Al-Ikhlas memurnikan ketauhidan bahwa Allah SWT adalah Maha Esa."
+            },
+            {
+              "id": "q_501_02",
+              "type": "ordering",
+              "question": "Urutkan ayat Surah Al-Kautsar dari ayat 1 sampai 3:",
+              "items": [
+                "Inna a'thainaakal kautsar",
+                "Fa shalli li rabbika wanhar",
+                "Inna syaani'aka huwal abtar"
+              ],
+              "correct_order": [
+                0,
+                1,
+                2
+              ],
+              "explanation": "Urutan Surah Al-Kautsar: Ayat 1, Ayat 2, lalu Ayat 3."
+            },
+            {
+              "id": "q_501_03",
+              "type": "fill_in_blank",
+              "question": "Surah penutup dalam mushaf Al-Qur'an (surah ke-114) adalah Surah An-...",
+              "correct_answer": "Naas",
+              "explanation": "Surah An-Naas adalah surah terakhir di dalam Al-Qur'an."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
