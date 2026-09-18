@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T00:31:49+07:00",
+  "generated_at": "2026-09-19T00:33:24+07:00",
   "last_updated": "2026-09-19",
   "settings": {
     "ads_enable": true,
@@ -9,8 +9,8 @@
     "ads_banner_unit": "ca-app-pub-3940256099942544/6300978111",
     "ads_reward_unit": "ca-app-pub-3940256099942544/5224354917",
     "ads_interstitial_unit": "ca-app-pub-3940256099942544/1033173712",
-    "ads_open_enabled": false,
-    "ads_open_enable": false,
+    "ads_open_enabled": true,
+    "ads_open_enable": true,
     "ads_banner_enabled": true,
     "ads_banner_enable": true,
     "ads_reward_enabled": true,
