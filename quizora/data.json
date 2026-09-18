@@ -1,22 +1,32 @@
 {
-  "version": null,
-  "generated_at": "2026-09-15T16:18:28+07:00",
-  "last_updated": "2026-09-15",
+  "version": 1,
+  "generated_at": "2026-09-18T23:52:48+07:00",
+  "last_updated": "2026-09-18",
   "settings": {
-    "ads_enable": false,
-    "ads_enabled": false,
+    "ads_enable": true,
+    "ads_enabled": true,
     "ads_open_unit": "ca-app-pub-3940256099942544/9257395921",
     "ads_banner_unit": "ca-app-pub-3940256099942544/6300978111",
     "ads_reward_unit": "ca-app-pub-3940256099942544/5224354917",
+    "ads_interstitial_unit": "ca-app-pub-3940256099942544/1033173712",
+    "ads_open_enabled": true,
+    "ads_open_enable": true,
+    "ads_banner_enabled": true,
+    "ads_banner_enable": true,
+    "ads_reward_enabled": true,
+    "ads_reward_enable": true,
+    "ads_interstitial_enabled": true,
+    "ads_interstitial_enable": true,
     "initial_daily_quota": 5,
     "reward_quota_amount": 10,
     "privacy_policy_url": "https://mationetic.com/apps/privacy-policy",
     "app_title": "Quizora",
-    "ota_update_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/quotesschool/quotes.json",
-    "sync_endpoint": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/quotesschool/quotes.json",
+    "ota_update_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/data.json",
+    "sync_endpoint": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/data.json",
     "github_repo": "ahisyamonline/quiz-data",
     "github_branch": "main",
-    "github_path": "quizora/data.json"
+    "github_path": "quizora/data.json",
+    "ads_interstitial": "ca-app-pub-3940256099942544/1033173712"
   },
   "data": [
     {
@@ -9928,10 +9938,8 @@
               "id": "q_2201_04",
               "type": "fill_in_blank",
               "question": "Wali nikah yang paling berhak menikahkan seorang wanita dari jalur nasab pertama kali adalah ayah ...",
-              "options": [
-                "Kandung"
-              ],
-              "correct_answer": "Ayah kandung adalah wali mujbir / wali aqrab yang memiliki hak pertama dalam perwalian nikah."
+              "correct_answer": "Kandung",
+              "explanation": "Ayah kandung adalah wali mujbir / wali aqrab yang memiliki hak pertama dalam perwalian nikah."
             },
             {
               "id": "q_2201_05",
@@ -10017,10 +10025,8 @@
               "id": "q_2201_10",
               "type": "fill_in_blank",
               "question": "Hukum mengadakan pesta jamuan makan pernikahan (walimatul 'ursy) menurut mayoritas ulama adalah sunnah ...",
-              "options": [
-                "Muakkad"
-              ],
-              "correct_answer": "Walimatul 'ursy adalah sunnah muakkadah untuk mengumumkan pernikahan dan menghindari fitnah."
+              "correct_answer": "Muakkad",
+              "explanation": "Walimatul 'ursy adalah sunnah muakkadah untuk mengumumkan pernikahan dan menghindari fitnah."
             }
           ]
         },
@@ -10070,10 +10076,8 @@
               "id": "q_2202_04",
               "type": "fill_in_blank",
               "question": "Sikap istri yang membangkang atau menolak menunaikan hak kewajiban suami tanpa alasan syar'i disebut ...",
-              "options": [
-                "Nusyuz"
-              ],
-              "correct_answer": "Nusyuz adalah kedurhakaan atau pembangkangan istri terhadap kewajiban rumah tangga yang digariskan Islam."
+              "correct_answer": "Nusyuz",
+              "explanation": "Nusyuz adalah kedurhakaan atau pembangkangan istri terhadap kewajiban rumah tangga yang digariskan Islam."
             },
             {
               "id": "q_2202_05",
@@ -10159,10 +10163,8 @@
               "id": "q_2202_10",
               "type": "fill_in_blank",
               "question": "Sebaik-baik mahar menurut hadits Nabi SAW adalah mahar yang paling ... beban penyediaannya.",
-              "options": [
-                "Ringan"
-              ],
-              "correct_answer": "Sebaik-baik wanita adalah yang paling mudah (ringan) maharnya' (HR. Ahmad)."
+              "correct_answer": "Ringan",
+              "explanation": "Sebaik-baik wanita adalah yang paling mudah (ringan) maharnya' (HR. Ahmad)."
             }
           ]
         },
@@ -10212,10 +10214,8 @@
               "id": "q_2203_04",
               "type": "fill_in_blank",
               "question": "Masa iddah bagi wanita yang diceraikan dalam keadaan hamil adalah sampai ia ... kandungannya.",
-              "options": [
-                "Melahirkan"
-              ],
-              "correct_answer": "Firman Allah dalam Surah At-Talaq ayat 4 menyatakan iddah wanita hamil berakhir saat melahirkan."
+              "correct_answer": "Melahirkan",
+              "explanation": "Firman Allah dalam Surah At-Talaq ayat 4 menyatakan iddah wanita hamil berakhir saat melahirkan."
             },
             {
               "id": "q_2203_05",
@@ -10301,10 +10301,8 @@
               "id": "q_2203_10",
               "type": "fill_in_blank",
               "question": "Sumpah seorang suami yang menuduh istrinya berzina dengan melaknat diri sendiri disebut ...",
-              "options": [
-                "Lian"
-              ],
-              "correct_answer": "Li'an dilakukan dengan sumpah 4 kali bersaksi demi Allah dan kelima memohon laknat jika berdusta."
+              "correct_answer": "Lian",
+              "explanation": "Li'an dilakukan dengan sumpah 4 kali bersaksi demi Allah dan kelima memohon laknat jika berdusta."
             }
           ]
         },
@@ -10354,8 +10352,8 @@
               "id": "q_2204_04",
               "type": "fill_in_blank",
               "question": "Batas maksimal pemberian wasiat harta kepada selain ahli waris adalah sepertiga (1/...) dari total harta.",
-              "options": 3,
-              "correct_answer": "Wasiat dibatasi maksimal 1/3 dari total peninggalan bersih agar tidak merugikan para ahli waris yang sah."
+              "correct_answer": 3,
+              "explanation": "Wasiat dibatasi maksimal 1/3 dari total peninggalan bersih agar tidak merugikan para ahli waris yang sah."
             },
             {
               "id": "q_2204_05",
@@ -10441,10 +10439,8 @@
               "id": "q_2204_10",
               "type": "fill_in_blank",
               "question": "Sebab terjadinya hak waris-mewarisi ada tiga: hubungan nasab (darah), perkawinan sah, dan pembebasan budak (...).",
-              "options": [
-                "Wala"
-              ],
-              "correct_answer": "Tiga sebab hak waris dalam syariat Islam: an-nasab, an-nikah, dan al-wala'."
+              "correct_answer": "Wala",
+              "explanation": "Tiga sebab hak waris dalam syariat Islam: an-nasab, an-nikah, dan al-wala'."
             }
           ]
         },
@@ -10494,8 +10490,8 @@
               "id": "q_2205_04",
               "type": "fill_in_blank",
               "question": "Perbandingan pembagian hak waris antara anak laki-laki dan anak perempuan menurut Surah An-Nisa ayat 11 adalah dua berbanding ...",
-              "options": 1,
-              "correct_answer": "Bagian seorang anak laki-laki sama dengan bagian dua orang anak perempuan' (2 : 1)."
+              "correct_answer": 1,
+              "explanation": "Bagian seorang anak laki-laki sama dengan bagian dua orang anak perempuan' (2 : 1)."
             },
             {
               "id": "q_2205_05",
@@ -10581,10 +10577,8 @@
               "id": "q_2205_10",
               "type": "fill_in_blank",
               "question": "Kondisi di mana total nilai saham bagian ashabul furudh melebihi angka asal masalah disebut peristiwa ...",
-              "options": [
-                "Aul"
-              ],
-              "correct_answer": "Al-'Aul adalah bertambahnya jumlah pokok saham fardhu sehingga angka penyebut asal masalah dinaikkan secara proporsional."
+              "correct_answer": "Aul",
+              "explanation": "Al-'Aul adalah bertambahnya jumlah pokok saham fardhu sehingga angka penyebut asal masalah dinaikkan secara proporsional."
             }
           ]
         },
@@ -10634,10 +10628,8 @@
               "id": "q_2206_04",
               "type": "fill_in_blank",
               "question": "Hijab yang menggugurkan seluruh hak waris seseorang secara penuh dinamakan Hijab ...",
-              "options": [
-                "Hirman"
-              ],
-              "correct_answer": "Hijab Hirman menggugurkan hak waris secara total, sedangkan Hijab Nuqshan hanya mengurangi jumlah bagian."
+              "correct_answer": "Hirman",
+              "explanation": "Hijab Hirman menggugurkan hak waris secara total, sedangkan Hijab Nuqshan hanya mengurangi jumlah bagian."
             },
             {
               "id": "q_2206_05",
@@ -10720,10 +10712,8 @@
               "id": "q_2206_10",
               "type": "fill_in_blank",
               "question": "Pengembalian sisa harta warisan kepada ashabul furudh selain suami/istri secara proporsional disebut ...",
-              "options": [
-                "Radd"
-              ],
-              "correct_answer": "Ar-Radd adalah kebalikan dari 'Aul, yakni membagikan sisa tirkah kepada ashabul furudh bila tiada ashabah."
+              "correct_answer": "Radd",
+              "explanation": "Ar-Radd adalah kebalikan dari 'Aul, yakni membagikan sisa tirkah kepada ashabul furudh bila tiada ashabah."
             }
           ]
         },
@@ -10773,10 +10763,8 @@
               "id": "q_2207_04",
               "type": "fill_in_blank",
               "question": "Tuduhan palsu berbuat zina kepada seorang muslim yang baik-baik tanpa menghadirkan 4 saksi disebut had ...",
-              "options": [
-                "Qadzaf"
-              ],
-              "correct_answer": "Qadzaf diancam hukuman cambuk 80 kali dan kesaksiannya tidak diterima selama-lamanya."
+              "correct_answer": "Qadzaf",
+              "explanation": "Qadzaf diancam hukuman cambuk 80 kali dan kesaksiannya tidak diterima selama-lamanya."
             },
             {
               "id": "q_2207_05",
@@ -10862,10 +10850,8 @@
               "id": "q_2207_10",
               "type": "fill_in_blank",
               "question": "Pelaku zina yang sudah pernah menikah secara sah disebut dengan istilah pezina ...",
-              "options": [
-                "Muhshan"
-              ],
-              "correct_answer": "Pezina muhshan adalah orang yang telah baligh, berakal, merdeka, dan sudah pernah melakukan hubungan sah dalam pernikahan."
+              "correct_answer": "Muhshan",
+              "explanation": "Pezina muhshan adalah orang yang telah baligh, berakal, merdeka, dan sudah pernah melakukan hubungan sah dalam pernikahan."
             }
           ]
         },
@@ -10915,10 +10901,8 @@
               "id": "q_2208_04",
               "type": "fill_in_blank",
               "question": "Denda tebusan dosa yang wajib ditunaikan karena pelanggaran hukum Allah tertentu dinamakan ...",
-              "options": [
-                "Kaffarah"
-              ],
-              "correct_answer": "Kaffarah adalah denda penebus dosa seperti kaffarah sumpah, pembunuhan keliru, atau melanggar puasa Ramadhan."
+              "correct_answer": "Kaffarah",
+              "explanation": "Kaffarah adalah denda penebus dosa seperti kaffarah sumpah, pembunuhan keliru, atau melanggar puasa Ramadhan."
             },
             {
               "id": "q_2208_05",
@@ -11004,10 +10988,8 @@
               "id": "q_2208_10",
               "type": "fill_in_blank",
               "question": "Denda ganti rugi atas luka pada anggota badan yang belum ditentukan kadar diyat pastinya dalam nash disebut ...",
-              "options": [
-                "Hukumah"
-              ],
-              "correct_answer": "Hukumah adalah ganti rugi luka yang kadarnya ditentukan berdasarkan ijtihad adil hakim pengadilan."
+              "correct_answer": "Hukumah",
+              "explanation": "Hukumah adalah ganti rugi luka yang kadarnya ditentukan berdasarkan ijtihad adil hakim pengadilan."
             }
           ]
         },
@@ -11057,10 +11039,8 @@
               "id": "q_2209_04",
               "type": "fill_in_blank",
               "question": "Pihak yang mengajukan gugatan perkara di hadapan pengadilan disebut ...",
-              "options": [
-                "Muddai"
-              ],
-              "correct_answer": "Mudda'i adalah penggugat yang memiliki beban menghadirkan bukti (bayyinah)."
+              "correct_answer": "Muddai",
+              "explanation": "Mudda'i adalah penggugat yang memiliki beban menghadirkan bukti (bayyinah)."
             },
             {
               "id": "q_2209_05",
@@ -11146,10 +11126,8 @@
               "id": "q_2209_10",
               "type": "fill_in_blank",
               "question": "Lembaga pengawasan peradilan yang menangani kesewenang-wenangan para pejabat pemerintah dalam sejarah Islam disebut Mahkamah ...",
-              "options": [
-                "Mazhalim"
-              ],
-              "correct_answer": "Wilayatul Mazhalim adalah peradilan khusus banding untuk menindak pejabat negara yang menyalahgunakan wewenang."
+              "correct_answer": "Mazhalim",
+              "explanation": "Wilayatul Mazhalim adalah peradilan khusus banding untuk menindak pejabat negara yang menyalahgunakan wewenang."
             }
           ]
         },
@@ -11199,10 +11177,8 @@
               "id": "q_2210_04",
               "type": "fill_in_blank",
               "question": "Ketidakpastian, spekulasi berlebihan, atau penipuan dalam suatu transaksi bisnis yang dilarang Islam disebut ...",
-              "options": [
-                "Gharar"
-              ],
-              "correct_answer": "Gharar dilarang karena mengandung ketidakjelasan objek atau risiko manipulasi yang merugikan salah satu pihak."
+              "correct_answer": "Gharar",
+              "explanation": "Gharar dilarang karena mengandung ketidakjelasan objek atau risiko manipulasi yang merugikan salah satu pihak."
             },
             {
               "id": "q_2210_05",
@@ -11288,10 +11264,8 @@
               "id": "q_2210_10",
               "type": "fill_in_blank",
               "question": "Pelimpahan kuasa dari seseorang kepada pihak lain untuk melakukan suatu urusan yang dibenarkan syariat disebut ...",
-              "options": [
-                "Wakalah"
-              ],
-              "correct_answer": "Wakalah adalah akad perwakilan sah dalam pendelegasian wewenang transaksi atau pengelolaan tugas."
+              "correct_answer": "Wakalah",
+              "explanation": "Wakalah adalah akad perwakilan sah dalam pendelegasian wewenang transaksi atau pengelolaan tugas."
             }
           ]
         }
@@ -11350,10 +11324,8 @@
               "id": "q_2301_04",
               "type": "fill_in_blank",
               "question": "Khalifah Daulah Umayyah yang pertama kali mencetak mata uang dinar Islam resmi berbahasa Arab adalah Abdul Malik bin ...",
-              "options": [
-                "Marwan"
-              ],
-              "correct_answer": "Abdul Malik bin Marwan melakukan arabisasi administrasi dan mencetak dinar Islam menggantikan mata uang Romawi."
+              "correct_answer": "Marwan",
+              "explanation": "Abdul Malik bin Marwan melakukan arabisasi administrasi dan mencetak dinar Islam menggantikan mata uang Romawi."
             },
             {
               "id": "q_2301_05",
@@ -11439,10 +11411,8 @@
               "id": "q_2301_10",
               "type": "fill_in_blank",
               "question": "Panglima Bani Umayyah yang menaklukkan wilayah Sindh (India barat laut / Pakistan) pada usia muda adalah Muhammad bin ...",
-              "options": [
-                "Qasim"
-              ],
-              "correct_answer": "Muhammad bin Qasim membuka pintu masuk dakwah Islam pertama kali ke anak benua India pada tahun 712 M."
+              "correct_answer": "Qasim",
+              "explanation": "Muhammad bin Qasim membuka pintu masuk dakwah Islam pertama kali ke anak benua India pada tahun 712 M."
             }
           ]
         },
@@ -11492,10 +11462,8 @@
               "id": "q_2302_04",
               "type": "fill_in_blank",
               "question": "Universitas Islam terkenal yang didirikan oleh Perdana Menteri Nizham Al-Mulk pada era Abbasiyah bernama Madrasah ...",
-              "options": [
-                "Nizhamiyah"
-              ],
-              "correct_answer": "Madrasah Nizhamiyah melahirkan tokoh-tokoh besar seperti Imam Al-Ghazali yang menjadi guru besar di Baghdad."
+              "correct_answer": "Nizhamiyah",
+              "explanation": "Madrasah Nizhamiyah melahirkan tokoh-tokoh besar seperti Imam Al-Ghazali yang menjadi guru besar di Baghdad."
             },
             {
               "id": "q_2302_05",
@@ -11581,10 +11549,8 @@
               "id": "q_2302_10",
               "type": "fill_in_blank",
               "question": "Pemimpin pasukan Mongol yang menghancurkan Baghdad dan membunuh jutaan penduduk pada tahun 1258 M adalah Hulagu ...",
-              "options": [
-                "Khan"
-              ],
-              "correct_answer": "Hulagu Khan mengepung dan membumihanguskan Baghdad yang menandai berakhirnya khilafah Abbasiyah di Baghdad."
+              "correct_answer": "Khan",
+              "explanation": "Hulagu Khan mengepung dan membumihanguskan Baghdad yang menandai berakhirnya khilafah Abbasiyah di Baghdad."
             }
           ]
         },
@@ -11634,10 +11600,8 @@
               "id": "q_2303_04",
               "type": "fill_in_blank",
               "question": "Kota di Andalusia yang dijuluki 'Mutiara Dunia' karena kebersihan jalan berlampu dan perpustakaan megahnya adalah ...",
-              "options": [
-                "Kordoba"
-              ],
-              "correct_answer": "Cordoba di era Abdurrahman III menjadi pusat sains dan kebudayaan paling maju di seluruh benua Eropa."
+              "correct_answer": "Kordoba",
+              "explanation": "Cordoba di era Abdurrahman III menjadi pusat sains dan kebudayaan paling maju di seluruh benua Eropa."
             },
             {
               "id": "q_2303_05",
@@ -11723,10 +11687,8 @@
               "id": "q_2303_10",
               "type": "fill_in_blank",
               "question": "Kota satelit istana megah yang dibangun oleh Khalifah Abdurrahman III di luar Kordoba bernama Madinatuz ...",
-              "options": [
-                "Zahra"
-              ],
-              "correct_answer": "Madinatuz Zahra (Medina Azahara) adalah mahakarya tata kota istana bertingkat yang memesona."
+              "correct_answer": "Zahra",
+              "explanation": "Madinatuz Zahra (Medina Azahara) adalah mahakarya tata kota istana bertingkat yang memesona."
             }
           ]
         },
@@ -11776,10 +11738,8 @@
               "id": "q_2304_04",
               "type": "fill_in_blank",
               "question": "Sultan Mamluk yang berhasil mengusir sisa kekuatan Pasukan Salib dari benteng terakhir mereka di Acre (Akka) adalah Sultan Al-Asyraf ...",
-              "options": [
-                "Khalil"
-              ],
-              "correct_answer": "Al-Asyraf Khalil merebut Acre pada tahun 1291 M yang mengakhiri keberadaan koloni tentara Salib di tanah Syam."
+              "correct_answer": "Khalil",
+              "explanation": "Al-Asyraf Khalil merebut Acre pada tahun 1291 M yang mengakhiri keberadaan koloni tentara Salib di tanah Syam."
             },
             {
               "id": "q_2304_05",
@@ -11865,10 +11825,8 @@
               "id": "q_2304_10",
               "type": "fill_in_blank",
               "question": "Setelah Baghdad hancur, sultan Mamluk mengundang keturunan Abbasiyah untuk melanjutkan simbol khalifah di kota ...",
-              "options": [
-                "Kairo"
-              ],
-              "correct_answer": "Kekhalifahan Abbasiyah Kairo berstatus simbolis keagamaan di bawah naungan Kesultanan Mamluk."
+              "correct_answer": "Kairo",
+              "explanation": "Kekhalifahan Abbasiyah Kairo berstatus simbolis keagamaan di bawah naungan Kesultanan Mamluk."
             }
           ]
         },
@@ -11918,10 +11876,8 @@
               "id": "q_2305_04",
               "type": "fill_in_blank",
               "question": "Nama Dinasti Safawiyah diambil dari nama seorang guru sufi tarekat Safawiyah di Ardabil, yaitu Syaikh Shafiuddin ...",
-              "options": [
-                "Ardabili"
-              ],
-              "correct_answer": "Syaikh Shafiuddin Al-Ardabili mendirikan tarekat sufi yang kemudian bertransformasi menjadi kekuatan politik kerajaan."
+              "correct_answer": "Ardabili",
+              "explanation": "Syaikh Shafiuddin Al-Ardabili mendirikan tarekat sufi yang kemudian bertransformasi menjadi kekuatan politik kerajaan."
             },
             {
               "id": "q_2305_05",
@@ -12007,10 +11963,8 @@
               "id": "q_2305_10",
               "type": "fill_in_blank",
               "question": "Filsuf dan teolog muslim terkemuka era Safawiyah yang mencetuskan konsep filsafat 'Hikmah Muta'aliyah' adalah Mulla ...",
-              "options": [
-                "Sadra"
-              ],
-              "correct_answer": "Mulla Sadra (Sadruddin Asy-Syirazi) menggabungkan teologi, filsafat rasional, dan mistisisme irfani di Isfahan."
+              "correct_answer": "Sadra",
+              "explanation": "Mulla Sadra (Sadruddin Asy-Syirazi) menggabungkan teologi, filsafat rasional, dan mistisisme irfani di Isfahan."
             }
           ]
         },
@@ -12060,10 +12014,8 @@
               "id": "q_2306_04",
               "type": "fill_in_blank",
               "question": "Kaisar Mughal yang dikenal taat menjalankan syariat Islam dan menyusun kitab hukum fikih 'Fatawa Hindiyyah' (Fatawa Alamgiri) adalah ...",
-              "options": [
-                "Aurangzeb"
-              ],
-              "correct_answer": "Aurangzeb (Alamgir I) memperluas wilayah Mughal hingga mencakup hampir seluruh anak benua India."
+              "correct_answer": "Aurangzeb",
+              "explanation": "Aurangzeb (Alamgir I) memperluas wilayah Mughal hingga mencakup hampir seluruh anak benua India."
             },
             {
               "id": "q_2306_05",
@@ -12149,10 +12101,8 @@
               "id": "q_2306_10",
               "type": "fill_in_blank",
               "question": "Kaisar terakhir Dinasti Mughal yang diasingkan oleh penjajah Inggris ke Rangoon Burma pada tahun 1858 adalah Bahadur Shah ...",
-              "options": [
-                "Zafar"
-              ],
-              "correct_answer": "Bahadur Shah Zafar adalah penyair dan kaisar Mughal terakhir yang menandai berakhirnya dinasti Mughal di India."
+              "correct_answer": "Zafar",
+              "explanation": "Bahadur Shah Zafar adalah penyair dan kaisar Mughal terakhir yang menandai berakhirnya dinasti Mughal di India."
             }
           ]
         },
@@ -12202,10 +12152,8 @@
               "id": "q_2307_04",
               "type": "fill_in_blank",
               "question": "Botanikus dan farmakolog muslim asal Spanyol yang mengklasifikasikan lebih dari 1.400 tanaman obat dalam 'Al-Jami' li Mufradat' adalah Ibnu ...",
-              "options": [
-                "Baithar"
-              ],
-              "correct_answer": "Ibnu Al-Baithar mengumpulkan dan menguji tanaman obat di sepanjang Mediterania dari Spanyol hingga Suriah."
+              "correct_answer": "Baithar",
+              "explanation": "Ibnu Al-Baithar mengumpulkan dan menguji tanaman obat di sepanjang Mediterania dari Spanyol hingga Suriah."
             },
             {
               "id": "q_2307_05",
@@ -12291,10 +12239,8 @@
               "id": "q_2307_10",
               "type": "fill_in_blank",
               "question": "Dokter muslim yang menjelaskan parasit skabies penyebab gatal kulit dan penyakit perikarditis adalah Ibnu ...",
-              "options": [
-                "Zuhr"
-              ],
-              "correct_answer": "Ibnu Zuhr (Avenzoar) asal Andalusia adalah pakar patologi dan pembedahan eksperimental pada hewan."
+              "correct_answer": "Zuhr",
+              "explanation": "Ibnu Zuhr (Avenzoar) asal Andalusia adalah pakar patologi dan pembedahan eksperimental pada hewan."
             }
           ]
         },
@@ -12344,10 +12290,8 @@
               "id": "q_2308_04",
               "type": "fill_in_blank",
               "question": "Insinyur jenius muslim perintis robotika mekanik, pompa air, dan jam gajah otomatis adalah Al-...",
-              "options": [
-                "Jazari"
-              ],
-              "correct_answer": "Badi'uz Zaman Al-Jazari merancang poros engkol (crankshaft) dan mekanisme katup otomatis dalam Kitab Al-Hiyal."
+              "correct_answer": "Jazari",
+              "explanation": "Badi'uz Zaman Al-Jazari merancang poros engkol (crankshaft) dan mekanisme katup otomatis dalam Kitab Al-Hiyal."
             },
             {
               "id": "q_2308_05",
@@ -12433,10 +12377,8 @@
               "id": "q_2308_10",
               "type": "fill_in_blank",
               "question": "Astronom wanita muslim pembuat astrolabe presisi di istana Saifud Daulah Suriah bernama Maryam Al-...",
-              "options": [
-                "Ijliya"
-              ],
-              "correct_answer": "Maryam Al-Ijliya (Al-Asturlabiya) terkenal karena keahliannya merancang instrumen navigasi astrolabe yang sangat teliti."
+              "correct_answer": "Ijliya",
+              "explanation": "Maryam Al-Ijliya (Al-Asturlabiya) terkenal karena keahliannya merancang instrumen navigasi astrolabe yang sangat teliti."
             }
           ]
         },
@@ -12486,10 +12428,8 @@
               "id": "q_2309_04",
               "type": "fill_in_blank",
               "question": "Filsuf muslim yang dijuluki 'Guru Kedua' (Al-Mu'allim Ats-Tsani) setelah Aristoteles adalah Al-...",
-              "options": [
-                "Farabi"
-              ],
-              "correct_answer": "Abu Nashr Al-Farabi menulis karya filsafat politik 'Ara' Ahlil Madinah Al-Fadhilah' (Negara Utama)."
+              "correct_answer": "Farabi",
+              "explanation": "Abu Nashr Al-Farabi menulis karya filsafat politik 'Ara' Ahlil Madinah Al-Fadhilah' (Negara Utama)."
             },
             {
               "id": "q_2309_05",
@@ -12575,10 +12515,8 @@
               "id": "q_2309_10",
               "type": "fill_in_blank",
               "question": "Penyelidik sejarah dan pengelana muslim terkemuka yang menulis 'Tarikh Al-Umam wal Muluk' adalah Imam Ath-...",
-              "options": [
-                "Thabari"
-              ],
-              "correct_answer": "Imam Jarir Ath-Thabari menulis ensiklopedia sejarah bangsa-bangsa dunia dan tafsir Al-Qur'an monumental."
+              "correct_answer": "Thabari",
+              "explanation": "Imam Jarir Ath-Thabari menulis ensiklopedia sejarah bangsa-bangsa dunia dan tafsir Al-Qur'an monumental."
             }
           ]
         },
@@ -12628,10 +12566,8 @@
               "id": "q_2310_04",
               "type": "fill_in_blank",
               "question": "Ulama tertua dari dewan Walisongo yang menyebarkan Islam di Jawa Timur dan wafat di Gresik (1419 M) adalah Maulana Malik ...",
-              "options": [
-                "Ibrahim"
-              ],
-              "correct_answer": "Maulana Malik Ibrahim (Sunan Gresik) berdakwah dengan budi pekerti luhur, pengobatan gratis, dan pertanian maju."
+              "correct_answer": "Ibrahim",
+              "explanation": "Maulana Malik Ibrahim (Sunan Gresik) berdakwah dengan budi pekerti luhur, pengobatan gratis, dan pertanian maju."
             },
             {
               "id": "q_2310_05",
@@ -12717,10 +12653,8 @@
               "id": "q_2310_10",
               "type": "fill_in_blank",
               "question": "Ulama besar Kesultanan Aceh yang menulis kitab tasawuf falsafi 'Asrarul Arifin' dan syair sufi adalah Hamzah ...",
-              "options": [
-                "Fansuri"
-              ],
-              "correct_answer": "Hamzah Fansuri adalah sastrawan sufi perintis penggunaan bahasa Melayu dalam karya sastra dan teologi Islam."
+              "correct_answer": "Fansuri",
+              "explanation": "Hamzah Fansuri adalah sastrawan sufi perintis penggunaan bahasa Melayu dalam karya sastra dan teologi Islam."
             }
           ]
         }
@@ -12779,10 +12713,8 @@
               "id": "q_2401_04",
               "type": "fill_in_blank",
               "question": "Hadits ke-7 Arba'in Nawawiyah menegaskan: 'Agama itu adalah ... (Ad-Diinu an-nashiihah)'.",
-              "options": [
-                "Nasihat"
-              ],
-              "correct_answer": "Nasihat ditujukan untuk Allah, Kitab-Nya, Rasul-Nya, para pemimpin kaum muslimin, dan masyarakat umum."
+              "correct_answer": "Nasihat",
+              "explanation": "Nasihat ditujukan untuk Allah, Kitab-Nya, Rasul-Nya, para pemimpin kaum muslimin, dan masyarakat umum."
             },
             {
               "id": "q_2401_05",
@@ -12868,10 +12800,8 @@
               "id": "q_2401_10",
               "type": "fill_in_blank",
               "question": "Ulama besar asal Damaskus penghimpun 42 hadits pokok Islam dalam kitab Al-Arba'in adalah Imam An-...",
-              "options": [
-                "Nawawi"
-              ],
-              "correct_answer": "Imam Yahya bin Syaraf An-Nawawi menyusun Arba'in Nawawiyah dan Syarah Shahih Muslim."
+              "correct_answer": "Nawawi",
+              "explanation": "Imam Yahya bin Syaraf An-Nawawi menyusun Arba'in Nawawiyah dan Syarah Shahih Muslim."
             }
           ]
         },
@@ -12921,10 +12851,8 @@
               "id": "q_2402_04",
               "type": "fill_in_blank",
               "question": "Tidak sempurna iman seseorang sampai ia mencintai bagi saudaranya apa yang ia cintai bagi ... sendiri.",
-              "options": [
-                "Dirinya"
-              ],
-              "correct_answer": "Hadits ke-13 Arba'in: persaudaraan Islam menuntut empati dan ketulusan berbagi kebaikan seperti mencintai diri sendiri."
+              "correct_answer": "Dirinya",
+              "explanation": "Hadits ke-13 Arba'in: persaudaraan Islam menuntut empati dan ketulusan berbagi kebaikan seperti mencintai diri sendiri."
             },
             {
               "id": "q_2402_05",
@@ -13010,10 +12938,8 @@
               "id": "q_2402_10",
               "type": "fill_in_blank",
               "question": "Hadits ke-31 Arba'in: 'Zuhudlah terhadap dunia niscaya Allah mencintaimu, dan zuhudlah terhadap apa yang ada di tangan manusia niscaya ... mencintaimu.'",
-              "options": [
-                "Manusia"
-              ],
-              "correct_answer": "Menjauhi ketamakan terhadap harta orang lain menumbuhkan kecintaan dan kehormatan di tengah masyarakat."
+              "correct_answer": "Manusia",
+              "explanation": "Menjauhi ketamakan terhadap harta orang lain menumbuhkan kecintaan dan kehormatan di tengah masyarakat."
             }
           ]
         },
@@ -13025,59 +12951,35 @@
               "id": "q_2403_01",
               "type": "multiple_choice",
               "question": "Kitab kumpulan hadits adab dan akhlak termasyhur di dunia Islam 'Riyadhus Shalihin' bermakna?",
-              "options": [
-                "Taman Orang-Orang Shalih",
-                "Cahaya Kebaikan",
-                "Kisah Sahabat",
-                "Jalan Menuju Surga"
-              ],
-              "correct_answer": 0,
-              "explanation": "Riyadhus Shalihin disusun oleh Imam An-Nawawi dan menjadi kitab rujukan taklim di berbagai belahan dunia."
+              "correct_answer": "[\"Taman Orang-Orang Shalih\", \"Cahaya Kebaikan\", \"Kisah Sahabat\", \"Jalan Menuju Surga\"]"
             },
             {
               "id": "q_2403_02",
               "type": "true_false",
               "question": "Kejujuran menuntun seseorang kepada kebaikan, dan kebaikan menuntun menuju surga.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Sabda Nabi SAW: 'Innash-shidqa yahdi ilal birr, wa innal birra yahdi ilal jannah' (HR. Bukhari & Muslim)."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2403_03",
               "type": "image_quiz",
               "question": "Kisah 3 orang yang terperangkap dalam gua tertutup batu besar berhasil selamat karena bertawassul dengan amal ikhlas mereka: berbakti orang tua, menjaga kehormatan, dan menunaikan...",
               "image_placeholder": "tiga_orang_dalam_gua",
-              "options": [
-                "Hak upah buruh pekerja",
-                "Zakat emas",
-                "Puasa Daud",
-                "Ibadah haji"
-              ],
-              "correct_answer": 0,
-              "explanation": "Hadits Shahih Bukhari tentang Ashabur Raqim (tiga pemuda dalam gua) yang diselamatkan berkat amal ikhlas."
+              "correct_answer": "[\"Hak upah buruh pekerja\", \"Zakat emas\", \"Puasa Daud\", \"Ibadah haji\"]"
             },
             {
               "id": "q_2403_04",
               "type": "fill_in_blank",
               "question": "Sesungguhnya Allah tidak melihat kepada bentuk rupa dan harta kalian, tetapi Dia melihat kepada ... dan amal kalian.",
-              "options": [
-                "Hati"
-              ],
-              "correct_answer": "Hadits riwayat Muslim: 'Walakin yanzhuru ila qulubikum wa a'malikum' (Tetapi Allah melihat hati dan amalmu)."
+              "correct_answer": "Hati",
+              "explanation": "Hadits riwayat Muslim: 'Walakin yanzhuru ila qulubikum wa a'malikum' (Tetapi Allah melihat hati dan amalmu)."
             },
             {
               "id": "q_2403_05",
               "type": "scramble_word",
               "question": "Susun huruf sifat jujur dan kesesuaian antara lisan dan hati: S - H - I - D - D - I - Q",
-              "options": [
-                "S - H - I - D - D - I - Q"
-              ],
               "scrambled_hint": "S - H - I - D - D - I - Q",
-              "correct_answer": "SHIDDIQ",
-              "explanation": "As-Shiddiq adalah gelar para pecinta kebenaran yang konsisten dalam ucapan dan perbuatan."
+              "correct_answer": "S - H - I - D - D - I - Q",
+              "explanation": "SHIDDIQ"
             },
             {
               "id": "q_2403_06",
@@ -13096,19 +12998,12 @@
                   "left": "Bila Dipercaya",
                   "right": "Ia berkhianat (khana)"
                 }
-              ],
-              "explanation": "Tanda-tanda kemunafikan praktis harus dihindari oleh setiap mukmin sejati."
+              ]
             },
             {
               "id": "q_2403_07",
               "type": "ordering",
               "question": "Urutkan tingkatan tobat nasuha seorang hamba yang berbuat dosa terhadap sesama manusia:",
-              "options": [
-                "Menyesali perbuatan dosa dalam hati",
-                "Berhenti seketika dari maksiat tersebut",
-                "Bertekad kuat tidak akan mengulanginya lagi",
-                "Meminta maaf atau mengembalikan hak harta yang diambil"
-              ],
               "items": [
                 "Menyesali perbuatan dosa dalam hati",
                 "Berhenti seketika dari maksiat tersebut",
@@ -13121,41 +13016,27 @@
                 2,
                 3
               ],
-              "correct_answer": "[0, 1, 2, 3]",
-              "explanation": "Syarat tobat terkait dosa sesama manusia mewajibkan penyelesaian hak adami (meminta ridha/mengembalikan hak)."
+              "correct_answer": "[\"Menyesali perbuatan dosa dalam hati\", \"Berhenti seketika dari maksiat tersebut\", \"Bertekad kuat tidak akan mengulanginya lagi\", \"Meminta maaf atau mengembalikan hak harta yang diambil\"]",
+              "explanation": "[0, 1, 2, 3]"
             },
             {
               "id": "q_2403_08",
               "type": "multiple_choice",
               "question": "Seseorang yang berniat kuat melakukan suatu kebaikan namun terhalang uzur syar'i, maka pahalanya dicatat oleh Allah sebagai?",
-              "options": [
-                "Pahala satu kebaikan penuh",
-                "Pahala separuh saja",
-                "Belum dicatat apa-apa",
-                "Dihapus dosanya saja"
-              ],
-              "correct_answer": 0,
-              "explanation": "Rahmat Allah: barangsiapa berniat baik lalu tidak sempat mengamalkannya, Allah catat baginya satu kebaikan sempurna."
+              "correct_answer": "[\"Pahala satu kebaikan penuh\", \"Pahala separuh saja\", \"Belum dicatat apa-apa\", \"Dihapus dosanya saja\"]"
             },
             {
               "id": "q_2403_09",
               "type": "true_false",
               "question": "Dusta diperbolehkan dalam tiga keadaan khusus: dalam strategi perang, mendamaikan orang yang berselisih, dan rayuan mesra suami-istri.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Hadits riwayat Muslim memberikan rukhshah kedaruratan demi kemaslahatan menjaga nyawa dan keutuhan rumah tangga."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2403_10",
               "type": "fill_in_blank",
               "question": "Tobat seorang hamba senantiasa diterima Allah selama nafas belum sampai di ... tenggorokan.",
-              "options": [
-                "Ghargharah"
-              ],
-              "correct_answer": "Allah menerima tobat sebelum sakaratul maut (ghargharah) dan sebelum matahari terbit dari barat."
+              "correct_answer": "Ghargharah",
+              "explanation": "Allah menerima tobat sebelum sakaratul maut (ghargharah) dan sebelum matahari terbit dari barat."
             }
           ]
         },
@@ -13167,59 +13048,35 @@
               "id": "q_2404_01",
               "type": "multiple_choice",
               "question": "Sabda Nabi SAW: 'Sungguh menakjubkan urusan orang mukmin, seluruh urusannya adalah baik baginya: bila dapat kesenangan bersyukur, dan bila ditimpa kesulitan...'",
-              "options": [
-                "Ia bersabar, maka itu baik baginya",
-                "Ia mengeluh",
-                "Ia berpasrah tanpa usaha",
-                "Ia marah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Hadits Shahih Muslim: mukmin berada dalam pusaran berkah antara rasa syukur saat lapang dan sabar saat diuji."
+              "correct_answer": "[\"Ia bersabar, maka itu baik baginya\", \"Ia mengeluh\", \"Ia berpasrah tanpa usaha\", \"Ia marah\"]"
             },
             {
               "id": "q_2404_02",
               "type": "true_false",
               "question": "Sabar yang hakiki dinilai pada saat benturan pertama kali ujian musibah terjadi (ash-shabru 'inda shadmatil ula).",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Sabda Rasulullah SAW kepada wanita yang menangisi makam anaknya: 'Sesungguhnya sabar itu pada pukulan pertama.'"
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2404_03",
               "type": "image_quiz",
               "question": "Perumpamaan tawakal yang diajarkan Rasulullah SAW seperti seekor burung yang keluar di pagi hari dalam keadaan lapar dan pulang sore hari dalam keadaan...",
               "image_placeholder": "burung_tawakal_pagi_sore",
-              "options": [
-                "Kenyang",
-                "Kelelahan",
-                "Membawa emas",
-                "Sakit"
-              ],
-              "correct_answer": 0,
-              "explanation": "Sekiranya kalian bertawakal dengan sebenar-benar tawakal, niscaya Allah memberi rezeki seperti burung: pergi lapar, pulang kenyang.'"
+              "correct_answer": "[\"Kenyang\", \"Kelelahan\", \"Membawa emas\", \"Sakit\"]"
             },
             {
               "id": "q_2404_04",
               "type": "fill_in_blank",
               "question": "Bukanlah orang kuat itu yang menang dalam pergulatan fisik, melainkan orang yang mampu mengendalikan dirinya saat ...",
-              "options": [
-                "Marah"
-              ],
-              "correct_answer": "Hadits Bukhari: kekuatan sejati adalah menahan gejolak hawa nafsu dan amarah di saat mampu melampiaskannya."
+              "correct_answer": "Marah",
+              "explanation": "Hadits Bukhari: kekuatan sejati adalah menahan gejolak hawa nafsu dan amarah di saat mampu melampiaskannya."
             },
             {
               "id": "q_2404_05",
               "type": "scramble_word",
               "question": "Susun huruf sikap pasrah dan berserah diri kepada ketetapan Allah setelah ikhtiar maksimal: T - A - W - A - K - A - L",
-              "options": [
-                "T - A - W - A - K - A - L"
-              ],
               "scrambled_hint": "T - A - W - A - K - A - L",
-              "correct_answer": "TAWAKAL",
-              "explanation": "Tawakal tidak menafikan usaha ikhtiar (ikat dulu untamu lalu bertawakallah)."
+              "correct_answer": "T - A - W - A - K - A - L",
+              "explanation": "TAWAKAL"
             },
             {
               "id": "q_2404_06",
@@ -13238,19 +13095,12 @@
                   "left": "Sabar Menghadapi Takdir Ujian",
                   "right": "Rela dan tabah saat tertimpa sakit atau musibah"
                 }
-              ],
-              "explanation": "Para ulama mengklasifikasikan kesabaran menjadi tiga pilar utama."
+              ]
             },
             {
               "id": "q_2404_07",
               "type": "ordering",
               "question": "Urutkan kelompok manusia yang paling berat cobaannya menurut hadits Rasulullah SAW:",
-              "options": [
-                "Para Nabi dan Rasul",
-                "Para ulama dan orang shalih",
-                "Orang-orang pilihan berikutnya sesuai kadar keimanan",
-                "Manusia biasa diuji sesuai keteguhan agamanya"
-              ],
               "items": [
                 "Para Nabi dan Rasul",
                 "Para ulama dan orang shalih",
@@ -13263,41 +13113,27 @@
                 2,
                 3
               ],
-              "correct_answer": "[0, 1, 2, 3]",
-              "explanation": "Manusia yang paling berat cobaannya adalah para Nabi, kemudian orang-orang shalih semisalnya' (HR. Tirmidzi)."
+              "correct_answer": "[\"Para Nabi dan Rasul\", \"Para ulama dan orang shalih\", \"Orang-orang pilihan berikutnya sesuai kadar keimanan\", \"Manusia biasa diuji sesuai keteguhan agamanya\"]",
+              "explanation": "[0, 1, 2, 3]"
             },
             {
               "id": "q_2404_08",
               "type": "multiple_choice",
               "question": "Dua kenikmatan besar yang sering dilalaikan dan disia-siakan oleh kebanyakan manusia menurut hadits riwayat Bukhari adalah?",
-              "options": [
-                "Kesehatan dan Waktu Luang",
-                "Kekayaan dan Kendaraan",
-                "Makanan lezat dan Pakaian bagus",
-                "Kecantikan dan Ketenaran"
-              ],
-              "correct_answer": 0,
-              "explanation": "Sabda Nabi SAW: 'Ni'mataani maghbuunun fiihimaa katsiirun minannaas: ash-shihhatu wal faragh' (Kesehatan dan waktu luang)."
+              "correct_answer": "[\"Kesehatan dan Waktu Luang\", \"Kekayaan dan Kendaraan\", \"Makanan lezat dan Pakaian bagus\", \"Kecantikan dan Ketenaran\"]"
             },
             {
               "id": "q_2404_09",
               "type": "true_false",
               "question": "Tidak dikatakan bersyukur kepada Allah orang yang tidak mampu berterima kasih kepada sesama manusia yang berbuat baik padanya.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Hadits riwayat Abu Dawud: 'La yasykurullaaha man la yasykurunnaas.'"
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2404_10",
               "type": "fill_in_blank",
               "question": "Ucapan istirja' yang dianjurkan dibaca saat tertimpa musibah adalah 'Inna lillahi wa inna ilaihi ...'",
-              "options": [
-                "Rajiun"
-              ],
-              "correct_answer": "Sesungguhnya kami adalah milik Allah dan kepada-Nya lah kami kembali' (QS. Al-Baqarah: 156)."
+              "correct_answer": "Rajiun",
+              "explanation": "Sesungguhnya kami adalah milik Allah dan kepada-Nya lah kami kembali' (QS. Al-Baqarah: 156)."
             }
           ]
         },
@@ -13309,59 +13145,35 @@
               "id": "q_2405_01",
               "type": "multiple_choice",
               "question": "Barangsiapa yang ingin dilapangkan rezekinya dan dipanjangkan umurnya (jejak kebaikannya), hendaklah ia?",
-              "options": [
-                "Menyambung tali silaturahim",
-                "Tidur lebih banyak",
-                "Berdagang ke luar negeri",
-                "Meminjamkan uang berbunga"
-              ],
-              "correct_answer": 0,
-              "explanation": "Sabda Nabi SAW: 'Man ahabba an yubsatha lahu fi rizqihi wa yunsya-a lahu fi atsarihi fal-yashil rahimahu' (HR. Bukhari)."
+              "correct_answer": "[\"Menyambung tali silaturahim\", \"Tidur lebih banyak\", \"Berdagang ke luar negeri\", \"Meminjamkan uang berbunga\"]"
             },
             {
               "id": "q_2405_02",
               "type": "true_false",
               "question": "Malaikat Jibril terus-menerus berwasiat tentang hak tetangga sampai Rasulullah SAW mengira tetangga akan mendapatkan hak waris.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Menunjukkan betapa tingginya kedudukan hak tetangga dalam ajaran Islam (HR. Bukhari & Muslim)."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2405_03",
               "type": "image_quiz",
               "question": "Hak seorang muslim atas muslim lainnya ada 6 perkara: menjawab salam, menghadiri undangan, menasihati saat diminta, mendoakan saat bersin, menjenguk saat sakit, dan mengantar...",
               "image_placeholder": "mengantar_jenazah_muslim",
-              "options": [
-                "Jenazah ke pemakaman",
-                "Harta ke rumahnya",
-                "Belanjaan ke pasar",
-                "Keluarga tamasya"
-              ],
-              "correct_answer": 0,
-              "explanation": "Hadits riwayat Muslim menetapkan enam hak persaudaraan muslim yang wajib dijaga."
+              "correct_answer": "[\"Jenazah ke pemakaman\", \"Harta ke rumahnya\", \"Belanjaan ke pasar\", \"Keluarga tamasya\"]"
             },
             {
               "id": "q_2405_04",
               "type": "fill_in_blank",
               "question": "Orang yang menyambung silaturahim hakiki bukanlah yang membalas kunjungan, melainkan yang menyambung ketika hubungan diputuskan oleh ...",
-              "options": [
-                "Kerabatnya"
-              ],
-              "correct_answer": "Nabi SAW: 'Bukanlah penyambung silaturahim orang yang membalas kebaikan, melainkan yang menyambung saat diputuskan kerabat.'"
+              "correct_answer": "Kerabatnya",
+              "explanation": "Nabi SAW: 'Bukanlah penyambung silaturahim orang yang membalas kebaikan, melainkan yang menyambung saat diputuskan kerabat.'"
             },
             {
               "id": "q_2405_05",
               "type": "scramble_word",
               "question": "Susun huruf jalinan kasih sayang persaudaraan sedarah: S - I - L - A - T - U - R - A - H - I - M",
-              "options": [
-                "S - I - L - A - T - U - R - A - H - I - M"
-              ],
               "scrambled_hint": "S - I - L - A - T - U - R - A - H - I - M",
-              "correct_answer": "SILATURAHIM",
-              "explanation": "Silaturahim menyatukan keluarga dan mendatangkan rahmat dari Allah SWT."
+              "correct_answer": "S - I - L - A - T - U - R - A - H - I - M",
+              "explanation": "SILATURAHIM"
             },
             {
               "id": "q_2405_06",
@@ -13380,19 +13192,12 @@
                   "left": "Tetangga Muslim Kerabat",
                   "right": "3 Hak: Hak tetangga, Hak muslim, & Hak silaturahim"
                 }
-              ],
-              "explanation": "Islam memuliakan tetangga bahkan bila berbeda agama sekalipun."
+              ]
             },
             {
               "id": "q_2405_07",
               "type": "ordering",
               "question": "Urutkan etika bertamu dan meminta izin (isti'dzan) ke rumah orang lain sesuai sunnah:",
-              "options": [
-                "Mengucapkan salam dan mengetuk pintu secara wajar",
-                "Berdiri di sisi samping pintu (tidak menghadap langsung ke dalam)",
-                "Meminta izin maksimal 3 kali",
-                "Bila tidak diizinkan atau tidak ada jawaban, beranjak pulang"
-              ],
               "items": [
                 "Mengucapkan salam dan mengetuk pintu secara wajar",
                 "Berdiri di sisi samping pintu (tidak menghadap langsung ke dalam)",
@@ -13405,41 +13210,27 @@
                 2,
                 3
               ],
-              "correct_answer": "[0, 1, 2, 3]",
-              "explanation": "Etika bertamu menjaga privasi pemilik rumah dari pandangan mata yang tidak pantas."
+              "correct_answer": "[\"Mengucapkan salam dan mengetuk pintu secara wajar\", \"Berdiri di sisi samping pintu (tidak menghadap langsung ke dalam)\", \"Meminta izin maksimal 3 kali\", \"Bila tidak diizinkan atau tidak ada jawaban, beranjak pulang\"]",
+              "explanation": "[0, 1, 2, 3]"
             },
             {
               "id": "q_2405_08",
               "type": "multiple_choice",
               "question": "Hukum mendiamkan (memboikot / hajr) sesama saudara muslim tanpa alasan syar'i lebih dari 3 hari adalah?",
-              "options": [
-                "Haram",
-                "Makruh",
-                "Mubah",
-                "Sunnah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Sabda Nabi SAW: 'Tidak halal bagi seorang muslim mendiamkan saudaranya lebih dari tiga malam' (HR. Bukhari)."
+              "correct_answer": "[\"Haram\", \"Makruh\", \"Mubah\", \"Sunnah\"]"
             },
             {
               "id": "q_2405_09",
               "type": "true_false",
               "question": "Tidak beriman seseorang yang tidur kenyang sementara tetangga di samping rumahnya kelaparan dan ia mengetahuinya.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Hadits riwayat Al-Hakim menegaskan kepekaan sosial dan kepedulian terhadap tetangga yang kesusahan."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2405_10",
               "type": "fill_in_blank",
               "question": "Tidak akan masuk surga orang yang memutuskan tali ... (HR. Bukhari & Muslim).",
-              "options": [
-                "Silaturahim"
-              ],
-              "correct_answer": "La yadkhulul jannata qaathi'un' (Tidak masuk surga pemutus tali silaturahim)."
+              "correct_answer": "Silaturahim",
+              "explanation": "La yadkhulul jannata qaathi'un' (Tidak masuk surga pemutus tali silaturahim)."
             }
           ]
         },
@@ -13451,59 +13242,35 @@
               "id": "q_2406_01",
               "type": "multiple_choice",
               "question": "Penyakit hati berupa keinginan agar nikmat yang ada pada orang lain hilang atau berpindah kepadanya disebut?",
-              "options": [
-                "Hasad (Dengki)",
-                "Ghibah",
-                "Riya'",
-                "Ujub"
-              ],
-              "correct_answer": 0,
-              "explanation": "Hasad adalah iri dengki yang mengikis pahala amal kebaikan bagaikan api melahap kayu bakar."
+              "correct_answer": "[\"Hasad (Dengki)\", \"Ghibah\", \"Riya'\", \"Ujub\"]"
             },
             {
               "id": "q_2406_02",
               "type": "true_false",
               "question": "Riya' (memamerkan ibadah agar dipuji manusia) dikategorikan oleh Rasulullah SAW sebagai Syirik Kecil (Asy-Syirkul Ashghar).",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Sabda Nabi SAW: 'Hal yang paling aku takuti menimpa kalian adalah syirik kecil, yaitu riya'.'"
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2406_03",
               "type": "image_quiz",
               "question": "Sikap kagum berlebihan terhadap kehebatan atau kesalehan diri sendiri tanpa menyandarkannya kepada Allah dinamakan...",
               "image_placeholder": "penyakit_hati_ujub",
-              "options": [
-                "'Ujub",
-                "Tawadhu",
-                "Qanaah",
-                "Wara'"
-              ],
-              "correct_answer": 0,
-              "explanation": "Ujub adalah memandang diri sendiri mulia dan melupakan bahwa semua karunia datang dari Allah semata."
+              "correct_answer": "[\"'Ujub\", \"Tawadhu\", \"Qanaah\", \"Wara'\"]"
             },
             {
               "id": "q_2406_04",
               "type": "fill_in_blank",
               "question": "Kesombongan (Kibar) hakiki menurut sabda Rasulullah SAW adalah menolak kebenaran dan merendahkan ... sesama.",
-              "options": [
-                "Manusia"
-              ],
-              "correct_answer": "Al-Kibru batharul haqqi wa ghamthun naas' (Sombong adalah menolak kebenaran dan meremehkan manusia)."
+              "correct_answer": "Manusia",
+              "explanation": "Al-Kibru batharul haqqi wa ghamthun naas' (Sombong adalah menolak kebenaran dan meremehkan manusia)."
             },
             {
               "id": "q_2406_05",
               "type": "scramble_word",
               "question": "Susun huruf penyakit pamer amalan saleh demi pujian orang: R - I - Y - A",
-              "options": [
-                "R - I - Y - A"
-              ],
               "scrambled_hint": "R - I - Y - A",
-              "correct_answer": "RIYA",
-              "explanation": "Riya' membatalkan pahala ibadah karena mempersekutukan niat kepada selain Allah SWT."
+              "correct_answer": "R - I - Y - A",
+              "explanation": "RIYA"
             },
             {
               "id": "q_2406_06",
@@ -13522,19 +13289,12 @@
                   "left": "Hasad",
                   "right": "Dengki dan benci melihat orang lain mendapat nikmat"
                 }
-              ],
-              "explanation": "Pembersihan jiwa (tazkiyatun nafs) membebaskan hati dari belenggu penyakit-penyakit batin ini."
+              ]
             },
             {
               "id": "q_2406_07",
               "type": "ordering",
               "question": "Urutkan 3 golongan pertama yang diadili dan dicampakkan ke neraka karena riya' (Hadits Muslim):",
-              "options": [
-                "Orang yang gugur di medan perang agar dijuluki pemberani",
-                "Orang berilmu dan qari' agar dijuluki alim serba tahu",
-                "Orang dermawan gemar berinfak agar dijuluki pemurah",
-                "Niat yang tidak ikhlas mencampakkan amal ke api neraka"
-              ],
               "items": [
                 "Orang yang gugur di medan perang agar dijuluki pemberani",
                 "Orang berilmu dan qari' agar dijuluki alim serba tahu",
@@ -13547,41 +13307,27 @@
                 2,
                 3
               ],
-              "correct_answer": "[0, 1, 2, 3]",
-              "explanation": "Ketiga golongan mulia ini binasa karena motif amal mereka adalah mengejar pengakuan manusia di dunia."
+              "correct_answer": "[\"Orang yang gugur di medan perang agar dijuluki pemberani\", \"Orang berilmu dan qari' agar dijuluki alim serba tahu\", \"Orang dermawan gemar berinfak agar dijuluki pemurah\", \"Niat yang tidak ikhlas mencampakkan amal ke api neraka\"]",
+              "explanation": "[0, 1, 2, 3]"
             },
             {
               "id": "q_2406_08",
               "type": "multiple_choice",
               "question": "Iri hati yang diperbolehkan (Ghibtah) hanya ada pada 2 hal: orang yang menginfakkan hartanya di jalan kebenaran dan?",
-              "options": [
-                "Orang berilmu Al-Qur'an yang mengamalkan dan mengajarkannya",
-                "Orang yang tampan dan disukai banyak orang",
-                "Pemilik rumah paling besar",
-                "Pejabat dengan kedudukan tinggi"
-              ],
-              "correct_answer": 0,
-              "explanation": "Hadits Bukhari: 'La hasada illa fitsnatain...' tidak boleh iri kecuali pada dermawan yang ikhlas dan pengamal Al-Qur'an."
+              "correct_answer": "[\"Orang berilmu Al-Qur'an yang mengamalkan dan mengajarkannya\", \"Orang yang tampan dan disukai banyak orang\", \"Pemilik rumah paling besar\", \"Pejabat dengan kedudukan tinggi\"]"
             },
             {
               "id": "q_2406_09",
               "type": "true_false",
               "question": "Tidak akan masuk surga orang yang di dalam hatinya terdapat kesombongan seberat biji sawi (dzarrah).",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Hadits riwayat Muslim menegaskan bahaya kesombongan sekecil apapun di hadapan Allah SWT."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2406_10",
               "type": "fill_in_blank",
               "question": "Penyucian dan pembersihan jiwa dari akhlak tercela dinamakan Tazkiyatun ...",
-              "options": [
-                "Nafs"
-              ],
-              "correct_answer": "Tazkiyatun Nafs mengantarkan seorang hamba menuju hati yang selamat (qalb salim)."
+              "correct_answer": "Nafs",
+              "explanation": "Tazkiyatun Nafs mengantarkan seorang hamba menuju hati yang selamat (qalb salim)."
             }
           ]
         },
@@ -13593,59 +13339,35 @@
               "id": "q_2407_01",
               "type": "multiple_choice",
               "question": "Rasulullah SAW memerintahkan umatnya untuk memperbanyak mengingat 'pemutus segala kelezatan duniawi' (hadzimulladz-dzaat), yaitu?",
-              "options": [
-                "Kematian (Maut)",
-                "Kemiskinan",
-                "Penyakit fisik",
-                "Bencana alam"
-              ],
-              "correct_answer": 0,
-              "explanation": "Mengingat kematian melunakkan hati yang keras, menghapus angan-angan kosong, dan mendorong ketaatan beramal."
+              "correct_answer": "[\"Kematian (Maut)\", \"Kemiskinan\", \"Penyakit fisik\", \"Bencana alam\"]"
             },
             {
               "id": "q_2407_02",
               "type": "true_false",
               "question": "Zuhud bukan berarti mengharamkan yang halal atau membuang harta, melainkan tidak menggantungkan hati pada dunia.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Sebagaimana dikatakan Hasan Al-Bashri: harta ada di tanganmu namun jangan sampai masuk dan menguasai hatimu."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2407_03",
               "type": "image_quiz",
               "question": "Sabda Nabi kepada Ibnu Umar: 'Jadilah engkau di dunia ini seakan-akan orang asing atau orang yang sedang...'",
               "image_placeholder": "musafir_mengembara_dunia",
-              "options": [
-                "Menyeberang jalan (Musafir)",
-                "Menimbun emas",
-                "Bermain-main",
-                "Membangun istana"
-              ],
-              "correct_answer": 0,
-              "explanation": "Kun fid-dunya ka-annaka gharibun aw 'abiru sabiil' (Jadilah engkau di dunia laksana orang asing atau pengembara musafir)."
+              "correct_answer": "[\"Menyeberang jalan (Musafir)\", \"Menimbun emas\", \"Bermain-main\", \"Membangun istana\"]"
             },
             {
               "id": "q_2407_04",
               "type": "fill_in_blank",
               "question": "Bukanlah kekayaan itu karena banyaknya perhiasan dan harta, melainkan kekayaan sejati adalah kekayaan ... (ghinan nafs).",
-              "options": [
-                "Jiwa"
-              ],
-              "correct_answer": "Hadits Bukhari & Muslim: 'Laisal ghina 'an katsratil 'aradh, wa laakinnal ghina ghinan nafs' (Kaya jiwa dan hati)."
+              "correct_answer": "Jiwa",
+              "explanation": "Hadits Bukhari & Muslim: 'Laisal ghina 'an katsratil 'aradh, wa laakinnal ghina ghinan nafs' (Kaya jiwa dan hati)."
             },
             {
               "id": "q_2407_05",
               "type": "scramble_word",
               "question": "Susun huruf sikap rela menerima dan merasa cukup atas pemberian Allah: Q - A - N - A - A - H",
-              "options": [
-                "Q - A - N - A - A - H"
-              ],
               "scrambled_hint": "Q - A - N - A - A - H",
-              "correct_answer": "QANAAH",
-              "explanation": "Qana'ah membawa ketenangan batin dan menjauhkan rasa iri terhadap nikmat orang lain."
+              "correct_answer": "Q - A - N - A - A - H",
+              "explanation": "QANAAH"
             },
             {
               "id": "q_2407_06",
@@ -13664,18 +13386,12 @@
                   "left": "Wara'",
                   "right": "Menjauhi perkara syubhat karena takut terjatuh pada yang haram"
                 }
-              ],
-              "explanation": "Zuhud menyeimbangkan kenikmatan duniawi dengan orientasi akhirat yang abadi."
+              ]
             },
             {
               "id": "q_2407_07",
               "type": "ordering",
               "question": "Urutkan 3 hal yang mengantar jenazah ke kubur, di mana dua kembali dan hanya satu yang setia menemani:",
-              "options": [
-                "Keluarganya (kembali pulang)",
-                "Hartanya (kembali pulang)",
-                "Amal perbuatannya (setia menemani dalam kubur)"
-              ],
               "items": [
                 "Keluarganya (kembali pulang)",
                 "Hartanya (kembali pulang)",
@@ -13686,41 +13402,27 @@
                 1,
                 2
               ],
-              "correct_answer": "[0, 1, 2]",
-              "explanation": "Hadits Shahih Bukhari: keluarga dan harta kembali pulang, hanya amal saleh yang kekal menemani di liang lahat."
+              "correct_answer": "[\"Keluarganya (kembali pulang)\", \"Hartanya (kembali pulang)\", \"Amal perbuatannya (setia menemani dalam kubur)\"]",
+              "explanation": "[0, 1, 2]"
             },
             {
               "id": "q_2407_08",
               "type": "multiple_choice",
               "question": "Siapakah orang yang paling cerdas menurut sabda Rasulullah SAW?",
-              "options": [
-                "Orang yang mengingat kematian dan mempersiapkan bekal sesudahnya",
-                "Orang yang menghafal seluruh buku",
-                "Orang yang berhasil mengumpulkan emas",
-                "Orang yang menang diplomasi politik"
-              ],
-              "correct_answer": 0,
-              "explanation": "Hadits Ibnu Majah: orang yang paling cerdik adalah yang paling banyak mengingat mati dan paling siap menyambutnya."
+              "correct_answer": "[\"Orang yang mengingat kematian dan mempersiapkan bekal sesudahnya\", \"Orang yang menghafal seluruh buku\", \"Orang yang berhasil mengumpulkan emas\", \"Orang yang menang diplomasi politik\"]"
             },
             {
               "id": "q_2407_09",
               "type": "true_false",
               "question": "Perbandingan kenikmatan dunia dibanding akhirat seperti seseorang yang mencelupkan jarinya ke lautan lalu melihat air yang menempel di jarinya.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Sabda Nabi SAW dalam Shahih Muslim: sisa air di jari itulah perumpamaan dunia, dan samudra luas adalah akhirat."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2407_10",
               "type": "fill_in_blank",
               "question": "Apabila anak Adam meninggal dunia, maka terputuslah amalnya kecuali tiga perkara: sedekah jariyah, ilmu yang bermanfaat, dan ... shalih yang mendoakannya.",
-              "options": [
-                "Anak"
-              ],
-              "correct_answer": "Hadits riwayat Muslim: 'Aw waladin shaalihin yad'uu lah' (Anak shalih yang senantiasa mendoakan orang tuanya)."
+              "correct_answer": "Anak",
+              "explanation": "Hadits riwayat Muslim: 'Aw waladin shaalihin yad'uu lah' (Anak shalih yang senantiasa mendoakan orang tuanya)."
             }
           ]
         },
@@ -13732,59 +13434,35 @@
               "id": "q_2408_01",
               "type": "multiple_choice",
               "question": "Ayat teragung dalam Al-Qur'an yang disunnahkan dibaca setiap selesai shalat fardhu dan zikir pagi petang adalah?",
-              "options": [
-                "Ayat Kursi (Al-Baqarah: 255)",
-                "Surah Al-Mulk",
-                "Surah Yasin",
-                "Surah Al-Kahfi"
-              ],
-              "correct_answer": 0,
-              "explanation": "Membaca Ayat Kursi di pagi hari melindungi dari gangguan setan hingga sore hari (HR. Al-Hakim)."
+              "correct_answer": "[\"Ayat Kursi (Al-Baqarah: 255)\", \"Surah Al-Mulk\", \"Surah Yasin\", \"Surah Al-Kahfi\"]"
             },
             {
               "id": "q_2408_02",
               "type": "true_false",
               "question": "Membaca Sayyidul Istighfar di pagi hari dengan penuh keyakinan menjamin masuk surga jika ia wafat pada hari itu.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Sabda Nabi SAW dalam Shahih Bukhari tentang keutamaan agung membaca Sayyidul Istighfar."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2408_03",
               "type": "image_quiz",
               "question": "Doa perlindungan dari marabahaya: 'Bismillaahilladzii laa yadhurru ma'asmihii syai-un fil ardhi wa laa fis-samaa-i wa huwas...' Dibaca sebanyak 3 kali setiap pagi dan petang.",
               "image_placeholder": "doa_bismillahilladzi",
-              "options": [
-                "Samii'ul 'Aliim",
-                "Ghafuurur Rahiim",
-                "'Aziizul Hakiim",
-                "Rahmaanur Rahiim"
-              ],
-              "correct_answer": 0,
-              "explanation": "Barangsiapa membacanya 3 kali, niscaya tidak akan ada sesuatu pun di bumi dan di langit yang membahayakannya."
+              "correct_answer": "[\"Samii'ul 'Aliim\", \"Ghafuurur Rahiim\", \"'Aziizul Hakiim\", \"Rahmaanur Rahiim\"]"
             },
             {
               "id": "q_2408_04",
               "type": "fill_in_blank",
               "question": "Tiga surah perlindungan (Al-Mu'awwidzat) yang dibaca 3 kali saat pagi dan petang adalah Al-Ikhlas, Al-Falaq, dan An-...",
-              "options": [
-                "Naas"
-              ],
-              "correct_answer": "Membaca ketiga surah ini mencukupkan perlindungan seorang muslim dari segala kejahatan makhluk (HR. Abu Dawud)."
+              "correct_answer": "Naas",
+              "explanation": "Membaca ketiga surah ini mencukupkan perlindungan seorang muslim dari segala kejahatan makhluk (HR. Abu Dawud)."
             },
             {
               "id": "q_2408_05",
               "type": "scramble_word",
               "question": "Susun huruf sebutan doa permohonan ampunan paling agung: S - A - Y - Y - I - D - U - L - I - S - T - I - G - H - F - A - R",
-              "options": [
-                "S - A - Y - Y - I - D - U - L - I - S - T - I - G - H - F - A - R"
-              ],
               "scrambled_hint": "S - A - Y - Y - I - D - U - L - I - S - T - I - G - H - F - A - R",
-              "correct_answer": "SAYYIDULISTIGHFAR",
-              "explanation": "Sayyidul Istighfar mengandung pengakuan nikmat Allah, kehambaan, dan permohonan ampun atas segala dosa."
+              "correct_answer": "S - A - Y - Y - I - D - U - L - I - S - T - I - G - H - F - A - R",
+              "explanation": "SAYYIDULISTIGHFAR"
             },
             {
               "id": "q_2408_06",
@@ -13803,19 +13481,12 @@
                   "left": "Hasbiyallahu la ilaha illa Huwa 7x",
                   "right": "Dicukupkan dari segala urusan yang menggelisahkan"
                 }
-              ],
-              "explanation": "Dzikir menentramkan sanubari dan mendatangkan perlindungan para malaikat."
+              ]
             },
             {
               "id": "q_2408_07",
               "type": "ordering",
               "question": "Urutkan lafadz doa awal Sayyidul Istighfar:",
-              "options": [
-                "Allahumma Anta Rabbii laa ilaaha illaa Anta",
-                "Khalaqtanii wa ana 'abduka",
-                "Wa ana 'alaa 'ahdika wa wa'dika mastatha'tu",
-                "A'uudzu bika min syarri maa shana'tu"
-              ],
               "items": [
                 "Allahumma Anta Rabbii laa ilaaha illaa Anta",
                 "Khalaqtanii wa ana 'abduka",
@@ -13828,41 +13499,27 @@
                 2,
                 3
               ],
-              "correct_answer": "[0, 1, 2, 3]",
-              "explanation": "Lafadz Sayyidul Istighfar diawali tauhid rububiyyah dan ikrar janji setia penghambaan kepada Allah."
+              "correct_answer": "[\"Allahumma Anta Rabbii laa ilaaha illaa Anta\", \"Khalaqtanii wa ana 'abduka\", \"Wa ana 'alaa 'ahdika wa wa'dika mastatha'tu\", \"A'uudzu bika min syarri maa shana'tu\"]",
+              "explanation": "[0, 1, 2, 3]"
             },
             {
               "id": "q_2408_08",
               "type": "multiple_choice",
               "question": "Doa memohon keselamatan jasmani dan rohani setiap pagi dan petang: 'Allahumma 'aafinii fii badanii, Allahumma 'aafinii fii sam'ii, Allahumma 'aafinii fii...'",
-              "options": [
-                "Basharii (Penglihatanku)",
-                "Maalii (Hartaku)",
-                "Qalbii (Hatiku)",
-                "Waladii (Anakku)"
-              ],
-              "correct_answer": 0,
-              "explanation": "Allahumma 'aafinii fii basharii, laa ilaaha illaa Anta' memohon kesehatan badan, pendengaran, dan penglihatan."
+              "correct_answer": "[\"Basharii (Penglihatanku)\", \"Maalii (Hartaku)\", \"Qalbii (Hatiku)\", \"Waladii (Anakku)\"]"
             },
             {
               "id": "q_2408_09",
               "type": "true_false",
               "question": "Membaca 'Radhiitu billaahi Rabba, wa bil Islaami diina, wa bi Muhammadin nabiyya' 3 kali dijamin keridhaan Allah di hari kiamat.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Sabda Nabi SAW: adalah hak atas Allah untuk meridhai orang yang membacanya di pagi dan petang hari."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2408_10",
               "type": "fill_in_blank",
               "question": "Dzikir perlindungan dari kejahatan makhluk: 'A'uudzu bikalimaatillaahit taammaati min syarri maa ...'",
-              "options": [
-                "Khalaq"
-              ],
-              "correct_answer": "Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari kejahatan apa yang Dia ciptakan' (HR. Muslim)."
+              "correct_answer": "Khalaq",
+              "explanation": "Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari kejahatan apa yang Dia ciptakan' (HR. Muslim)."
             }
           ]
         },
@@ -13874,59 +13531,35 @@
               "id": "q_2409_01",
               "type": "multiple_choice",
               "question": "Doa ketika hendak keluar rumah: 'Bismillahi tawakkaltu 'alallahi, laa haula wa laa quwwata illaa...'",
-              "options": [
-                "Billaah",
-                "Subhanallah",
-                "Alhamdulillah",
-                "Allahu Akbar"
-              ],
-              "correct_answer": 0,
-              "explanation": "Malaikat akan menyeru: 'Engkau telah diberi petunjuk, dicukupi, dan dilindungi, serta setan menjauh darimu.'"
+              "correct_answer": "[\"Billaah\", \"Subhanallah\", \"Alhamdulillah\", \"Allahu Akbar\"]"
             },
             {
               "id": "q_2409_02",
               "type": "true_false",
               "question": "Doa saat bercermin memohon agar Allah memperbagus akhlak sebagaimana Dia telah memperbagus rupa fisik.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. 'Allahumma kamaa hassanta khalqii fahassin khuluqii' (Ya Allah, perbaguslah akhlakku sebagaimana fisikku)."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2409_03",
               "type": "image_quiz",
               "question": "Doa naik kendaraan darat/udara: 'Subhaanal-ladzii sakh-khara lanaa haadzaa wa maa kunnaa lahu muqriniin, wa innaa ilaa Rabbinaa la...'",
               "image_placeholder": "doa_naik_kendaraan",
-              "options": [
-                "Munqalibuun (Akan kembali)",
-                "Ghaalibuun",
-                "Shaabiruun",
-                "Syaakiruun"
-              ],
-              "correct_answer": 0,
-              "explanation": "Doa naik kendaraan bersumber dari Surah Az-Zukhruf ayat 13-14 yang menegaskan rasa syukur dan kepasrahan safar."
+              "correct_answer": "[\"Munqalibuun (Akan kembali)\", \"Ghaalibuun\", \"Shaabiruun\", \"Syaakiruun\"]"
             },
             {
               "id": "q_2409_04",
               "type": "fill_in_blank",
               "question": "Doa keluar dari kamar mandi/toilet memohon ampunan dengan mengucapkan: '... (Ghufranaka)'.",
-              "options": [
-                "Ghufranaka"
-              ],
-              "correct_answer": "Ghufranaka bermakna 'Aku memohon ampunan-Mu' atas keterbatasan bersyukur setelah diringankan dari kotoran tubuh."
+              "correct_answer": "Ghufranaka",
+              "explanation": "Ghufranaka bermakna 'Aku memohon ampunan-Mu' atas keterbatasan bersyukur setelah diringankan dari kotoran tubuh."
             },
             {
               "id": "q_2409_05",
               "type": "scramble_word",
               "question": "Susun huruf doa penutup majelis pelebur dosa: K - A - F - F - A - R - A - T - U - L - M - A - J - L - I - S",
-              "options": [
-                "K - A - F - F - A - R - A - T - U - L - M - A - J - L - I - S"
-              ],
               "scrambled_hint": "K - A - F - F - A - R - A - T - U - L - M - A - J - L - I - S",
-              "correct_answer": "KAFFARATULMAJLIS",
-              "explanation": "Subhanakallahumma wa bihamdika asyhadu alla ilaha illa anta astaghfiruka wa atubu ilaik."
+              "correct_answer": "K - A - F - F - A - R - A - T - U - L - M - A - J - L - I - S",
+              "explanation": "KAFFARATULMAJLIS"
             },
             {
               "id": "q_2409_06",
@@ -13945,19 +13578,12 @@
                   "left": "Masuk Masjid",
                   "right": "Allahummaftah lii abwaaba rahmatik"
                 }
-              ],
-              "explanation": "Menghidupkan doa dalam setiap rutinitas menjadikan seluruh gerak-gerik bernilai ibadah."
+              ]
             },
             {
               "id": "q_2409_07",
               "type": "ordering",
               "question": "Urutkan adab makan dan berdoa menurut sunnah Rasulullah SAW:",
-              "options": [
-                "Mencuci kedua tangan dan berniat baik",
-                "Membaca bismillah sebelum makan",
-                "Makan dengan tangan kanan mengambil makanan terdekat",
-                "Membaca alhamdulillah setelah selesai makan"
-              ],
               "items": [
                 "Mencuci kedua tangan dan berniat baik",
                 "Membaca bismillah sebelum makan",
@@ -13970,41 +13596,27 @@
                 2,
                 3
               ],
-              "correct_answer": "[0, 1, 2, 3]",
-              "explanation": "Sunnah makan terangkum dalam sabda Nabi kepada Umar bin Abi Salamah: 'Sammillaah, wa kul biyamiinika, wa kul mimmaa yaliik.'"
+              "correct_answer": "[\"Mencuci kedua tangan dan berniat baik\", \"Membaca bismillah sebelum makan\", \"Makan dengan tangan kanan mengambil makanan terdekat\", \"Membaca alhamdulillah setelah selesai makan\"]",
+              "explanation": "[0, 1, 2, 3]"
             },
             {
               "id": "q_2409_08",
               "type": "multiple_choice",
               "question": "Ketika orang lain bersin dan mengucapkan 'Alhamdulillah', sunnah bagi kita yang mendengarnya mendoakan dengan?",
-              "options": [
-                "Yarhamukallah (Semoga Allah merahmatimu)",
-                "Yahdikumullah",
-                "Syifakallah",
-                "Jazakallah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Bila didoakan 'Yarhamukallah', yang bersin membalas dengan 'Yahdikumullahu wa yushlihu baalakum'."
+              "correct_answer": "[\"Yarhamukallah (Semoga Allah merahmatimu)\", \"Yahdikumullah\", \"Syifakallah\", \"Jazakallah\"]"
             },
             {
               "id": "q_2409_09",
               "type": "true_false",
               "question": "Doa perlindungan dari hutang yang melilit dan ketakutan (kegundahan) diajarkan langsung oleh Nabi kepada sahabat Abu Umamah.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. 'Allahumma inni a'udzu bika minal hammi wal hazan... wa ghalabatid-dayni wa qahrir-rijaal.'"
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2409_10",
               "type": "fill_in_blank",
               "question": "Doa memakai pakaian baru: 'Alhamdulillahilladzii kasaanii hadzaats-tsauba wa razaqaniihi min ghairi haulin minnii wa laa ...'",
-              "options": [
-                "Quwwah"
-              ],
-              "correct_answer": "Segala puji bagi Allah yang telah memakaikan pakaian ini tanpa ada daya dan kekuatan dariku' (HR. Abu Dawud)."
+              "correct_answer": "Quwwah",
+              "explanation": "Segala puji bagi Allah yang telah memakaikan pakaian ini tanpa ada daya dan kekuatan dariku' (HR. Abu Dawud)."
             }
           ]
         },
@@ -14016,59 +13628,35 @@
               "id": "q_2410_01",
               "type": "multiple_choice",
               "question": "Waktu mustajab di mana doa antara dua adzan tidak akan tertolak adalah waktu antara?",
-              "options": [
-                "Adzan dan Iqamah",
-                "Shubuh dan Terbit Fajar",
-                "Ashar dan Maghrib",
-                "Tahajud dan Witir"
-              ],
-              "correct_answer": 0,
-              "explanation": "Sabda Nabi SAW: 'Ad-du'aa-u laa yuraddu bainal adzaani wal iqaamah' (HR. Tirmidzi)."
+              "correct_answer": "[\"Adzan dan Iqamah\", \"Shubuh dan Terbit Fajar\", \"Ashar dan Maghrib\", \"Tahajud dan Witir\"]"
             },
             {
               "id": "q_2410_02",
               "type": "true_false",
               "question": "Keadaan seorang hamba yang paling dekat dengan Rabb-nya adalah ketika ia sedang dalam posisi sujud dalam shalat.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Sabda Nabi SAW: 'Aqrabu ma yakuunul 'abdu min Rabbihi wa huwa saajidun, fa-aktsirud-du'aa' (Maka perbanyaklah doa saat sujud)."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2410_03",
               "type": "image_quiz",
               "question": "Waktu turunnya Allah ke langit dunia pada setiap malam untuk mengabulkan doa dan mengampuni dosa para hamba adalah pada...",
               "image_placeholder": "sepertiga_malam_terakhir",
-              "options": [
-                "Sepertiga malam terakhir",
-                "Awal malam setelah Isya",
-                "Tepat tengah malam",
-                "Waktu dhuha"
-              ],
-              "correct_answer": 0,
-              "explanation": "Hadits Muttafaqun 'Alaih: Allah menyeru di sepertiga malam terakhir: 'Siapa yang berdoa kepada-Ku niscaya Aku kabulkan.'"
+              "correct_answer": "[\"Sepertiga malam terakhir\", \"Awal malam setelah Isya\", \"Tepat tengah malam\", \"Waktu dhuha\"]"
             },
             {
               "id": "q_2410_04",
               "type": "fill_in_blank",
               "question": "Doa orang yang berpuasa ketika ia sedang ... tidak akan tertolak oleh Allah SWT.",
-              "options": [
-                "Berbuka"
-              ],
-              "correct_answer": "Tiga orang yang tidak ditolak doanya: orang yang berpuasa hingga berbuka, pemimpin yang adil, dan doa orang yang terzalimi.'"
+              "correct_answer": "Berbuka",
+              "explanation": "Tiga orang yang tidak ditolak doanya: orang yang berpuasa hingga berbuka, pemimpin yang adil, dan doa orang yang terzalimi.'"
             },
             {
               "id": "q_2410_05",
               "type": "scramble_word",
               "question": "Susun huruf sebutan doa senjata orang mukmin: S - I - L - A - H - U - L - M - U - K - M - I - N",
-              "options": [
-                "S - I - L - A - H - U - L - M - U - K - M - I - N"
-              ],
               "scrambled_hint": "S - I - L - A - H - U - L - M - U - K - M - I - N",
-              "correct_answer": "SILAHULMUKMIN",
-              "explanation": "Ad-Du'aa-u silaahul mu'min' (Doa adalah senjata ampuh orang mukmin dan pilar penegak agama)."
+              "correct_answer": "S - I - L - A - H - U - L - M - U - K - M - I - N",
+              "explanation": "SILAHULMUKMIN"
             },
             {
               "id": "q_2410_06",
@@ -14087,19 +13675,12 @@
                   "left": "Hari Jumat bada Ashar",
                   "right": "Satu waktu khusus di hari Jumat yang ijabah"
                 }
-              ],
-              "explanation": "Memilih waktu dan tempat yang mulia meningkatkan keutamaan diterimanya permohonan hamba."
+              ]
             },
             {
               "id": "q_2410_07",
               "type": "ordering",
               "question": "Urutkan adab susunan berdoa yang sempurna menurut tuntunan sunnah Rasulullah SAW:",
-              "options": [
-                "Memuji dan mengagungkan Allah SWT (tahmid)",
-                "Membaca shalawat atas Nabi Muhammad SAW",
-                "Menyampaikan hajat doa dengan khusyuk dan yakin",
-                "Menutup kembali dengan shalawat dan hamdalah"
-              ],
               "items": [
                 "Memuji dan mengagungkan Allah SWT (tahmid)",
                 "Membaca shalawat atas Nabi Muhammad SAW",
@@ -14112,41 +13693,27 @@
                 2,
                 3
               ],
-              "correct_answer": "[0, 1, 2, 3]",
-              "explanation": "Nabi SAW mendengar seorang berdoa diawali pujian kepada Allah dan shalawat, lalu bersabda: 'Berdoalah, niscaya diberi.'"
+              "correct_answer": "[\"Memuji dan mengagungkan Allah SWT (tahmid)\", \"Membaca shalawat atas Nabi Muhammad SAW\", \"Menyampaikan hajat doa dengan khusyuk dan yakin\", \"Menutup kembali dengan shalawat dan hamdalah\"]",
+              "explanation": "[0, 1, 2, 3]"
             },
             {
               "id": "q_2410_08",
               "type": "multiple_choice",
               "question": "Salah satu penyebab utama doa terhalang dan tidak dikabulkan oleh Allah SWT adalah?",
-              "options": [
-                "Mengkonsumsi makanan dan minuman dari harta haram",
-                "Berdoa dengan suara lirih",
-                "Berdoa tanpa menangis",
-                "Berdoa saat memakai pakaian putih"
-              ],
-              "correct_answer": 0,
-              "explanation": "Nabi menceritakan pemuda berdebu mengangkat tangan berdoa, namun makanannya haram dan pakaiannya haram: 'Faan-naa yustajaabu lidzaalik?'"
+              "correct_answer": "[\"Mengkonsumsi makanan dan minuman dari harta haram\", \"Berdoa dengan suara lirih\", \"Berdoa tanpa menangis\", \"Berdoa saat memakai pakaian putih\"]"
             },
             {
               "id": "q_2410_09",
               "type": "true_false",
               "question": "Mengangkat kedua tangan setinggi dada menghadap kiblat termasuk sunnah adab dalam berdoa.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Sabda Nabi SAW: 'Sesungguhnya Allah Maha Pemalu lagi Maha Mulia, Dia malu membiarkan tangan hamba-Nya kembali kosong.'"
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2410_10",
               "type": "fill_in_blank",
               "question": "Penutup rangkaian doa yang bermakna 'Kabulkanlah permohonan kami wahai Allah' adalah lafadz ...",
-              "options": [
-                "Aamiin"
-              ],
-              "correct_answer": "Aamiin adalah stempel permohonan yang diaminkan para malaikat di langit dan bumi."
+              "correct_answer": "Aamiin",
+              "explanation": "Aamiin adalah stempel permohonan yang diaminkan para malaikat di langit dan bumi."
             }
           ]
         }
@@ -24063,10 +23630,8 @@
               "id": "q_2201_04",
               "type": "fill_in_blank",
               "question": "Wali nikah yang paling berhak menikahkan seorang wanita dari jalur nasab pertama kali adalah ayah ...",
-              "options": [
-                "Kandung"
-              ],
-              "correct_answer": "Ayah kandung adalah wali mujbir / wali aqrab yang memiliki hak pertama dalam perwalian nikah."
+              "correct_answer": "Kandung",
+              "explanation": "Ayah kandung adalah wali mujbir / wali aqrab yang memiliki hak pertama dalam perwalian nikah."
             },
             {
               "id": "q_2201_05",
@@ -24152,10 +23717,8 @@
               "id": "q_2201_10",
               "type": "fill_in_blank",
               "question": "Hukum mengadakan pesta jamuan makan pernikahan (walimatul 'ursy) menurut mayoritas ulama adalah sunnah ...",
-              "options": [
-                "Muakkad"
-              ],
-              "correct_answer": "Walimatul 'ursy adalah sunnah muakkadah untuk mengumumkan pernikahan dan menghindari fitnah."
+              "correct_answer": "Muakkad",
+              "explanation": "Walimatul 'ursy adalah sunnah muakkadah untuk mengumumkan pernikahan dan menghindari fitnah."
             }
           ]
         },
@@ -24205,10 +23768,8 @@
               "id": "q_2202_04",
               "type": "fill_in_blank",
               "question": "Sikap istri yang membangkang atau menolak menunaikan hak kewajiban suami tanpa alasan syar'i disebut ...",
-              "options": [
-                "Nusyuz"
-              ],
-              "correct_answer": "Nusyuz adalah kedurhakaan atau pembangkangan istri terhadap kewajiban rumah tangga yang digariskan Islam."
+              "correct_answer": "Nusyuz",
+              "explanation": "Nusyuz adalah kedurhakaan atau pembangkangan istri terhadap kewajiban rumah tangga yang digariskan Islam."
             },
             {
               "id": "q_2202_05",
@@ -24294,10 +23855,8 @@
               "id": "q_2202_10",
               "type": "fill_in_blank",
               "question": "Sebaik-baik mahar menurut hadits Nabi SAW adalah mahar yang paling ... beban penyediaannya.",
-              "options": [
-                "Ringan"
-              ],
-              "correct_answer": "Sebaik-baik wanita adalah yang paling mudah (ringan) maharnya' (HR. Ahmad)."
+              "correct_answer": "Ringan",
+              "explanation": "Sebaik-baik wanita adalah yang paling mudah (ringan) maharnya' (HR. Ahmad)."
             }
           ]
         },
@@ -24347,10 +23906,8 @@
               "id": "q_2203_04",
               "type": "fill_in_blank",
               "question": "Masa iddah bagi wanita yang diceraikan dalam keadaan hamil adalah sampai ia ... kandungannya.",
-              "options": [
-                "Melahirkan"
-              ],
-              "correct_answer": "Firman Allah dalam Surah At-Talaq ayat 4 menyatakan iddah wanita hamil berakhir saat melahirkan."
+              "correct_answer": "Melahirkan",
+              "explanation": "Firman Allah dalam Surah At-Talaq ayat 4 menyatakan iddah wanita hamil berakhir saat melahirkan."
             },
             {
               "id": "q_2203_05",
@@ -24436,10 +23993,8 @@
               "id": "q_2203_10",
               "type": "fill_in_blank",
               "question": "Sumpah seorang suami yang menuduh istrinya berzina dengan melaknat diri sendiri disebut ...",
-              "options": [
-                "Lian"
-              ],
-              "correct_answer": "Li'an dilakukan dengan sumpah 4 kali bersaksi demi Allah dan kelima memohon laknat jika berdusta."
+              "correct_answer": "Lian",
+              "explanation": "Li'an dilakukan dengan sumpah 4 kali bersaksi demi Allah dan kelima memohon laknat jika berdusta."
             }
           ]
         },
@@ -24489,8 +24044,8 @@
               "id": "q_2204_04",
               "type": "fill_in_blank",
               "question": "Batas maksimal pemberian wasiat harta kepada selain ahli waris adalah sepertiga (1/...) dari total harta.",
-              "options": 3,
-              "correct_answer": "Wasiat dibatasi maksimal 1/3 dari total peninggalan bersih agar tidak merugikan para ahli waris yang sah."
+              "correct_answer": 3,
+              "explanation": "Wasiat dibatasi maksimal 1/3 dari total peninggalan bersih agar tidak merugikan para ahli waris yang sah."
             },
             {
               "id": "q_2204_05",
@@ -24576,10 +24131,8 @@
               "id": "q_2204_10",
               "type": "fill_in_blank",
               "question": "Sebab terjadinya hak waris-mewarisi ada tiga: hubungan nasab (darah), perkawinan sah, dan pembebasan budak (...).",
-              "options": [
-                "Wala"
-              ],
-              "correct_answer": "Tiga sebab hak waris dalam syariat Islam: an-nasab, an-nikah, dan al-wala'."
+              "correct_answer": "Wala",
+              "explanation": "Tiga sebab hak waris dalam syariat Islam: an-nasab, an-nikah, dan al-wala'."
             }
           ]
         },
@@ -24629,8 +24182,8 @@
               "id": "q_2205_04",
               "type": "fill_in_blank",
               "question": "Perbandingan pembagian hak waris antara anak laki-laki dan anak perempuan menurut Surah An-Nisa ayat 11 adalah dua berbanding ...",
-              "options": 1,
-              "correct_answer": "Bagian seorang anak laki-laki sama dengan bagian dua orang anak perempuan' (2 : 1)."
+              "correct_answer": 1,
+              "explanation": "Bagian seorang anak laki-laki sama dengan bagian dua orang anak perempuan' (2 : 1)."
             },
             {
               "id": "q_2205_05",
@@ -24716,10 +24269,8 @@
               "id": "q_2205_10",
               "type": "fill_in_blank",
               "question": "Kondisi di mana total nilai saham bagian ashabul furudh melebihi angka asal masalah disebut peristiwa ...",
-              "options": [
-                "Aul"
-              ],
-              "correct_answer": "Al-'Aul adalah bertambahnya jumlah pokok saham fardhu sehingga angka penyebut asal masalah dinaikkan secara proporsional."
+              "correct_answer": "Aul",
+              "explanation": "Al-'Aul adalah bertambahnya jumlah pokok saham fardhu sehingga angka penyebut asal masalah dinaikkan secara proporsional."
             }
           ]
         },
@@ -24769,10 +24320,8 @@
               "id": "q_2206_04",
               "type": "fill_in_blank",
               "question": "Hijab yang menggugurkan seluruh hak waris seseorang secara penuh dinamakan Hijab ...",
-              "options": [
-                "Hirman"
-              ],
-              "correct_answer": "Hijab Hirman menggugurkan hak waris secara total, sedangkan Hijab Nuqshan hanya mengurangi jumlah bagian."
+              "correct_answer": "Hirman",
+              "explanation": "Hijab Hirman menggugurkan hak waris secara total, sedangkan Hijab Nuqshan hanya mengurangi jumlah bagian."
             },
             {
               "id": "q_2206_05",
@@ -24855,10 +24404,8 @@
               "id": "q_2206_10",
               "type": "fill_in_blank",
               "question": "Pengembalian sisa harta warisan kepada ashabul furudh selain suami/istri secara proporsional disebut ...",
-              "options": [
-                "Radd"
-              ],
-              "correct_answer": "Ar-Radd adalah kebalikan dari 'Aul, yakni membagikan sisa tirkah kepada ashabul furudh bila tiada ashabah."
+              "correct_answer": "Radd",
+              "explanation": "Ar-Radd adalah kebalikan dari 'Aul, yakni membagikan sisa tirkah kepada ashabul furudh bila tiada ashabah."
             }
           ]
         },
@@ -24908,10 +24455,8 @@
               "id": "q_2207_04",
               "type": "fill_in_blank",
               "question": "Tuduhan palsu berbuat zina kepada seorang muslim yang baik-baik tanpa menghadirkan 4 saksi disebut had ...",
-              "options": [
-                "Qadzaf"
-              ],
-              "correct_answer": "Qadzaf diancam hukuman cambuk 80 kali dan kesaksiannya tidak diterima selama-lamanya."
+              "correct_answer": "Qadzaf",
+              "explanation": "Qadzaf diancam hukuman cambuk 80 kali dan kesaksiannya tidak diterima selama-lamanya."
             },
             {
               "id": "q_2207_05",
@@ -24997,10 +24542,8 @@
               "id": "q_2207_10",
               "type": "fill_in_blank",
               "question": "Pelaku zina yang sudah pernah menikah secara sah disebut dengan istilah pezina ...",
-              "options": [
-                "Muhshan"
-              ],
-              "correct_answer": "Pezina muhshan adalah orang yang telah baligh, berakal, merdeka, dan sudah pernah melakukan hubungan sah dalam pernikahan."
+              "correct_answer": "Muhshan",
+              "explanation": "Pezina muhshan adalah orang yang telah baligh, berakal, merdeka, dan sudah pernah melakukan hubungan sah dalam pernikahan."
             }
           ]
         },
@@ -25050,10 +24593,8 @@
               "id": "q_2208_04",
               "type": "fill_in_blank",
               "question": "Denda tebusan dosa yang wajib ditunaikan karena pelanggaran hukum Allah tertentu dinamakan ...",
-              "options": [
-                "Kaffarah"
-              ],
-              "correct_answer": "Kaffarah adalah denda penebus dosa seperti kaffarah sumpah, pembunuhan keliru, atau melanggar puasa Ramadhan."
+              "correct_answer": "Kaffarah",
+              "explanation": "Kaffarah adalah denda penebus dosa seperti kaffarah sumpah, pembunuhan keliru, atau melanggar puasa Ramadhan."
             },
             {
               "id": "q_2208_05",
@@ -25139,10 +24680,8 @@
               "id": "q_2208_10",
               "type": "fill_in_blank",
               "question": "Denda ganti rugi atas luka pada anggota badan yang belum ditentukan kadar diyat pastinya dalam nash disebut ...",
-              "options": [
-                "Hukumah"
-              ],
-              "correct_answer": "Hukumah adalah ganti rugi luka yang kadarnya ditentukan berdasarkan ijtihad adil hakim pengadilan."
+              "correct_answer": "Hukumah",
+              "explanation": "Hukumah adalah ganti rugi luka yang kadarnya ditentukan berdasarkan ijtihad adil hakim pengadilan."
             }
           ]
         },
@@ -25192,10 +24731,8 @@
               "id": "q_2209_04",
               "type": "fill_in_blank",
               "question": "Pihak yang mengajukan gugatan perkara di hadapan pengadilan disebut ...",
-              "options": [
-                "Muddai"
-              ],
-              "correct_answer": "Mudda'i adalah penggugat yang memiliki beban menghadirkan bukti (bayyinah)."
+              "correct_answer": "Muddai",
+              "explanation": "Mudda'i adalah penggugat yang memiliki beban menghadirkan bukti (bayyinah)."
             },
             {
               "id": "q_2209_05",
@@ -25281,10 +24818,8 @@
               "id": "q_2209_10",
               "type": "fill_in_blank",
               "question": "Lembaga pengawasan peradilan yang menangani kesewenang-wenangan para pejabat pemerintah dalam sejarah Islam disebut Mahkamah ...",
-              "options": [
-                "Mazhalim"
-              ],
-              "correct_answer": "Wilayatul Mazhalim adalah peradilan khusus banding untuk menindak pejabat negara yang menyalahgunakan wewenang."
+              "correct_answer": "Mazhalim",
+              "explanation": "Wilayatul Mazhalim adalah peradilan khusus banding untuk menindak pejabat negara yang menyalahgunakan wewenang."
             }
           ]
         },
@@ -25334,10 +24869,8 @@
               "id": "q_2210_04",
               "type": "fill_in_blank",
               "question": "Ketidakpastian, spekulasi berlebihan, atau penipuan dalam suatu transaksi bisnis yang dilarang Islam disebut ...",
-              "options": [
-                "Gharar"
-              ],
-              "correct_answer": "Gharar dilarang karena mengandung ketidakjelasan objek atau risiko manipulasi yang merugikan salah satu pihak."
+              "correct_answer": "Gharar",
+              "explanation": "Gharar dilarang karena mengandung ketidakjelasan objek atau risiko manipulasi yang merugikan salah satu pihak."
             },
             {
               "id": "q_2210_05",
@@ -25423,10 +24956,8 @@
               "id": "q_2210_10",
               "type": "fill_in_blank",
               "question": "Pelimpahan kuasa dari seseorang kepada pihak lain untuk melakukan suatu urusan yang dibenarkan syariat disebut ...",
-              "options": [
-                "Wakalah"
-              ],
-              "correct_answer": "Wakalah adalah akad perwakilan sah dalam pendelegasian wewenang transaksi atau pengelolaan tugas."
+              "correct_answer": "Wakalah",
+              "explanation": "Wakalah adalah akad perwakilan sah dalam pendelegasian wewenang transaksi atau pengelolaan tugas."
             }
           ]
         }
@@ -25485,10 +25016,8 @@
               "id": "q_2301_04",
               "type": "fill_in_blank",
               "question": "Khalifah Daulah Umayyah yang pertama kali mencetak mata uang dinar Islam resmi berbahasa Arab adalah Abdul Malik bin ...",
-              "options": [
-                "Marwan"
-              ],
-              "correct_answer": "Abdul Malik bin Marwan melakukan arabisasi administrasi dan mencetak dinar Islam menggantikan mata uang Romawi."
+              "correct_answer": "Marwan",
+              "explanation": "Abdul Malik bin Marwan melakukan arabisasi administrasi dan mencetak dinar Islam menggantikan mata uang Romawi."
             },
             {
               "id": "q_2301_05",
@@ -25574,10 +25103,8 @@
               "id": "q_2301_10",
               "type": "fill_in_blank",
               "question": "Panglima Bani Umayyah yang menaklukkan wilayah Sindh (India barat laut / Pakistan) pada usia muda adalah Muhammad bin ...",
-              "options": [
-                "Qasim"
-              ],
-              "correct_answer": "Muhammad bin Qasim membuka pintu masuk dakwah Islam pertama kali ke anak benua India pada tahun 712 M."
+              "correct_answer": "Qasim",
+              "explanation": "Muhammad bin Qasim membuka pintu masuk dakwah Islam pertama kali ke anak benua India pada tahun 712 M."
             }
           ]
         },
@@ -25627,10 +25154,8 @@
               "id": "q_2302_04",
               "type": "fill_in_blank",
               "question": "Universitas Islam terkenal yang didirikan oleh Perdana Menteri Nizham Al-Mulk pada era Abbasiyah bernama Madrasah ...",
-              "options": [
-                "Nizhamiyah"
-              ],
-              "correct_answer": "Madrasah Nizhamiyah melahirkan tokoh-tokoh besar seperti Imam Al-Ghazali yang menjadi guru besar di Baghdad."
+              "correct_answer": "Nizhamiyah",
+              "explanation": "Madrasah Nizhamiyah melahirkan tokoh-tokoh besar seperti Imam Al-Ghazali yang menjadi guru besar di Baghdad."
             },
             {
               "id": "q_2302_05",
@@ -25716,10 +25241,8 @@
               "id": "q_2302_10",
               "type": "fill_in_blank",
               "question": "Pemimpin pasukan Mongol yang menghancurkan Baghdad dan membunuh jutaan penduduk pada tahun 1258 M adalah Hulagu ...",
-              "options": [
-                "Khan"
-              ],
-              "correct_answer": "Hulagu Khan mengepung dan membumihanguskan Baghdad yang menandai berakhirnya khilafah Abbasiyah di Baghdad."
+              "correct_answer": "Khan",
+              "explanation": "Hulagu Khan mengepung dan membumihanguskan Baghdad yang menandai berakhirnya khilafah Abbasiyah di Baghdad."
             }
           ]
         },
@@ -25769,10 +25292,8 @@
               "id": "q_2303_04",
               "type": "fill_in_blank",
               "question": "Kota di Andalusia yang dijuluki 'Mutiara Dunia' karena kebersihan jalan berlampu dan perpustakaan megahnya adalah ...",
-              "options": [
-                "Kordoba"
-              ],
-              "correct_answer": "Cordoba di era Abdurrahman III menjadi pusat sains dan kebudayaan paling maju di seluruh benua Eropa."
+              "correct_answer": "Kordoba",
+              "explanation": "Cordoba di era Abdurrahman III menjadi pusat sains dan kebudayaan paling maju di seluruh benua Eropa."
             },
             {
               "id": "q_2303_05",
@@ -25858,10 +25379,8 @@
               "id": "q_2303_10",
               "type": "fill_in_blank",
               "question": "Kota satelit istana megah yang dibangun oleh Khalifah Abdurrahman III di luar Kordoba bernama Madinatuz ...",
-              "options": [
-                "Zahra"
-              ],
-              "correct_answer": "Madinatuz Zahra (Medina Azahara) adalah mahakarya tata kota istana bertingkat yang memesona."
+              "correct_answer": "Zahra",
+              "explanation": "Madinatuz Zahra (Medina Azahara) adalah mahakarya tata kota istana bertingkat yang memesona."
             }
           ]
         },
@@ -25911,10 +25430,8 @@
               "id": "q_2304_04",
               "type": "fill_in_blank",
               "question": "Sultan Mamluk yang berhasil mengusir sisa kekuatan Pasukan Salib dari benteng terakhir mereka di Acre (Akka) adalah Sultan Al-Asyraf ...",
-              "options": [
-                "Khalil"
-              ],
-              "correct_answer": "Al-Asyraf Khalil merebut Acre pada tahun 1291 M yang mengakhiri keberadaan koloni tentara Salib di tanah Syam."
+              "correct_answer": "Khalil",
+              "explanation": "Al-Asyraf Khalil merebut Acre pada tahun 1291 M yang mengakhiri keberadaan koloni tentara Salib di tanah Syam."
             },
             {
               "id": "q_2304_05",
@@ -26000,10 +25517,8 @@
               "id": "q_2304_10",
               "type": "fill_in_blank",
               "question": "Setelah Baghdad hancur, sultan Mamluk mengundang keturunan Abbasiyah untuk melanjutkan simbol khalifah di kota ...",
-              "options": [
-                "Kairo"
-              ],
-              "correct_answer": "Kekhalifahan Abbasiyah Kairo berstatus simbolis keagamaan di bawah naungan Kesultanan Mamluk."
+              "correct_answer": "Kairo",
+              "explanation": "Kekhalifahan Abbasiyah Kairo berstatus simbolis keagamaan di bawah naungan Kesultanan Mamluk."
             }
           ]
         },
@@ -26053,10 +25568,8 @@
               "id": "q_2305_04",
               "type": "fill_in_blank",
               "question": "Nama Dinasti Safawiyah diambil dari nama seorang guru sufi tarekat Safawiyah di Ardabil, yaitu Syaikh Shafiuddin ...",
-              "options": [
-                "Ardabili"
-              ],
-              "correct_answer": "Syaikh Shafiuddin Al-Ardabili mendirikan tarekat sufi yang kemudian bertransformasi menjadi kekuatan politik kerajaan."
+              "correct_answer": "Ardabili",
+              "explanation": "Syaikh Shafiuddin Al-Ardabili mendirikan tarekat sufi yang kemudian bertransformasi menjadi kekuatan politik kerajaan."
             },
             {
               "id": "q_2305_05",
@@ -26142,10 +25655,8 @@
               "id": "q_2305_10",
               "type": "fill_in_blank",
               "question": "Filsuf dan teolog muslim terkemuka era Safawiyah yang mencetuskan konsep filsafat 'Hikmah Muta'aliyah' adalah Mulla ...",
-              "options": [
-                "Sadra"
-              ],
-              "correct_answer": "Mulla Sadra (Sadruddin Asy-Syirazi) menggabungkan teologi, filsafat rasional, dan mistisisme irfani di Isfahan."
+              "correct_answer": "Sadra",
+              "explanation": "Mulla Sadra (Sadruddin Asy-Syirazi) menggabungkan teologi, filsafat rasional, dan mistisisme irfani di Isfahan."
             }
           ]
         },
@@ -26195,10 +25706,8 @@
               "id": "q_2306_04",
               "type": "fill_in_blank",
               "question": "Kaisar Mughal yang dikenal taat menjalankan syariat Islam dan menyusun kitab hukum fikih 'Fatawa Hindiyyah' (Fatawa Alamgiri) adalah ...",
-              "options": [
-                "Aurangzeb"
-              ],
-              "correct_answer": "Aurangzeb (Alamgir I) memperluas wilayah Mughal hingga mencakup hampir seluruh anak benua India."
+              "correct_answer": "Aurangzeb",
+              "explanation": "Aurangzeb (Alamgir I) memperluas wilayah Mughal hingga mencakup hampir seluruh anak benua India."
             },
             {
               "id": "q_2306_05",
@@ -26284,10 +25793,8 @@
               "id": "q_2306_10",
               "type": "fill_in_blank",
               "question": "Kaisar terakhir Dinasti Mughal yang diasingkan oleh penjajah Inggris ke Rangoon Burma pada tahun 1858 adalah Bahadur Shah ...",
-              "options": [
-                "Zafar"
-              ],
-              "correct_answer": "Bahadur Shah Zafar adalah penyair dan kaisar Mughal terakhir yang menandai berakhirnya dinasti Mughal di India."
+              "correct_answer": "Zafar",
+              "explanation": "Bahadur Shah Zafar adalah penyair dan kaisar Mughal terakhir yang menandai berakhirnya dinasti Mughal di India."
             }
           ]
         },
@@ -26337,10 +25844,8 @@
               "id": "q_2307_04",
               "type": "fill_in_blank",
               "question": "Botanikus dan farmakolog muslim asal Spanyol yang mengklasifikasikan lebih dari 1.400 tanaman obat dalam 'Al-Jami' li Mufradat' adalah Ibnu ...",
-              "options": [
-                "Baithar"
-              ],
-              "correct_answer": "Ibnu Al-Baithar mengumpulkan dan menguji tanaman obat di sepanjang Mediterania dari Spanyol hingga Suriah."
+              "correct_answer": "Baithar",
+              "explanation": "Ibnu Al-Baithar mengumpulkan dan menguji tanaman obat di sepanjang Mediterania dari Spanyol hingga Suriah."
             },
             {
               "id": "q_2307_05",
@@ -26426,10 +25931,8 @@
               "id": "q_2307_10",
               "type": "fill_in_blank",
               "question": "Dokter muslim yang menjelaskan parasit skabies penyebab gatal kulit dan penyakit perikarditis adalah Ibnu ...",
-              "options": [
-                "Zuhr"
-              ],
-              "correct_answer": "Ibnu Zuhr (Avenzoar) asal Andalusia adalah pakar patologi dan pembedahan eksperimental pada hewan."
+              "correct_answer": "Zuhr",
+              "explanation": "Ibnu Zuhr (Avenzoar) asal Andalusia adalah pakar patologi dan pembedahan eksperimental pada hewan."
             }
           ]
         },
@@ -26479,10 +25982,8 @@
               "id": "q_2308_04",
               "type": "fill_in_blank",
               "question": "Insinyur jenius muslim perintis robotika mekanik, pompa air, dan jam gajah otomatis adalah Al-...",
-              "options": [
-                "Jazari"
-              ],
-              "correct_answer": "Badi'uz Zaman Al-Jazari merancang poros engkol (crankshaft) dan mekanisme katup otomatis dalam Kitab Al-Hiyal."
+              "correct_answer": "Jazari",
+              "explanation": "Badi'uz Zaman Al-Jazari merancang poros engkol (crankshaft) dan mekanisme katup otomatis dalam Kitab Al-Hiyal."
             },
             {
               "id": "q_2308_05",
@@ -26568,10 +26069,8 @@
               "id": "q_2308_10",
               "type": "fill_in_blank",
               "question": "Astronom wanita muslim pembuat astrolabe presisi di istana Saifud Daulah Suriah bernama Maryam Al-...",
-              "options": [
-                "Ijliya"
-              ],
-              "correct_answer": "Maryam Al-Ijliya (Al-Asturlabiya) terkenal karena keahliannya merancang instrumen navigasi astrolabe yang sangat teliti."
+              "correct_answer": "Ijliya",
+              "explanation": "Maryam Al-Ijliya (Al-Asturlabiya) terkenal karena keahliannya merancang instrumen navigasi astrolabe yang sangat teliti."
             }
           ]
         },
@@ -26621,10 +26120,8 @@
               "id": "q_2309_04",
               "type": "fill_in_blank",
               "question": "Filsuf muslim yang dijuluki 'Guru Kedua' (Al-Mu'allim Ats-Tsani) setelah Aristoteles adalah Al-...",
-              "options": [
-                "Farabi"
-              ],
-              "correct_answer": "Abu Nashr Al-Farabi menulis karya filsafat politik 'Ara' Ahlil Madinah Al-Fadhilah' (Negara Utama)."
+              "correct_answer": "Farabi",
+              "explanation": "Abu Nashr Al-Farabi menulis karya filsafat politik 'Ara' Ahlil Madinah Al-Fadhilah' (Negara Utama)."
             },
             {
               "id": "q_2309_05",
@@ -26710,10 +26207,8 @@
               "id": "q_2309_10",
               "type": "fill_in_blank",
               "question": "Penyelidik sejarah dan pengelana muslim terkemuka yang menulis 'Tarikh Al-Umam wal Muluk' adalah Imam Ath-...",
-              "options": [
-                "Thabari"
-              ],
-              "correct_answer": "Imam Jarir Ath-Thabari menulis ensiklopedia sejarah bangsa-bangsa dunia dan tafsir Al-Qur'an monumental."
+              "correct_answer": "Thabari",
+              "explanation": "Imam Jarir Ath-Thabari menulis ensiklopedia sejarah bangsa-bangsa dunia dan tafsir Al-Qur'an monumental."
             }
           ]
         },
@@ -26763,10 +26258,8 @@
               "id": "q_2310_04",
               "type": "fill_in_blank",
               "question": "Ulama tertua dari dewan Walisongo yang menyebarkan Islam di Jawa Timur dan wafat di Gresik (1419 M) adalah Maulana Malik ...",
-              "options": [
-                "Ibrahim"
-              ],
-              "correct_answer": "Maulana Malik Ibrahim (Sunan Gresik) berdakwah dengan budi pekerti luhur, pengobatan gratis, dan pertanian maju."
+              "correct_answer": "Ibrahim",
+              "explanation": "Maulana Malik Ibrahim (Sunan Gresik) berdakwah dengan budi pekerti luhur, pengobatan gratis, dan pertanian maju."
             },
             {
               "id": "q_2310_05",
@@ -26852,10 +26345,8 @@
               "id": "q_2310_10",
               "type": "fill_in_blank",
               "question": "Ulama besar Kesultanan Aceh yang menulis kitab tasawuf falsafi 'Asrarul Arifin' dan syair sufi adalah Hamzah ...",
-              "options": [
-                "Fansuri"
-              ],
-              "correct_answer": "Hamzah Fansuri adalah sastrawan sufi perintis penggunaan bahasa Melayu dalam karya sastra dan teologi Islam."
+              "correct_answer": "Fansuri",
+              "explanation": "Hamzah Fansuri adalah sastrawan sufi perintis penggunaan bahasa Melayu dalam karya sastra dan teologi Islam."
             }
           ]
         }
@@ -26914,10 +26405,8 @@
               "id": "q_2401_04",
               "type": "fill_in_blank",
               "question": "Hadits ke-7 Arba'in Nawawiyah menegaskan: 'Agama itu adalah ... (Ad-Diinu an-nashiihah)'.",
-              "options": [
-                "Nasihat"
-              ],
-              "correct_answer": "Nasihat ditujukan untuk Allah, Kitab-Nya, Rasul-Nya, para pemimpin kaum muslimin, dan masyarakat umum."
+              "correct_answer": "Nasihat",
+              "explanation": "Nasihat ditujukan untuk Allah, Kitab-Nya, Rasul-Nya, para pemimpin kaum muslimin, dan masyarakat umum."
             },
             {
               "id": "q_2401_05",
@@ -27003,10 +26492,8 @@
               "id": "q_2401_10",
               "type": "fill_in_blank",
               "question": "Ulama besar asal Damaskus penghimpun 42 hadits pokok Islam dalam kitab Al-Arba'in adalah Imam An-...",
-              "options": [
-                "Nawawi"
-              ],
-              "correct_answer": "Imam Yahya bin Syaraf An-Nawawi menyusun Arba'in Nawawiyah dan Syarah Shahih Muslim."
+              "correct_answer": "Nawawi",
+              "explanation": "Imam Yahya bin Syaraf An-Nawawi menyusun Arba'in Nawawiyah dan Syarah Shahih Muslim."
             }
           ]
         },
@@ -27056,10 +26543,8 @@
               "id": "q_2402_04",
               "type": "fill_in_blank",
               "question": "Tidak sempurna iman seseorang sampai ia mencintai bagi saudaranya apa yang ia cintai bagi ... sendiri.",
-              "options": [
-                "Dirinya"
-              ],
-              "correct_answer": "Hadits ke-13 Arba'in: persaudaraan Islam menuntut empati dan ketulusan berbagi kebaikan seperti mencintai diri sendiri."
+              "correct_answer": "Dirinya",
+              "explanation": "Hadits ke-13 Arba'in: persaudaraan Islam menuntut empati dan ketulusan berbagi kebaikan seperti mencintai diri sendiri."
             },
             {
               "id": "q_2402_05",
@@ -27145,10 +26630,8 @@
               "id": "q_2402_10",
               "type": "fill_in_blank",
               "question": "Hadits ke-31 Arba'in: 'Zuhudlah terhadap dunia niscaya Allah mencintaimu, dan zuhudlah terhadap apa yang ada di tangan manusia niscaya ... mencintaimu.'",
-              "options": [
-                "Manusia"
-              ],
-              "correct_answer": "Menjauhi ketamakan terhadap harta orang lain menumbuhkan kecintaan dan kehormatan di tengah masyarakat."
+              "correct_answer": "Manusia",
+              "explanation": "Menjauhi ketamakan terhadap harta orang lain menumbuhkan kecintaan dan kehormatan di tengah masyarakat."
             }
           ]
         },
@@ -27160,59 +26643,35 @@
               "id": "q_2403_01",
               "type": "multiple_choice",
               "question": "Kitab kumpulan hadits adab dan akhlak termasyhur di dunia Islam 'Riyadhus Shalihin' bermakna?",
-              "options": [
-                "Taman Orang-Orang Shalih",
-                "Cahaya Kebaikan",
-                "Kisah Sahabat",
-                "Jalan Menuju Surga"
-              ],
-              "correct_answer": 0,
-              "explanation": "Riyadhus Shalihin disusun oleh Imam An-Nawawi dan menjadi kitab rujukan taklim di berbagai belahan dunia."
+              "correct_answer": "[\"Taman Orang-Orang Shalih\", \"Cahaya Kebaikan\", \"Kisah Sahabat\", \"Jalan Menuju Surga\"]"
             },
             {
               "id": "q_2403_02",
               "type": "true_false",
               "question": "Kejujuran menuntun seseorang kepada kebaikan, dan kebaikan menuntun menuju surga.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Sabda Nabi SAW: 'Innash-shidqa yahdi ilal birr, wa innal birra yahdi ilal jannah' (HR. Bukhari & Muslim)."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2403_03",
               "type": "image_quiz",
               "question": "Kisah 3 orang yang terperangkap dalam gua tertutup batu besar berhasil selamat karena bertawassul dengan amal ikhlas mereka: berbakti orang tua, menjaga kehormatan, dan menunaikan...",
               "image_placeholder": "tiga_orang_dalam_gua",
-              "options": [
-                "Hak upah buruh pekerja",
-                "Zakat emas",
-                "Puasa Daud",
-                "Ibadah haji"
-              ],
-              "correct_answer": 0,
-              "explanation": "Hadits Shahih Bukhari tentang Ashabur Raqim (tiga pemuda dalam gua) yang diselamatkan berkat amal ikhlas."
+              "correct_answer": "[\"Hak upah buruh pekerja\", \"Zakat emas\", \"Puasa Daud\", \"Ibadah haji\"]"
             },
             {
               "id": "q_2403_04",
               "type": "fill_in_blank",
               "question": "Sesungguhnya Allah tidak melihat kepada bentuk rupa dan harta kalian, tetapi Dia melihat kepada ... dan amal kalian.",
-              "options": [
-                "Hati"
-              ],
-              "correct_answer": "Hadits riwayat Muslim: 'Walakin yanzhuru ila qulubikum wa a'malikum' (Tetapi Allah melihat hati dan amalmu)."
+              "correct_answer": "Hati",
+              "explanation": "Hadits riwayat Muslim: 'Walakin yanzhuru ila qulubikum wa a'malikum' (Tetapi Allah melihat hati dan amalmu)."
             },
             {
               "id": "q_2403_05",
               "type": "scramble_word",
               "question": "Susun huruf sifat jujur dan kesesuaian antara lisan dan hati: S - H - I - D - D - I - Q",
-              "options": [
-                "S - H - I - D - D - I - Q"
-              ],
               "scrambled_hint": "S - H - I - D - D - I - Q",
-              "correct_answer": "SHIDDIQ",
-              "explanation": "As-Shiddiq adalah gelar para pecinta kebenaran yang konsisten dalam ucapan dan perbuatan."
+              "correct_answer": "S - H - I - D - D - I - Q",
+              "explanation": "SHIDDIQ"
             },
             {
               "id": "q_2403_06",
@@ -27231,19 +26690,12 @@
                   "left": "Bila Dipercaya",
                   "right": "Ia berkhianat (khana)"
                 }
-              ],
-              "explanation": "Tanda-tanda kemunafikan praktis harus dihindari oleh setiap mukmin sejati."
+              ]
             },
             {
               "id": "q_2403_07",
               "type": "ordering",
               "question": "Urutkan tingkatan tobat nasuha seorang hamba yang berbuat dosa terhadap sesama manusia:",
-              "options": [
-                "Menyesali perbuatan dosa dalam hati",
-                "Berhenti seketika dari maksiat tersebut",
-                "Bertekad kuat tidak akan mengulanginya lagi",
-                "Meminta maaf atau mengembalikan hak harta yang diambil"
-              ],
               "items": [
                 "Menyesali perbuatan dosa dalam hati",
                 "Berhenti seketika dari maksiat tersebut",
@@ -27256,41 +26708,27 @@
                 2,
                 3
               ],
-              "correct_answer": "[0, 1, 2, 3]",
-              "explanation": "Syarat tobat terkait dosa sesama manusia mewajibkan penyelesaian hak adami (meminta ridha/mengembalikan hak)."
+              "correct_answer": "[\"Menyesali perbuatan dosa dalam hati\", \"Berhenti seketika dari maksiat tersebut\", \"Bertekad kuat tidak akan mengulanginya lagi\", \"Meminta maaf atau mengembalikan hak harta yang diambil\"]",
+              "explanation": "[0, 1, 2, 3]"
             },
             {
               "id": "q_2403_08",
               "type": "multiple_choice",
               "question": "Seseorang yang berniat kuat melakukan suatu kebaikan namun terhalang uzur syar'i, maka pahalanya dicatat oleh Allah sebagai?",
-              "options": [
-                "Pahala satu kebaikan penuh",
-                "Pahala separuh saja",
-                "Belum dicatat apa-apa",
-                "Dihapus dosanya saja"
-              ],
-              "correct_answer": 0,
-              "explanation": "Rahmat Allah: barangsiapa berniat baik lalu tidak sempat mengamalkannya, Allah catat baginya satu kebaikan sempurna."
+              "correct_answer": "[\"Pahala satu kebaikan penuh\", \"Pahala separuh saja\", \"Belum dicatat apa-apa\", \"Dihapus dosanya saja\"]"
             },
             {
               "id": "q_2403_09",
               "type": "true_false",
               "question": "Dusta diperbolehkan dalam tiga keadaan khusus: dalam strategi perang, mendamaikan orang yang berselisih, dan rayuan mesra suami-istri.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Hadits riwayat Muslim memberikan rukhshah kedaruratan demi kemaslahatan menjaga nyawa dan keutuhan rumah tangga."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2403_10",
               "type": "fill_in_blank",
               "question": "Tobat seorang hamba senantiasa diterima Allah selama nafas belum sampai di ... tenggorokan.",
-              "options": [
-                "Ghargharah"
-              ],
-              "correct_answer": "Allah menerima tobat sebelum sakaratul maut (ghargharah) dan sebelum matahari terbit dari barat."
+              "correct_answer": "Ghargharah",
+              "explanation": "Allah menerima tobat sebelum sakaratul maut (ghargharah) dan sebelum matahari terbit dari barat."
             }
           ]
         },
@@ -27302,59 +26740,35 @@
               "id": "q_2404_01",
               "type": "multiple_choice",
               "question": "Sabda Nabi SAW: 'Sungguh menakjubkan urusan orang mukmin, seluruh urusannya adalah baik baginya: bila dapat kesenangan bersyukur, dan bila ditimpa kesulitan...'",
-              "options": [
-                "Ia bersabar, maka itu baik baginya",
-                "Ia mengeluh",
-                "Ia berpasrah tanpa usaha",
-                "Ia marah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Hadits Shahih Muslim: mukmin berada dalam pusaran berkah antara rasa syukur saat lapang dan sabar saat diuji."
+              "correct_answer": "[\"Ia bersabar, maka itu baik baginya\", \"Ia mengeluh\", \"Ia berpasrah tanpa usaha\", \"Ia marah\"]"
             },
             {
               "id": "q_2404_02",
               "type": "true_false",
               "question": "Sabar yang hakiki dinilai pada saat benturan pertama kali ujian musibah terjadi (ash-shabru 'inda shadmatil ula).",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Sabda Rasulullah SAW kepada wanita yang menangisi makam anaknya: 'Sesungguhnya sabar itu pada pukulan pertama.'"
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2404_03",
               "type": "image_quiz",
               "question": "Perumpamaan tawakal yang diajarkan Rasulullah SAW seperti seekor burung yang keluar di pagi hari dalam keadaan lapar dan pulang sore hari dalam keadaan...",
               "image_placeholder": "burung_tawakal_pagi_sore",
-              "options": [
-                "Kenyang",
-                "Kelelahan",
-                "Membawa emas",
-                "Sakit"
-              ],
-              "correct_answer": 0,
-              "explanation": "Sekiranya kalian bertawakal dengan sebenar-benar tawakal, niscaya Allah memberi rezeki seperti burung: pergi lapar, pulang kenyang.'"
+              "correct_answer": "[\"Kenyang\", \"Kelelahan\", \"Membawa emas\", \"Sakit\"]"
             },
             {
               "id": "q_2404_04",
               "type": "fill_in_blank",
               "question": "Bukanlah orang kuat itu yang menang dalam pergulatan fisik, melainkan orang yang mampu mengendalikan dirinya saat ...",
-              "options": [
-                "Marah"
-              ],
-              "correct_answer": "Hadits Bukhari: kekuatan sejati adalah menahan gejolak hawa nafsu dan amarah di saat mampu melampiaskannya."
+              "correct_answer": "Marah",
+              "explanation": "Hadits Bukhari: kekuatan sejati adalah menahan gejolak hawa nafsu dan amarah di saat mampu melampiaskannya."
             },
             {
               "id": "q_2404_05",
               "type": "scramble_word",
               "question": "Susun huruf sikap pasrah dan berserah diri kepada ketetapan Allah setelah ikhtiar maksimal: T - A - W - A - K - A - L",
-              "options": [
-                "T - A - W - A - K - A - L"
-              ],
               "scrambled_hint": "T - A - W - A - K - A - L",
-              "correct_answer": "TAWAKAL",
-              "explanation": "Tawakal tidak menafikan usaha ikhtiar (ikat dulu untamu lalu bertawakallah)."
+              "correct_answer": "T - A - W - A - K - A - L",
+              "explanation": "TAWAKAL"
             },
             {
               "id": "q_2404_06",
@@ -27373,19 +26787,12 @@
                   "left": "Sabar Menghadapi Takdir Ujian",
                   "right": "Rela dan tabah saat tertimpa sakit atau musibah"
                 }
-              ],
-              "explanation": "Para ulama mengklasifikasikan kesabaran menjadi tiga pilar utama."
+              ]
             },
             {
               "id": "q_2404_07",
               "type": "ordering",
               "question": "Urutkan kelompok manusia yang paling berat cobaannya menurut hadits Rasulullah SAW:",
-              "options": [
-                "Para Nabi dan Rasul",
-                "Para ulama dan orang shalih",
-                "Orang-orang pilihan berikutnya sesuai kadar keimanan",
-                "Manusia biasa diuji sesuai keteguhan agamanya"
-              ],
               "items": [
                 "Para Nabi dan Rasul",
                 "Para ulama dan orang shalih",
@@ -27398,41 +26805,27 @@
                 2,
                 3
               ],
-              "correct_answer": "[0, 1, 2, 3]",
-              "explanation": "Manusia yang paling berat cobaannya adalah para Nabi, kemudian orang-orang shalih semisalnya' (HR. Tirmidzi)."
+              "correct_answer": "[\"Para Nabi dan Rasul\", \"Para ulama dan orang shalih\", \"Orang-orang pilihan berikutnya sesuai kadar keimanan\", \"Manusia biasa diuji sesuai keteguhan agamanya\"]",
+              "explanation": "[0, 1, 2, 3]"
             },
             {
               "id": "q_2404_08",
               "type": "multiple_choice",
               "question": "Dua kenikmatan besar yang sering dilalaikan dan disia-siakan oleh kebanyakan manusia menurut hadits riwayat Bukhari adalah?",
-              "options": [
-                "Kesehatan dan Waktu Luang",
-                "Kekayaan dan Kendaraan",
-                "Makanan lezat dan Pakaian bagus",
-                "Kecantikan dan Ketenaran"
-              ],
-              "correct_answer": 0,
-              "explanation": "Sabda Nabi SAW: 'Ni'mataani maghbuunun fiihimaa katsiirun minannaas: ash-shihhatu wal faragh' (Kesehatan dan waktu luang)."
+              "correct_answer": "[\"Kesehatan dan Waktu Luang\", \"Kekayaan dan Kendaraan\", \"Makanan lezat dan Pakaian bagus\", \"Kecantikan dan Ketenaran\"]"
             },
             {
               "id": "q_2404_09",
               "type": "true_false",
               "question": "Tidak dikatakan bersyukur kepada Allah orang yang tidak mampu berterima kasih kepada sesama manusia yang berbuat baik padanya.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Hadits riwayat Abu Dawud: 'La yasykurullaaha man la yasykurunnaas.'"
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2404_10",
               "type": "fill_in_blank",
               "question": "Ucapan istirja' yang dianjurkan dibaca saat tertimpa musibah adalah 'Inna lillahi wa inna ilaihi ...'",
-              "options": [
-                "Rajiun"
-              ],
-              "correct_answer": "Sesungguhnya kami adalah milik Allah dan kepada-Nya lah kami kembali' (QS. Al-Baqarah: 156)."
+              "correct_answer": "Rajiun",
+              "explanation": "Sesungguhnya kami adalah milik Allah dan kepada-Nya lah kami kembali' (QS. Al-Baqarah: 156)."
             }
           ]
         },
@@ -27444,59 +26837,35 @@
               "id": "q_2405_01",
               "type": "multiple_choice",
               "question": "Barangsiapa yang ingin dilapangkan rezekinya dan dipanjangkan umurnya (jejak kebaikannya), hendaklah ia?",
-              "options": [
-                "Menyambung tali silaturahim",
-                "Tidur lebih banyak",
-                "Berdagang ke luar negeri",
-                "Meminjamkan uang berbunga"
-              ],
-              "correct_answer": 0,
-              "explanation": "Sabda Nabi SAW: 'Man ahabba an yubsatha lahu fi rizqihi wa yunsya-a lahu fi atsarihi fal-yashil rahimahu' (HR. Bukhari)."
+              "correct_answer": "[\"Menyambung tali silaturahim\", \"Tidur lebih banyak\", \"Berdagang ke luar negeri\", \"Meminjamkan uang berbunga\"]"
             },
             {
               "id": "q_2405_02",
               "type": "true_false",
               "question": "Malaikat Jibril terus-menerus berwasiat tentang hak tetangga sampai Rasulullah SAW mengira tetangga akan mendapatkan hak waris.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Menunjukkan betapa tingginya kedudukan hak tetangga dalam ajaran Islam (HR. Bukhari & Muslim)."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2405_03",
               "type": "image_quiz",
               "question": "Hak seorang muslim atas muslim lainnya ada 6 perkara: menjawab salam, menghadiri undangan, menasihati saat diminta, mendoakan saat bersin, menjenguk saat sakit, dan mengantar...",
               "image_placeholder": "mengantar_jenazah_muslim",
-              "options": [
-                "Jenazah ke pemakaman",
-                "Harta ke rumahnya",
-                "Belanjaan ke pasar",
-                "Keluarga tamasya"
-              ],
-              "correct_answer": 0,
-              "explanation": "Hadits riwayat Muslim menetapkan enam hak persaudaraan muslim yang wajib dijaga."
+              "correct_answer": "[\"Jenazah ke pemakaman\", \"Harta ke rumahnya\", \"Belanjaan ke pasar\", \"Keluarga tamasya\"]"
             },
             {
               "id": "q_2405_04",
               "type": "fill_in_blank",
               "question": "Orang yang menyambung silaturahim hakiki bukanlah yang membalas kunjungan, melainkan yang menyambung ketika hubungan diputuskan oleh ...",
-              "options": [
-                "Kerabatnya"
-              ],
-              "correct_answer": "Nabi SAW: 'Bukanlah penyambung silaturahim orang yang membalas kebaikan, melainkan yang menyambung saat diputuskan kerabat.'"
+              "correct_answer": "Kerabatnya",
+              "explanation": "Nabi SAW: 'Bukanlah penyambung silaturahim orang yang membalas kebaikan, melainkan yang menyambung saat diputuskan kerabat.'"
             },
             {
               "id": "q_2405_05",
               "type": "scramble_word",
               "question": "Susun huruf jalinan kasih sayang persaudaraan sedarah: S - I - L - A - T - U - R - A - H - I - M",
-              "options": [
-                "S - I - L - A - T - U - R - A - H - I - M"
-              ],
               "scrambled_hint": "S - I - L - A - T - U - R - A - H - I - M",
-              "correct_answer": "SILATURAHIM",
-              "explanation": "Silaturahim menyatukan keluarga dan mendatangkan rahmat dari Allah SWT."
+              "correct_answer": "S - I - L - A - T - U - R - A - H - I - M",
+              "explanation": "SILATURAHIM"
             },
             {
               "id": "q_2405_06",
@@ -27515,19 +26884,12 @@
                   "left": "Tetangga Muslim Kerabat",
                   "right": "3 Hak: Hak tetangga, Hak muslim, & Hak silaturahim"
                 }
-              ],
-              "explanation": "Islam memuliakan tetangga bahkan bila berbeda agama sekalipun."
+              ]
             },
             {
               "id": "q_2405_07",
               "type": "ordering",
               "question": "Urutkan etika bertamu dan meminta izin (isti'dzan) ke rumah orang lain sesuai sunnah:",
-              "options": [
-                "Mengucapkan salam dan mengetuk pintu secara wajar",
-                "Berdiri di sisi samping pintu (tidak menghadap langsung ke dalam)",
-                "Meminta izin maksimal 3 kali",
-                "Bila tidak diizinkan atau tidak ada jawaban, beranjak pulang"
-              ],
               "items": [
                 "Mengucapkan salam dan mengetuk pintu secara wajar",
                 "Berdiri di sisi samping pintu (tidak menghadap langsung ke dalam)",
@@ -27540,41 +26902,27 @@
                 2,
                 3
               ],
-              "correct_answer": "[0, 1, 2, 3]",
-              "explanation": "Etika bertamu menjaga privasi pemilik rumah dari pandangan mata yang tidak pantas."
+              "correct_answer": "[\"Mengucapkan salam dan mengetuk pintu secara wajar\", \"Berdiri di sisi samping pintu (tidak menghadap langsung ke dalam)\", \"Meminta izin maksimal 3 kali\", \"Bila tidak diizinkan atau tidak ada jawaban, beranjak pulang\"]",
+              "explanation": "[0, 1, 2, 3]"
             },
             {
               "id": "q_2405_08",
               "type": "multiple_choice",
               "question": "Hukum mendiamkan (memboikot / hajr) sesama saudara muslim tanpa alasan syar'i lebih dari 3 hari adalah?",
-              "options": [
-                "Haram",
-                "Makruh",
-                "Mubah",
-                "Sunnah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Sabda Nabi SAW: 'Tidak halal bagi seorang muslim mendiamkan saudaranya lebih dari tiga malam' (HR. Bukhari)."
+              "correct_answer": "[\"Haram\", \"Makruh\", \"Mubah\", \"Sunnah\"]"
             },
             {
               "id": "q_2405_09",
               "type": "true_false",
               "question": "Tidak beriman seseorang yang tidur kenyang sementara tetangga di samping rumahnya kelaparan dan ia mengetahuinya.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Hadits riwayat Al-Hakim menegaskan kepekaan sosial dan kepedulian terhadap tetangga yang kesusahan."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2405_10",
               "type": "fill_in_blank",
               "question": "Tidak akan masuk surga orang yang memutuskan tali ... (HR. Bukhari & Muslim).",
-              "options": [
-                "Silaturahim"
-              ],
-              "correct_answer": "La yadkhulul jannata qaathi'un' (Tidak masuk surga pemutus tali silaturahim)."
+              "correct_answer": "Silaturahim",
+              "explanation": "La yadkhulul jannata qaathi'un' (Tidak masuk surga pemutus tali silaturahim)."
             }
           ]
         },
@@ -27586,59 +26934,35 @@
               "id": "q_2406_01",
               "type": "multiple_choice",
               "question": "Penyakit hati berupa keinginan agar nikmat yang ada pada orang lain hilang atau berpindah kepadanya disebut?",
-              "options": [
-                "Hasad (Dengki)",
-                "Ghibah",
-                "Riya'",
-                "Ujub"
-              ],
-              "correct_answer": 0,
-              "explanation": "Hasad adalah iri dengki yang mengikis pahala amal kebaikan bagaikan api melahap kayu bakar."
+              "correct_answer": "[\"Hasad (Dengki)\", \"Ghibah\", \"Riya'\", \"Ujub\"]"
             },
             {
               "id": "q_2406_02",
               "type": "true_false",
               "question": "Riya' (memamerkan ibadah agar dipuji manusia) dikategorikan oleh Rasulullah SAW sebagai Syirik Kecil (Asy-Syirkul Ashghar).",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Sabda Nabi SAW: 'Hal yang paling aku takuti menimpa kalian adalah syirik kecil, yaitu riya'.'"
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2406_03",
               "type": "image_quiz",
               "question": "Sikap kagum berlebihan terhadap kehebatan atau kesalehan diri sendiri tanpa menyandarkannya kepada Allah dinamakan...",
               "image_placeholder": "penyakit_hati_ujub",
-              "options": [
-                "'Ujub",
-                "Tawadhu",
-                "Qanaah",
-                "Wara'"
-              ],
-              "correct_answer": 0,
-              "explanation": "Ujub adalah memandang diri sendiri mulia dan melupakan bahwa semua karunia datang dari Allah semata."
+              "correct_answer": "[\"'Ujub\", \"Tawadhu\", \"Qanaah\", \"Wara'\"]"
             },
             {
               "id": "q_2406_04",
               "type": "fill_in_blank",
               "question": "Kesombongan (Kibar) hakiki menurut sabda Rasulullah SAW adalah menolak kebenaran dan merendahkan ... sesama.",
-              "options": [
-                "Manusia"
-              ],
-              "correct_answer": "Al-Kibru batharul haqqi wa ghamthun naas' (Sombong adalah menolak kebenaran dan meremehkan manusia)."
+              "correct_answer": "Manusia",
+              "explanation": "Al-Kibru batharul haqqi wa ghamthun naas' (Sombong adalah menolak kebenaran dan meremehkan manusia)."
             },
             {
               "id": "q_2406_05",
               "type": "scramble_word",
               "question": "Susun huruf penyakit pamer amalan saleh demi pujian orang: R - I - Y - A",
-              "options": [
-                "R - I - Y - A"
-              ],
               "scrambled_hint": "R - I - Y - A",
-              "correct_answer": "RIYA",
-              "explanation": "Riya' membatalkan pahala ibadah karena mempersekutukan niat kepada selain Allah SWT."
+              "correct_answer": "R - I - Y - A",
+              "explanation": "RIYA"
             },
             {
               "id": "q_2406_06",
@@ -27657,19 +26981,12 @@
                   "left": "Hasad",
                   "right": "Dengki dan benci melihat orang lain mendapat nikmat"
                 }
-              ],
-              "explanation": "Pembersihan jiwa (tazkiyatun nafs) membebaskan hati dari belenggu penyakit-penyakit batin ini."
+              ]
             },
             {
               "id": "q_2406_07",
               "type": "ordering",
               "question": "Urutkan 3 golongan pertama yang diadili dan dicampakkan ke neraka karena riya' (Hadits Muslim):",
-              "options": [
-                "Orang yang gugur di medan perang agar dijuluki pemberani",
-                "Orang berilmu dan qari' agar dijuluki alim serba tahu",
-                "Orang dermawan gemar berinfak agar dijuluki pemurah",
-                "Niat yang tidak ikhlas mencampakkan amal ke api neraka"
-              ],
               "items": [
                 "Orang yang gugur di medan perang agar dijuluki pemberani",
                 "Orang berilmu dan qari' agar dijuluki alim serba tahu",
@@ -27682,41 +26999,27 @@
                 2,
                 3
               ],
-              "correct_answer": "[0, 1, 2, 3]",
-              "explanation": "Ketiga golongan mulia ini binasa karena motif amal mereka adalah mengejar pengakuan manusia di dunia."
+              "correct_answer": "[\"Orang yang gugur di medan perang agar dijuluki pemberani\", \"Orang berilmu dan qari' agar dijuluki alim serba tahu\", \"Orang dermawan gemar berinfak agar dijuluki pemurah\", \"Niat yang tidak ikhlas mencampakkan amal ke api neraka\"]",
+              "explanation": "[0, 1, 2, 3]"
             },
             {
               "id": "q_2406_08",
               "type": "multiple_choice",
               "question": "Iri hati yang diperbolehkan (Ghibtah) hanya ada pada 2 hal: orang yang menginfakkan hartanya di jalan kebenaran dan?",
-              "options": [
-                "Orang berilmu Al-Qur'an yang mengamalkan dan mengajarkannya",
-                "Orang yang tampan dan disukai banyak orang",
-                "Pemilik rumah paling besar",
-                "Pejabat dengan kedudukan tinggi"
-              ],
-              "correct_answer": 0,
-              "explanation": "Hadits Bukhari: 'La hasada illa fitsnatain...' tidak boleh iri kecuali pada dermawan yang ikhlas dan pengamal Al-Qur'an."
+              "correct_answer": "[\"Orang berilmu Al-Qur'an yang mengamalkan dan mengajarkannya\", \"Orang yang tampan dan disukai banyak orang\", \"Pemilik rumah paling besar\", \"Pejabat dengan kedudukan tinggi\"]"
             },
             {
               "id": "q_2406_09",
               "type": "true_false",
               "question": "Tidak akan masuk surga orang yang di dalam hatinya terdapat kesombongan seberat biji sawi (dzarrah).",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Hadits riwayat Muslim menegaskan bahaya kesombongan sekecil apapun di hadapan Allah SWT."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2406_10",
               "type": "fill_in_blank",
               "question": "Penyucian dan pembersihan jiwa dari akhlak tercela dinamakan Tazkiyatun ...",
-              "options": [
-                "Nafs"
-              ],
-              "correct_answer": "Tazkiyatun Nafs mengantarkan seorang hamba menuju hati yang selamat (qalb salim)."
+              "correct_answer": "Nafs",
+              "explanation": "Tazkiyatun Nafs mengantarkan seorang hamba menuju hati yang selamat (qalb salim)."
             }
           ]
         },
@@ -27728,59 +27031,35 @@
               "id": "q_2407_01",
               "type": "multiple_choice",
               "question": "Rasulullah SAW memerintahkan umatnya untuk memperbanyak mengingat 'pemutus segala kelezatan duniawi' (hadzimulladz-dzaat), yaitu?",
-              "options": [
-                "Kematian (Maut)",
-                "Kemiskinan",
-                "Penyakit fisik",
-                "Bencana alam"
-              ],
-              "correct_answer": 0,
-              "explanation": "Mengingat kematian melunakkan hati yang keras, menghapus angan-angan kosong, dan mendorong ketaatan beramal."
+              "correct_answer": "[\"Kematian (Maut)\", \"Kemiskinan\", \"Penyakit fisik\", \"Bencana alam\"]"
             },
             {
               "id": "q_2407_02",
               "type": "true_false",
               "question": "Zuhud bukan berarti mengharamkan yang halal atau membuang harta, melainkan tidak menggantungkan hati pada dunia.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Sebagaimana dikatakan Hasan Al-Bashri: harta ada di tanganmu namun jangan sampai masuk dan menguasai hatimu."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2407_03",
               "type": "image_quiz",
               "question": "Sabda Nabi kepada Ibnu Umar: 'Jadilah engkau di dunia ini seakan-akan orang asing atau orang yang sedang...'",
               "image_placeholder": "musafir_mengembara_dunia",
-              "options": [
-                "Menyeberang jalan (Musafir)",
-                "Menimbun emas",
-                "Bermain-main",
-                "Membangun istana"
-              ],
-              "correct_answer": 0,
-              "explanation": "Kun fid-dunya ka-annaka gharibun aw 'abiru sabiil' (Jadilah engkau di dunia laksana orang asing atau pengembara musafir)."
+              "correct_answer": "[\"Menyeberang jalan (Musafir)\", \"Menimbun emas\", \"Bermain-main\", \"Membangun istana\"]"
             },
             {
               "id": "q_2407_04",
               "type": "fill_in_blank",
               "question": "Bukanlah kekayaan itu karena banyaknya perhiasan dan harta, melainkan kekayaan sejati adalah kekayaan ... (ghinan nafs).",
-              "options": [
-                "Jiwa"
-              ],
-              "correct_answer": "Hadits Bukhari & Muslim: 'Laisal ghina 'an katsratil 'aradh, wa laakinnal ghina ghinan nafs' (Kaya jiwa dan hati)."
+              "correct_answer": "Jiwa",
+              "explanation": "Hadits Bukhari & Muslim: 'Laisal ghina 'an katsratil 'aradh, wa laakinnal ghina ghinan nafs' (Kaya jiwa dan hati)."
             },
             {
               "id": "q_2407_05",
               "type": "scramble_word",
               "question": "Susun huruf sikap rela menerima dan merasa cukup atas pemberian Allah: Q - A - N - A - A - H",
-              "options": [
-                "Q - A - N - A - A - H"
-              ],
               "scrambled_hint": "Q - A - N - A - A - H",
-              "correct_answer": "QANAAH",
-              "explanation": "Qana'ah membawa ketenangan batin dan menjauhkan rasa iri terhadap nikmat orang lain."
+              "correct_answer": "Q - A - N - A - A - H",
+              "explanation": "QANAAH"
             },
             {
               "id": "q_2407_06",
@@ -27799,18 +27078,12 @@
                   "left": "Wara'",
                   "right": "Menjauhi perkara syubhat karena takut terjatuh pada yang haram"
                 }
-              ],
-              "explanation": "Zuhud menyeimbangkan kenikmatan duniawi dengan orientasi akhirat yang abadi."
+              ]
             },
             {
               "id": "q_2407_07",
               "type": "ordering",
               "question": "Urutkan 3 hal yang mengantar jenazah ke kubur, di mana dua kembali dan hanya satu yang setia menemani:",
-              "options": [
-                "Keluarganya (kembali pulang)",
-                "Hartanya (kembali pulang)",
-                "Amal perbuatannya (setia menemani dalam kubur)"
-              ],
               "items": [
                 "Keluarganya (kembali pulang)",
                 "Hartanya (kembali pulang)",
@@ -27821,41 +27094,27 @@
                 1,
                 2
               ],
-              "correct_answer": "[0, 1, 2]",
-              "explanation": "Hadits Shahih Bukhari: keluarga dan harta kembali pulang, hanya amal saleh yang kekal menemani di liang lahat."
+              "correct_answer": "[\"Keluarganya (kembali pulang)\", \"Hartanya (kembali pulang)\", \"Amal perbuatannya (setia menemani dalam kubur)\"]",
+              "explanation": "[0, 1, 2]"
             },
             {
               "id": "q_2407_08",
               "type": "multiple_choice",
               "question": "Siapakah orang yang paling cerdas menurut sabda Rasulullah SAW?",
-              "options": [
-                "Orang yang mengingat kematian dan mempersiapkan bekal sesudahnya",
-                "Orang yang menghafal seluruh buku",
-                "Orang yang berhasil mengumpulkan emas",
-                "Orang yang menang diplomasi politik"
-              ],
-              "correct_answer": 0,
-              "explanation": "Hadits Ibnu Majah: orang yang paling cerdik adalah yang paling banyak mengingat mati dan paling siap menyambutnya."
+              "correct_answer": "[\"Orang yang mengingat kematian dan mempersiapkan bekal sesudahnya\", \"Orang yang menghafal seluruh buku\", \"Orang yang berhasil mengumpulkan emas\", \"Orang yang menang diplomasi politik\"]"
             },
             {
               "id": "q_2407_09",
               "type": "true_false",
               "question": "Perbandingan kenikmatan dunia dibanding akhirat seperti seseorang yang mencelupkan jarinya ke lautan lalu melihat air yang menempel di jarinya.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Sabda Nabi SAW dalam Shahih Muslim: sisa air di jari itulah perumpamaan dunia, dan samudra luas adalah akhirat."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2407_10",
               "type": "fill_in_blank",
               "question": "Apabila anak Adam meninggal dunia, maka terputuslah amalnya kecuali tiga perkara: sedekah jariyah, ilmu yang bermanfaat, dan ... shalih yang mendoakannya.",
-              "options": [
-                "Anak"
-              ],
-              "correct_answer": "Hadits riwayat Muslim: 'Aw waladin shaalihin yad'uu lah' (Anak shalih yang senantiasa mendoakan orang tuanya)."
+              "correct_answer": "Anak",
+              "explanation": "Hadits riwayat Muslim: 'Aw waladin shaalihin yad'uu lah' (Anak shalih yang senantiasa mendoakan orang tuanya)."
             }
           ]
         },
@@ -27867,59 +27126,35 @@
               "id": "q_2408_01",
               "type": "multiple_choice",
               "question": "Ayat teragung dalam Al-Qur'an yang disunnahkan dibaca setiap selesai shalat fardhu dan zikir pagi petang adalah?",
-              "options": [
-                "Ayat Kursi (Al-Baqarah: 255)",
-                "Surah Al-Mulk",
-                "Surah Yasin",
-                "Surah Al-Kahfi"
-              ],
-              "correct_answer": 0,
-              "explanation": "Membaca Ayat Kursi di pagi hari melindungi dari gangguan setan hingga sore hari (HR. Al-Hakim)."
+              "correct_answer": "[\"Ayat Kursi (Al-Baqarah: 255)\", \"Surah Al-Mulk\", \"Surah Yasin\", \"Surah Al-Kahfi\"]"
             },
             {
               "id": "q_2408_02",
               "type": "true_false",
               "question": "Membaca Sayyidul Istighfar di pagi hari dengan penuh keyakinan menjamin masuk surga jika ia wafat pada hari itu.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Sabda Nabi SAW dalam Shahih Bukhari tentang keutamaan agung membaca Sayyidul Istighfar."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2408_03",
               "type": "image_quiz",
               "question": "Doa perlindungan dari marabahaya: 'Bismillaahilladzii laa yadhurru ma'asmihii syai-un fil ardhi wa laa fis-samaa-i wa huwas...' Dibaca sebanyak 3 kali setiap pagi dan petang.",
               "image_placeholder": "doa_bismillahilladzi",
-              "options": [
-                "Samii'ul 'Aliim",
-                "Ghafuurur Rahiim",
-                "'Aziizul Hakiim",
-                "Rahmaanur Rahiim"
-              ],
-              "correct_answer": 0,
-              "explanation": "Barangsiapa membacanya 3 kali, niscaya tidak akan ada sesuatu pun di bumi dan di langit yang membahayakannya."
+              "correct_answer": "[\"Samii'ul 'Aliim\", \"Ghafuurur Rahiim\", \"'Aziizul Hakiim\", \"Rahmaanur Rahiim\"]"
             },
             {
               "id": "q_2408_04",
               "type": "fill_in_blank",
               "question": "Tiga surah perlindungan (Al-Mu'awwidzat) yang dibaca 3 kali saat pagi dan petang adalah Al-Ikhlas, Al-Falaq, dan An-...",
-              "options": [
-                "Naas"
-              ],
-              "correct_answer": "Membaca ketiga surah ini mencukupkan perlindungan seorang muslim dari segala kejahatan makhluk (HR. Abu Dawud)."
+              "correct_answer": "Naas",
+              "explanation": "Membaca ketiga surah ini mencukupkan perlindungan seorang muslim dari segala kejahatan makhluk (HR. Abu Dawud)."
             },
             {
               "id": "q_2408_05",
               "type": "scramble_word",
               "question": "Susun huruf sebutan doa permohonan ampunan paling agung: S - A - Y - Y - I - D - U - L - I - S - T - I - G - H - F - A - R",
-              "options": [
-                "S - A - Y - Y - I - D - U - L - I - S - T - I - G - H - F - A - R"
-              ],
               "scrambled_hint": "S - A - Y - Y - I - D - U - L - I - S - T - I - G - H - F - A - R",
-              "correct_answer": "SAYYIDULISTIGHFAR",
-              "explanation": "Sayyidul Istighfar mengandung pengakuan nikmat Allah, kehambaan, dan permohonan ampun atas segala dosa."
+              "correct_answer": "S - A - Y - Y - I - D - U - L - I - S - T - I - G - H - F - A - R",
+              "explanation": "SAYYIDULISTIGHFAR"
             },
             {
               "id": "q_2408_06",
@@ -27938,19 +27173,12 @@
                   "left": "Hasbiyallahu la ilaha illa Huwa 7x",
                   "right": "Dicukupkan dari segala urusan yang menggelisahkan"
                 }
-              ],
-              "explanation": "Dzikir menentramkan sanubari dan mendatangkan perlindungan para malaikat."
+              ]
             },
             {
               "id": "q_2408_07",
               "type": "ordering",
               "question": "Urutkan lafadz doa awal Sayyidul Istighfar:",
-              "options": [
-                "Allahumma Anta Rabbii laa ilaaha illaa Anta",
-                "Khalaqtanii wa ana 'abduka",
-                "Wa ana 'alaa 'ahdika wa wa'dika mastatha'tu",
-                "A'uudzu bika min syarri maa shana'tu"
-              ],
               "items": [
                 "Allahumma Anta Rabbii laa ilaaha illaa Anta",
                 "Khalaqtanii wa ana 'abduka",
@@ -27963,41 +27191,27 @@
                 2,
                 3
               ],
-              "correct_answer": "[0, 1, 2, 3]",
-              "explanation": "Lafadz Sayyidul Istighfar diawali tauhid rububiyyah dan ikrar janji setia penghambaan kepada Allah."
+              "correct_answer": "[\"Allahumma Anta Rabbii laa ilaaha illaa Anta\", \"Khalaqtanii wa ana 'abduka\", \"Wa ana 'alaa 'ahdika wa wa'dika mastatha'tu\", \"A'uudzu bika min syarri maa shana'tu\"]",
+              "explanation": "[0, 1, 2, 3]"
             },
             {
               "id": "q_2408_08",
               "type": "multiple_choice",
               "question": "Doa memohon keselamatan jasmani dan rohani setiap pagi dan petang: 'Allahumma 'aafinii fii badanii, Allahumma 'aafinii fii sam'ii, Allahumma 'aafinii fii...'",
-              "options": [
-                "Basharii (Penglihatanku)",
-                "Maalii (Hartaku)",
-                "Qalbii (Hatiku)",
-                "Waladii (Anakku)"
-              ],
-              "correct_answer": 0,
-              "explanation": "Allahumma 'aafinii fii basharii, laa ilaaha illaa Anta' memohon kesehatan badan, pendengaran, dan penglihatan."
+              "correct_answer": "[\"Basharii (Penglihatanku)\", \"Maalii (Hartaku)\", \"Qalbii (Hatiku)\", \"Waladii (Anakku)\"]"
             },
             {
               "id": "q_2408_09",
               "type": "true_false",
               "question": "Membaca 'Radhiitu billaahi Rabba, wa bil Islaami diina, wa bi Muhammadin nabiyya' 3 kali dijamin keridhaan Allah di hari kiamat.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Sabda Nabi SAW: adalah hak atas Allah untuk meridhai orang yang membacanya di pagi dan petang hari."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2408_10",
               "type": "fill_in_blank",
               "question": "Dzikir perlindungan dari kejahatan makhluk: 'A'uudzu bikalimaatillaahit taammaati min syarri maa ...'",
-              "options": [
-                "Khalaq"
-              ],
-              "correct_answer": "Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari kejahatan apa yang Dia ciptakan' (HR. Muslim)."
+              "correct_answer": "Khalaq",
+              "explanation": "Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari kejahatan apa yang Dia ciptakan' (HR. Muslim)."
             }
           ]
         },
@@ -28009,59 +27223,35 @@
               "id": "q_2409_01",
               "type": "multiple_choice",
               "question": "Doa ketika hendak keluar rumah: 'Bismillahi tawakkaltu 'alallahi, laa haula wa laa quwwata illaa...'",
-              "options": [
-                "Billaah",
-                "Subhanallah",
-                "Alhamdulillah",
-                "Allahu Akbar"
-              ],
-              "correct_answer": 0,
-              "explanation": "Malaikat akan menyeru: 'Engkau telah diberi petunjuk, dicukupi, dan dilindungi, serta setan menjauh darimu.'"
+              "correct_answer": "[\"Billaah\", \"Subhanallah\", \"Alhamdulillah\", \"Allahu Akbar\"]"
             },
             {
               "id": "q_2409_02",
               "type": "true_false",
               "question": "Doa saat bercermin memohon agar Allah memperbagus akhlak sebagaimana Dia telah memperbagus rupa fisik.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. 'Allahumma kamaa hassanta khalqii fahassin khuluqii' (Ya Allah, perbaguslah akhlakku sebagaimana fisikku)."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2409_03",
               "type": "image_quiz",
               "question": "Doa naik kendaraan darat/udara: 'Subhaanal-ladzii sakh-khara lanaa haadzaa wa maa kunnaa lahu muqriniin, wa innaa ilaa Rabbinaa la...'",
               "image_placeholder": "doa_naik_kendaraan",
-              "options": [
-                "Munqalibuun (Akan kembali)",
-                "Ghaalibuun",
-                "Shaabiruun",
-                "Syaakiruun"
-              ],
-              "correct_answer": 0,
-              "explanation": "Doa naik kendaraan bersumber dari Surah Az-Zukhruf ayat 13-14 yang menegaskan rasa syukur dan kepasrahan safar."
+              "correct_answer": "[\"Munqalibuun (Akan kembali)\", \"Ghaalibuun\", \"Shaabiruun\", \"Syaakiruun\"]"
             },
             {
               "id": "q_2409_04",
               "type": "fill_in_blank",
               "question": "Doa keluar dari kamar mandi/toilet memohon ampunan dengan mengucapkan: '... (Ghufranaka)'.",
-              "options": [
-                "Ghufranaka"
-              ],
-              "correct_answer": "Ghufranaka bermakna 'Aku memohon ampunan-Mu' atas keterbatasan bersyukur setelah diringankan dari kotoran tubuh."
+              "correct_answer": "Ghufranaka",
+              "explanation": "Ghufranaka bermakna 'Aku memohon ampunan-Mu' atas keterbatasan bersyukur setelah diringankan dari kotoran tubuh."
             },
             {
               "id": "q_2409_05",
               "type": "scramble_word",
               "question": "Susun huruf doa penutup majelis pelebur dosa: K - A - F - F - A - R - A - T - U - L - M - A - J - L - I - S",
-              "options": [
-                "K - A - F - F - A - R - A - T - U - L - M - A - J - L - I - S"
-              ],
               "scrambled_hint": "K - A - F - F - A - R - A - T - U - L - M - A - J - L - I - S",
-              "correct_answer": "KAFFARATULMAJLIS",
-              "explanation": "Subhanakallahumma wa bihamdika asyhadu alla ilaha illa anta astaghfiruka wa atubu ilaik."
+              "correct_answer": "K - A - F - F - A - R - A - T - U - L - M - A - J - L - I - S",
+              "explanation": "KAFFARATULMAJLIS"
             },
             {
               "id": "q_2409_06",
@@ -28080,19 +27270,12 @@
                   "left": "Masuk Masjid",
                   "right": "Allahummaftah lii abwaaba rahmatik"
                 }
-              ],
-              "explanation": "Menghidupkan doa dalam setiap rutinitas menjadikan seluruh gerak-gerik bernilai ibadah."
+              ]
             },
             {
               "id": "q_2409_07",
               "type": "ordering",
               "question": "Urutkan adab makan dan berdoa menurut sunnah Rasulullah SAW:",
-              "options": [
-                "Mencuci kedua tangan dan berniat baik",
-                "Membaca bismillah sebelum makan",
-                "Makan dengan tangan kanan mengambil makanan terdekat",
-                "Membaca alhamdulillah setelah selesai makan"
-              ],
               "items": [
                 "Mencuci kedua tangan dan berniat baik",
                 "Membaca bismillah sebelum makan",
@@ -28105,41 +27288,27 @@
                 2,
                 3
               ],
-              "correct_answer": "[0, 1, 2, 3]",
-              "explanation": "Sunnah makan terangkum dalam sabda Nabi kepada Umar bin Abi Salamah: 'Sammillaah, wa kul biyamiinika, wa kul mimmaa yaliik.'"
+              "correct_answer": "[\"Mencuci kedua tangan dan berniat baik\", \"Membaca bismillah sebelum makan\", \"Makan dengan tangan kanan mengambil makanan terdekat\", \"Membaca alhamdulillah setelah selesai makan\"]",
+              "explanation": "[0, 1, 2, 3]"
             },
             {
               "id": "q_2409_08",
               "type": "multiple_choice",
               "question": "Ketika orang lain bersin dan mengucapkan 'Alhamdulillah', sunnah bagi kita yang mendengarnya mendoakan dengan?",
-              "options": [
-                "Yarhamukallah (Semoga Allah merahmatimu)",
-                "Yahdikumullah",
-                "Syifakallah",
-                "Jazakallah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Bila didoakan 'Yarhamukallah', yang bersin membalas dengan 'Yahdikumullahu wa yushlihu baalakum'."
+              "correct_answer": "[\"Yarhamukallah (Semoga Allah merahmatimu)\", \"Yahdikumullah\", \"Syifakallah\", \"Jazakallah\"]"
             },
             {
               "id": "q_2409_09",
               "type": "true_false",
               "question": "Doa perlindungan dari hutang yang melilit dan ketakutan (kegundahan) diajarkan langsung oleh Nabi kepada sahabat Abu Umamah.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. 'Allahumma inni a'udzu bika minal hammi wal hazan... wa ghalabatid-dayni wa qahrir-rijaal.'"
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2409_10",
               "type": "fill_in_blank",
               "question": "Doa memakai pakaian baru: 'Alhamdulillahilladzii kasaanii hadzaats-tsauba wa razaqaniihi min ghairi haulin minnii wa laa ...'",
-              "options": [
-                "Quwwah"
-              ],
-              "correct_answer": "Segala puji bagi Allah yang telah memakaikan pakaian ini tanpa ada daya dan kekuatan dariku' (HR. Abu Dawud)."
+              "correct_answer": "Quwwah",
+              "explanation": "Segala puji bagi Allah yang telah memakaikan pakaian ini tanpa ada daya dan kekuatan dariku' (HR. Abu Dawud)."
             }
           ]
         },
@@ -28151,59 +27320,35 @@
               "id": "q_2410_01",
               "type": "multiple_choice",
               "question": "Waktu mustajab di mana doa antara dua adzan tidak akan tertolak adalah waktu antara?",
-              "options": [
-                "Adzan dan Iqamah",
-                "Shubuh dan Terbit Fajar",
-                "Ashar dan Maghrib",
-                "Tahajud dan Witir"
-              ],
-              "correct_answer": 0,
-              "explanation": "Sabda Nabi SAW: 'Ad-du'aa-u laa yuraddu bainal adzaani wal iqaamah' (HR. Tirmidzi)."
+              "correct_answer": "[\"Adzan dan Iqamah\", \"Shubuh dan Terbit Fajar\", \"Ashar dan Maghrib\", \"Tahajud dan Witir\"]"
             },
             {
               "id": "q_2410_02",
               "type": "true_false",
               "question": "Keadaan seorang hamba yang paling dekat dengan Rabb-nya adalah ketika ia sedang dalam posisi sujud dalam shalat.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Sabda Nabi SAW: 'Aqrabu ma yakuunul 'abdu min Rabbihi wa huwa saajidun, fa-aktsirud-du'aa' (Maka perbanyaklah doa saat sujud)."
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2410_03",
               "type": "image_quiz",
               "question": "Waktu turunnya Allah ke langit dunia pada setiap malam untuk mengabulkan doa dan mengampuni dosa para hamba adalah pada...",
               "image_placeholder": "sepertiga_malam_terakhir",
-              "options": [
-                "Sepertiga malam terakhir",
-                "Awal malam setelah Isya",
-                "Tepat tengah malam",
-                "Waktu dhuha"
-              ],
-              "correct_answer": 0,
-              "explanation": "Hadits Muttafaqun 'Alaih: Allah menyeru di sepertiga malam terakhir: 'Siapa yang berdoa kepada-Ku niscaya Aku kabulkan.'"
+              "correct_answer": "[\"Sepertiga malam terakhir\", \"Awal malam setelah Isya\", \"Tepat tengah malam\", \"Waktu dhuha\"]"
             },
             {
               "id": "q_2410_04",
               "type": "fill_in_blank",
               "question": "Doa orang yang berpuasa ketika ia sedang ... tidak akan tertolak oleh Allah SWT.",
-              "options": [
-                "Berbuka"
-              ],
-              "correct_answer": "Tiga orang yang tidak ditolak doanya: orang yang berpuasa hingga berbuka, pemimpin yang adil, dan doa orang yang terzalimi.'"
+              "correct_answer": "Berbuka",
+              "explanation": "Tiga orang yang tidak ditolak doanya: orang yang berpuasa hingga berbuka, pemimpin yang adil, dan doa orang yang terzalimi.'"
             },
             {
               "id": "q_2410_05",
               "type": "scramble_word",
               "question": "Susun huruf sebutan doa senjata orang mukmin: S - I - L - A - H - U - L - M - U - K - M - I - N",
-              "options": [
-                "S - I - L - A - H - U - L - M - U - K - M - I - N"
-              ],
               "scrambled_hint": "S - I - L - A - H - U - L - M - U - K - M - I - N",
-              "correct_answer": "SILAHULMUKMIN",
-              "explanation": "Ad-Du'aa-u silaahul mu'min' (Doa adalah senjata ampuh orang mukmin dan pilar penegak agama)."
+              "correct_answer": "S - I - L - A - H - U - L - M - U - K - M - I - N",
+              "explanation": "SILAHULMUKMIN"
             },
             {
               "id": "q_2410_06",
@@ -28222,19 +27367,12 @@
                   "left": "Hari Jumat bada Ashar",
                   "right": "Satu waktu khusus di hari Jumat yang ijabah"
                 }
-              ],
-              "explanation": "Memilih waktu dan tempat yang mulia meningkatkan keutamaan diterimanya permohonan hamba."
+              ]
             },
             {
               "id": "q_2410_07",
               "type": "ordering",
               "question": "Urutkan adab susunan berdoa yang sempurna menurut tuntunan sunnah Rasulullah SAW:",
-              "options": [
-                "Memuji dan mengagungkan Allah SWT (tahmid)",
-                "Membaca shalawat atas Nabi Muhammad SAW",
-                "Menyampaikan hajat doa dengan khusyuk dan yakin",
-                "Menutup kembali dengan shalawat dan hamdalah"
-              ],
               "items": [
                 "Memuji dan mengagungkan Allah SWT (tahmid)",
                 "Membaca shalawat atas Nabi Muhammad SAW",
@@ -28247,41 +27385,27 @@
                 2,
                 3
               ],
-              "correct_answer": "[0, 1, 2, 3]",
-              "explanation": "Nabi SAW mendengar seorang berdoa diawali pujian kepada Allah dan shalawat, lalu bersabda: 'Berdoalah, niscaya diberi.'"
+              "correct_answer": "[\"Memuji dan mengagungkan Allah SWT (tahmid)\", \"Membaca shalawat atas Nabi Muhammad SAW\", \"Menyampaikan hajat doa dengan khusyuk dan yakin\", \"Menutup kembali dengan shalawat dan hamdalah\"]",
+              "explanation": "[0, 1, 2, 3]"
             },
             {
               "id": "q_2410_08",
               "type": "multiple_choice",
               "question": "Salah satu penyebab utama doa terhalang dan tidak dikabulkan oleh Allah SWT adalah?",
-              "options": [
-                "Mengkonsumsi makanan dan minuman dari harta haram",
-                "Berdoa dengan suara lirih",
-                "Berdoa tanpa menangis",
-                "Berdoa saat memakai pakaian putih"
-              ],
-              "correct_answer": 0,
-              "explanation": "Nabi menceritakan pemuda berdebu mengangkat tangan berdoa, namun makanannya haram dan pakaiannya haram: 'Faan-naa yustajaabu lidzaalik?'"
+              "correct_answer": "[\"Mengkonsumsi makanan dan minuman dari harta haram\", \"Berdoa dengan suara lirih\", \"Berdoa tanpa menangis\", \"Berdoa saat memakai pakaian putih\"]"
             },
             {
               "id": "q_2410_09",
               "type": "true_false",
               "question": "Mengangkat kedua tangan setinggi dada menghadap kiblat termasuk sunnah adab dalam berdoa.",
-              "options": [
-                "Benar",
-                "Salah"
-              ],
-              "correct_answer": 0,
-              "explanation": "Benar. Sabda Nabi SAW: 'Sesungguhnya Allah Maha Pemalu lagi Maha Mulia, Dia malu membiarkan tangan hamba-Nya kembali kosong.'"
+              "correct_answer": "[\"Benar\", \"Salah\"]"
             },
             {
               "id": "q_2410_10",
               "type": "fill_in_blank",
               "question": "Penutup rangkaian doa yang bermakna 'Kabulkanlah permohonan kami wahai Allah' adalah lafadz ...",
-              "options": [
-                "Aamiin"
-              ],
-              "correct_answer": "Aamiin adalah stempel permohonan yang diaminkan para malaikat di langit dan bumi."
+              "correct_answer": "Aamiin",
+              "explanation": "Aamiin adalah stempel permohonan yang diaminkan para malaikat di langit dan bumi."
             }
           ]
         }
