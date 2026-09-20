@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T23:39:29+07:00",
+  "generated_at": "2026-09-20T23:41:23+07:00",
   "last_updated": "2026-09-20",
   "settings": {
     "ads_enable": true,
@@ -17,8 +17,6 @@
     "ads_reward_enable": true,
     "ads_interstitial_enabled": true,
     "ads_interstitial_enable": true,
-    "initial_daily_quota": 5,
-    "reward_quota_amount": 10,
     "privacy_policy_url": "https://mationetic.com/apps/privacy-policy",
     "app_title": "Quizora",
     "settings_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/settings.json",
