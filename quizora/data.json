@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
-  "generated_at": "2026-09-20T23:41:25+07:00",
-  "last_updated": "2026-09-20",
+  "generated_at": "2026-09-21T07:55:31+07:00",
+  "last_updated": "2026-09-21",
   "packages": [
     {
       "package_id": "pkg_aqidah_01",
@@ -42,7 +42,7 @@
               "id": "q_101_03",
               "type": "image_quiz",
               "question": "Malaikat manakah yang bertugas mencatat amal baik manusia?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/malaikat_raqib.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/malaikat_raqib.jpeg",
               "image_placeholder": "malaikat_raqib",
               "options": [
                 "Raqib",
@@ -232,7 +232,7 @@
               "id": "q_102_07",
               "type": "image_quiz",
               "question": "Kaligrafi lafadz Asmaul Husna 'Ar-Rahman' memiliki makna Maha...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/asmaul_husna_ar_rahman.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/asmaul_husna_ar_rahman.jpeg",
               "image_placeholder": "asmaul_husna_ar_rahman",
               "options": [
                 "Pengasih",
@@ -398,7 +398,7 @@
               "id": "q_201_07",
               "type": "image_quiz",
               "question": "Perhatikan gerakan berwudhu ini: membasuh kedua tangan batasnya sampai mana?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/wudhu_tangan_siku.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/wudhu_tangan_siku.jpeg",
               "image_placeholder": "wudhu_tangan_siku",
               "options": [
                 "Sampai kedua siku",
@@ -535,7 +535,7 @@
               "id": "q_202_07",
               "type": "image_quiz",
               "question": "Posisi duduk di antara dua sujud dalam shalat disebut dengan duduk...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/shalat_duduk_iftirasy.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/shalat_duduk_iftirasy.jpeg",
               "image_placeholder": "shalat_duduk_iftirasy",
               "options": [
                 "Iftirasy",
@@ -671,7 +671,7 @@
               "id": "q_301_07",
               "type": "image_quiz",
               "question": "Nabi Muhammad SAW dilahirkan di kota suci...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kota_suci_mekkah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kota_suci_mekkah.jpeg",
               "image_placeholder": "kota_suci_mekkah",
               "options": [
                 "Mekkah",
@@ -822,7 +822,7 @@
               "id": "q_302_07",
               "type": "image_quiz",
               "question": "Masjid Nabawi di Madinah dibangun pada masa hijrah, terletak di negara...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/masjid_nabawi_madinah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/masjid_nabawi_madinah.jpeg",
               "image_placeholder": "masjid_nabawi_madinah",
               "options": [
                 "Arab Saudi",
@@ -970,7 +970,7 @@
               "id": "q_401_07",
               "type": "image_quiz",
               "question": "Adab ketika hendak makan dan minum menurut sunnah Rasulullah SAW adalah menggunakan tangan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/adab_makan_sunnah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/adab_makan_sunnah.jpeg",
               "image_placeholder": "adab_makan_sunnah",
               "options": [
                 "Kanan",
@@ -1201,7 +1201,7 @@
               "id": "q_501_07",
               "type": "image_quiz",
               "question": "Mushaf Al-Qur'an terdiri atas berapa juz?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/al_quran_30_juz.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/al_quran_30_juz.jpeg",
               "image_placeholder": "al_quran_30_juz",
               "options": [
                 "30 Juz",
@@ -1386,7 +1386,7 @@
               "id": "q_502_07",
               "type": "image_quiz",
               "question": "Doa ketika bercermin adalah memohon kepada Allah agar sebagaimana membaguskan rupa, juga membaguskan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/adab_bercermin_akhlak.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/adab_bercermin_akhlak.jpeg",
               "image_placeholder": "adab_bercermin_akhlak",
               "options": [
                 "Akhlak",
@@ -1495,7 +1495,7 @@
               "id": "q_103_03",
               "type": "image_quiz",
               "question": "Timbangan amal perbuatan manusia yang adil di akhirat disebut dengan...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/timbangan_amal_mizan.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/timbangan_amal_mizan.jpeg",
               "image_placeholder": "timbangan_amal_mizan",
               "options": [
                 "Mizan",
@@ -1697,7 +1697,7 @@
               "id": "q_104_07",
               "type": "image_quiz",
               "question": "Senjata paling ampuh bagi seorang mukmin untuk memohon perubahan takdir muallaq adalah...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/takdir_ikhtiar_doa.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/takdir_ikhtiar_doa.jpeg",
               "image_placeholder": "takdir_ikhtiar_doa",
               "options": [
                 "Doa",
@@ -1836,7 +1836,7 @@
               "id": "q_105_07",
               "type": "image_quiz",
               "question": "Asmaul Husna 'Al-Adl' menegaskan bahwa Allah memiliki sifat Maha...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/asmaul_husna_al_adl.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/asmaul_husna_al_adl.jpeg",
               "image_placeholder": "asmaul_husna_al_adl",
               "options": [
                 "Adil",
@@ -1984,7 +1984,7 @@
               "id": "q_203_07",
               "type": "image_quiz",
               "question": "Sunnah Rasulullah SAW ketika pertama kali membatalkan puasa saat waktu maghrib tiba adalah memakan...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/buka_puasa_kurma.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/buka_puasa_kurma.jpeg",
               "image_placeholder": "buka_puasa_kurma",
               "options": [
                 "Kurma basah (ruthab)",
@@ -2054,7 +2054,7 @@
               "id": "q_203_03",
               "type": "image_quiz",
               "question": "Akad kerja sama usaha antara pemilik modal dan pengelola dengan bagi hasil keuntungan disebut akad...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/akad_mudharabah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/akad_mudharabah.jpeg",
               "image_placeholder": "akad_mudharabah",
               "options": [
                 "Mudharabah",
@@ -2256,7 +2256,7 @@
               "id": "q_204_07",
               "type": "image_quiz",
               "question": "Nisab zakat mal untuk kepemilikan emas batangan murni setara dengan bobot...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/emas_nisab_zakat.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/emas_nisab_zakat.jpeg",
               "image_placeholder": "emas_nisab_zakat",
               "options": [
                 "85 gram emas",
@@ -2326,7 +2326,7 @@
               "id": "q_204_03",
               "type": "image_quiz",
               "question": "Nisab emas yang wajib dikeluarkan zakatnya bila telah mencapai haul satu tahun adalah seberat...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/nisab_emas_zakat.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/nisab_emas_zakat.jpeg",
               "image_placeholder": "nisab_emas_zakat",
               "options": [
                 "85 Gram",
@@ -2525,7 +2525,7 @@
               "id": "q_205_07",
               "type": "image_quiz",
               "question": "Pakaian ihram untuk laki-laki terdiri dari berapa lembar kain putih yang tidak berjahit?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/haji_pakaian_ihram.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/haji_pakaian_ihram.jpeg",
               "image_placeholder": "haji_pakaian_ihram",
               "options": [
                 "Dua lembar",
@@ -2601,7 +2601,7 @@
               "id": "q_701_03",
               "type": "image_quiz",
               "question": "Berapakah jumlah lembar kain kafan yang disunnahkan untuk jenazah laki-laki?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kain_kafan_jenazah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kain_kafan_jenazah.jpeg",
               "image_placeholder": "kain_kafan_jenazah",
               "options": [
                 "3 lembar",
@@ -2740,7 +2740,7 @@
               "id": "q_702_03",
               "type": "image_quiz",
               "question": "Binatang buas yang memiliki taring untuk memangsa hewan lain hukum memakannya dalam Islam adalah?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/hewan_bertaring_buas.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/hewan_bertaring_buas.jpeg",
               "image_placeholder": "hewan_bertaring_buas",
               "options": [
                 "Haram",
@@ -2951,7 +2951,7 @@
               "id": "q_303_07",
               "type": "image_quiz",
               "question": "Kapal besar yang dibuat Nabi Nuh AS atas perintah wahyu Allah akhirnya berlabuh di atas Gunung...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kapal_nabi_nuh.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kapal_nabi_nuh.jpeg",
               "image_placeholder": "kapal_nabi_nuh",
               "options": [
                 "Judi",
@@ -3090,7 +3090,7 @@
               "id": "q_304_07",
               "type": "image_quiz",
               "question": "Mukjizat terbelahnya bulan menjadi dua bagian terjadi pada masa kenabian siapa atas izin Allah?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/mukjizat_bulan_terbelah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/mukjizat_bulan_terbelah.jpeg",
               "image_placeholder": "mukjizat_bulan_terbelah",
               "options": [
                 "Nabi Muhammad SAW",
@@ -3166,7 +3166,7 @@
               "id": "q_801_03",
               "type": "image_quiz",
               "question": "Istana megah peninggalan peradaban Islam di Granada, Spanyol (Andalusia) dikenal dengan nama istana?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/istana_alhambra_andalusia.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/istana_alhambra_andalusia.jpeg",
               "image_placeholder": "istana_alhambra_andalusia",
               "options": [
                 "Alhambra",
@@ -3305,7 +3305,7 @@
               "id": "q_802_03",
               "type": "image_quiz",
               "question": "Tokoh muslim perintis metode optik modern dan penemu prinsip kamera obscura adalah?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/ibnu_al_haitsam_optik.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/ibnu_al_haitsam_optik.jpeg",
               "image_placeholder": "ibnu_al_haitsam_optik",
               "options": [
                 "Ibnu Al-Haitsam",
@@ -3516,7 +3516,7 @@
               "id": "q_403_07",
               "type": "image_quiz",
               "question": "Adab utama seorang penuntut ilmu terhadap gurunya adalah bersikap...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/adab_menuntut_ilmu.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/adab_menuntut_ilmu.jpeg",
               "image_placeholder": "adab_menuntut_ilmu",
               "options": [
                 "Tawadhu dan takzim",
@@ -3592,7 +3592,7 @@
               "id": "q_901_03",
               "type": "image_quiz",
               "question": "Kitab adab santri dan penuntut ilmu yang amat masyhur karya Syaikh Az-Zarnuji berjudul?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kitab_talimul_mutaallim.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kitab_talimul_mutaallim.jpeg",
               "image_placeholder": "kitab_talimul_mutaallim",
               "options": [
                 "Ta'limul Muta'allim",
@@ -3731,7 +3731,7 @@
               "id": "q_902_03",
               "type": "image_quiz",
               "question": "Pedagang muslim yang jujur dan amanah kelak di hari kiamat akan dikumpulkan bersama siapa?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/pedagang_jujur_syurga.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/pedagang_jujur_syurga.jpeg",
               "image_placeholder": "pedagang_jujur_syurga",
               "options": [
                 "Para Nabi, Shiddiqin, dan Syuhada",
@@ -4017,7 +4017,7 @@
               "id": "q_504_03",
               "type": "image_quiz",
               "question": "Hukum tajwid pada lafadz yang memiliki huruf lin bertemu huruf hidup di akhir kalimat dinamakan...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/tajwid_mad_lin.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/tajwid_mad_lin.jpeg",
               "image_placeholder": "tajwid_mad_lin",
               "options": [
                 "Mad Lin",
@@ -4162,7 +4162,7 @@
               "id": "q_601_03",
               "type": "image_quiz",
               "question": "Peristiwa turunnya Al-Qur'an pertama kali ke bumi pada malam kemuliaan disebut malam...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/malam_lailatul_qadar.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/malam_lailatul_qadar.jpeg",
               "image_placeholder": "malam_lailatul_qadar",
               "options": [
                 "Lailatul Qadar",
@@ -4292,7 +4292,7 @@
               "id": "q_601_03",
               "type": "image_quiz",
               "question": "Surah Al-Fil diturunkan berkaitan dengan kegagalan tentara bergajah yang dipimpin oleh siapa?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/pasukan_gajah_abrahah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/pasukan_gajah_abrahah.jpeg",
               "image_placeholder": "pasukan_gajah_abrahah",
               "options": [
                 "Abrahah",
@@ -4431,7 +4431,7 @@
               "id": "q_602_03",
               "type": "image_quiz",
               "question": "Bahtera besar yang menyelamatkan orang beriman dan pasang-pasangan hewan dari banjir dahsyat dibuat oleh Nabi siapa?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/bahtera_nabi_nuh.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/bahtera_nabi_nuh.jpeg",
               "image_placeholder": "bahtera_nabi_nuh",
               "options": [
                 "Nabi Nuh AS",
@@ -4579,7 +4579,7 @@
               "id": "q_305_03",
               "type": "image_quiz",
               "question": "Sahabat yang mengusulkan pembuatan parit pertahanan pada Perang Khandaq bernama...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/sahabat_salman_al_farisi.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/sahabat_salman_al_farisi.jpeg",
               "image_placeholder": "sahabat_salman_al_farisi",
               "options": [
                 "Salman Al-Farisi",
@@ -4718,7 +4718,7 @@
               "id": "q_306_03",
               "type": "image_quiz",
               "question": "Putri tercinta Rasulullah SAW yang bergelar Az-Zahra dan menjadi ibunda Hasan dan Husain adalah...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/tokoh_fatimah_azzahra.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/tokoh_fatimah_azzahra.jpeg",
               "image_placeholder": "tokoh_fatimah_azzahra",
               "options": [
                 "Fatimah Az-Zahra",
@@ -4863,7 +4863,7 @@
               "id": "q_404_03",
               "type": "image_quiz",
               "question": "Posisi tidur yang dianjurkan sesuai sunnah Rasulullah SAW adalah berbaring miring ke sebelah...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/adab_tidur_sunnah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/adab_tidur_sunnah.jpeg",
               "image_placeholder": "adab_tidur_sunnah",
               "options": [
                 "Kanan",
@@ -5002,7 +5002,7 @@
               "id": "q_405_03",
               "type": "image_quiz",
               "question": "Sifat memaafkan kesalahan orang lain dengan lapang dada tanpa menyimpan dendam disebut sifat...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/sifat_pemaaf_afuw.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/sifat_pemaaf_afuw.jpeg",
               "image_placeholder": "sifat_pemaaf_afuw",
               "options": [
                 "Pemaaf (Al-'Afw)",
@@ -5150,7 +5150,7 @@
               "id": "q_505_03",
               "type": "image_quiz",
               "question": "Doa memohon ilmu yang bermanfaat, rezeki yang halal, dan amal yang diterima dibaca pada waktu...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/doa_ilmu_rezeki.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/doa_ilmu_rezeki.jpeg",
               "image_placeholder": "doa_ilmu_rezeki",
               "options": [
                 "Setelah shalat Subuh",
@@ -5436,7 +5436,7 @@
               "id": "q_1001_03",
               "type": "image_quiz",
               "question": "Doa Nabi Yunus AS di dalam kegelapan perut ikan paus berbunyi 'Laa ilaaha illa Anta Subhaanaka inni kuntu minadz...'",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/doa_nabi_yunus_paus.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/doa_nabi_yunus_paus.jpeg",
               "image_placeholder": "doa_nabi_yunus_paus",
               "options": [
                 "Dzaalimiin",
@@ -5575,7 +5575,7 @@
               "id": "q_1002_03",
               "type": "image_quiz",
               "question": "Kalimat tauhid dzikir penentram hati 'Laa ilaaha illallaahul malikul haqqul...' dilanjutkan dengan lafadz?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kalimat_malikul_haqqul_mubin.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kalimat_malikul_haqqul_mubin.jpeg",
               "image_placeholder": "kalimat_malikul_haqqul_mubin",
               "options": [
                 "Mubin",
@@ -5783,7 +5783,7 @@
               "id": "q_1101_07",
               "type": "image_quiz",
               "question": "Kitab matan hadits pegangan umat Islam ini disusun oleh ulama bermazhab Syafi'i yang bernama Imam...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kitab_arbain_nawawi.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kitab_arbain_nawawi.jpeg",
               "image_placeholder": "kitab_arbain_nawawi",
               "options": [
                 "An-Nawawi",
@@ -5922,7 +5922,7 @@
               "id": "q_1102_07",
               "type": "image_quiz",
               "question": "Ulama ahli hadits pengarang kitab hadits paling otentik setelah Al-Qur'an lahir di kota Bukhara, bernama Imam...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/imam_bukhari.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/imam_bukhari.jpeg",
               "image_placeholder": "imam_bukhari",
               "options": [
                 "Al-Bukhari",
@@ -6202,7 +6202,7 @@
               "id": "q_1202_07",
               "type": "image_quiz",
               "question": "Skema pendanaan gotong royong digital berbasis syariah untuk UMKM dikenal dengan istilah Securities Crowdfunding atau...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/fintech_syariah_investasi.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/fintech_syariah_investasi.jpeg",
               "image_placeholder": "fintech_syariah_investasi",
               "options": [
                 "Peer-to-Peer Syariah",
@@ -6316,7 +6316,7 @@
               "id": "q_1601_06",
               "type": "image_quiz",
               "question": "Akad penitipan murni di mana penerima titipan wajib menjaga keutuhan barang titipan dinamakan akad...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/akad_wadiah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/akad_wadiah.jpeg",
               "image_placeholder": "akad_wadiah",
               "options": [
                 "Wadi'ah",
@@ -6455,7 +6455,7 @@
               "id": "q_1602_06",
               "type": "image_quiz",
               "question": "Kadar zakat emas dan perak yang wajib dikeluarkan setelah mencapai nisab adalah sebesar...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/zakat_emas_perak.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/zakat_emas_perak.jpeg",
               "image_placeholder": "zakat_emas_perak",
               "options": [
                 "2,5%",
@@ -6594,7 +6594,7 @@
               "id": "q_1603_06",
               "type": "image_quiz",
               "question": "Berapa bagian waris seorang anak laki-laki dibandingkan satu anak perempuan (Surah An-Nisa: 11)?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/bagian_waris_anak.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/bagian_waris_anak.jpeg",
               "image_placeholder": "bagian_waris_anak",
               "options": [
                 "Dua berbanding satu",
@@ -6733,7 +6733,7 @@
               "id": "q_1604_06",
               "type": "image_quiz",
               "question": "Adab sunnah ketika bersin adalah menutup mulut dengan tangan atau pakaian lalu mengucapkan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/adab_bersin_alhamdulillah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/adab_bersin_alhamdulillah.jpeg",
               "image_placeholder": "adab_bersin_alhamdulillah",
               "options": [
                 "Alhamdulillah",
@@ -6906,7 +6906,7 @@
               "id": "q_1301_07",
               "type": "image_quiz",
               "question": "Batu nisan kuno Sultan Malik As-Saleh di Samudera Pasai ini bercorak seni kaligrafi khas daerah asal pedagang...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/nisan_malik_assaleh.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/nisan_malik_assaleh.jpeg",
               "image_placeholder": "nisan_malik_assaleh",
               "options": [
                 "Gujarat",
@@ -7042,7 +7042,7 @@
               "id": "q_1302_07",
               "type": "image_quiz",
               "question": "Menara masjid yang memadukan arsitektur bata merah Hindu-Jawa dan Islam ini peninggalan dari Sunan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/menara_masjid_kudus.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/menara_masjid_kudus.jpeg",
               "image_placeholder": "menara_masjid_kudus",
               "options": [
                 "Kudus",
@@ -7178,7 +7178,7 @@
               "id": "q_1303_07",
               "type": "image_quiz",
               "question": "Masjid bersejarah beratap tumpang tiga bertingkat di Jawa Tengah ini didirikan para Walisongo, yaitu Masjid Agung...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/masjid_agung_demak.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/masjid_agung_demak.jpeg",
               "image_placeholder": "masjid_agung_demak",
               "options": [
                 "Demak",
@@ -7326,7 +7326,7 @@
               "id": "q_1401_07",
               "type": "image_quiz",
               "question": "Makam Imam Syafi'i yang berkubah megah ini diziarahi jutaan muslim dari seluruh dunia, terletak di kota Kairo negara...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/makam_imam_syafii_kairo.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/makam_imam_syafii_kairo.jpeg",
               "image_placeholder": "makam_imam_syafii_kairo",
               "options": [
                 "Mesir",
@@ -7465,7 +7465,7 @@
               "id": "q_1402_07",
               "type": "image_quiz",
               "question": "Kitab tafsir berbahasa Indonesia lengkap 30 juz berlatar budaya Nusantara ini mahakarya dari Buya...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kitab_tafsir_al_azhar.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kitab_tafsir_al_azhar.jpeg",
               "image_placeholder": "kitab_tafsir_al_azhar",
               "options": [
                 "Hamka",
@@ -7610,7 +7610,7 @@
               "id": "q_1501_07",
               "type": "image_quiz",
               "question": "Kitab rujukan agung tazkiyatun nafs 'Ihya Ulumuddin' ditulis oleh Hujjatul Islam yang bernama Imam...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kitab_ihya_ulumuddin.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kitab_ihya_ulumuddin.jpeg",
               "image_placeholder": "kitab_ihya_ulumuddin",
               "options": [
                 "Al-Ghazali",
@@ -7733,7 +7733,7 @@
               "id": "q_1701_06",
               "type": "image_quiz",
               "question": "Filsuf muslim yang dikenal di Barat dengan sebutan Averroes dan membela filsafat rasional Islam adalah...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/tokoh_ibnu_rusyd.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/tokoh_ibnu_rusyd.jpeg",
               "image_placeholder": "tokoh_ibnu_rusyd",
               "options": [
                 "Ibnu Rusyd",
@@ -7872,7 +7872,7 @@
               "id": "q_1702_06",
               "type": "image_quiz",
               "question": "Menara masjid bercorak perpaduan Hindu-Islam peninggalan Sunan Kudus adalah Menara...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/menara_kudus.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/menara_kudus.jpeg",
               "image_placeholder": "menara_kudus",
               "options": [
                 "Kudus",
@@ -8011,7 +8011,7 @@
               "id": "q_1703_06",
               "type": "image_quiz",
               "question": "Sultan Utsmaniyah yang memimpin penaklukan Konstantinopel pada tahun 1453 M saat usia 21 tahun adalah...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/tokoh_muhammad_al_fatih.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/tokoh_muhammad_al_fatih.jpeg",
               "image_placeholder": "tokoh_muhammad_al_fatih",
               "options": [
                 "Muhammad Al-Fatih (Mehmed II)",
@@ -8159,7 +8159,7 @@
               "id": "q_1801_06",
               "type": "image_quiz",
               "question": "Kitab kumpulan hadits shahih terlengkap rujukan nomor satu umat Islam disusun oleh Imam...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kitab_shahih_bukhari.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kitab_shahih_bukhari.jpeg",
               "image_placeholder": "kitab_shahih_bukhari",
               "options": [
                 "Al-Bukhari",
@@ -8298,7 +8298,7 @@
               "id": "q_1802_06",
               "type": "image_quiz",
               "question": "Sikap menyandarkan segala hasil usaha dan berserah diri secara penuh kepada Allah SWT disebut...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/makna_tawakal_allah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/makna_tawakal_allah.jpeg",
               "image_placeholder": "makna_tawakal_allah",
               "options": [
                 "Tawakal",
@@ -8437,7 +8437,7 @@
               "id": "q_1803_06",
               "type": "image_quiz",
               "question": "Sayyidul Istighfar (rajanya doa istighfar) mengandung pengakuan nikmat dan ampunan dosa, dimulai dengan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/doa_sayyidul_istighfar.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/doa_sayyidul_istighfar.jpeg",
               "image_placeholder": "doa_sayyidul_istighfar",
               "options": [
                 "Allahumma Anta Rabbi laa ilaaha illa Anta",
@@ -8547,7 +8547,7 @@
               "id": "q_1901_03",
               "type": "image_quiz",
               "question": "Dalam Surah At-Tin, buah manakah yang dijadikan sumpah Allah bersama buah zaitun?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/buah_tin_zaitun.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/buah_tin_zaitun.jpeg",
               "image_placeholder": "buah_tin_zaitun",
               "options": [
                 "Buah Tin",
@@ -8686,7 +8686,7 @@
               "id": "q_1902_03",
               "type": "image_quiz",
               "question": "Peristiwa hijrah Nabi ke kota Madinah yang menjadi batas klasifikasi Makkiyah-Madaniyah diawali di masjid pertama Islam yaitu...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/masjid_quba_madinah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/masjid_quba_madinah.jpeg",
               "image_placeholder": "masjid_quba_madinah",
               "options": [
                 "Masjid Quba",
@@ -8963,7 +8963,7 @@
               "id": "q_1904_03",
               "type": "image_quiz",
               "question": "Penghafal Al-Qur'an (hafizh) dijanjikan Allah akan menyematkan mahkota kemuliaan kepada kedua orang tuanya di...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/mahkota_kemuliaan_hafizh.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/mahkota_kemuliaan_hafizh.jpeg",
               "image_placeholder": "mahkota_kemuliaan_hafizh",
               "options": [
                 "Akhirat / Surga",
@@ -9111,7 +9111,7 @@
               "id": "q_2001_03",
               "type": "image_quiz",
               "question": "Pernyataan serah terima ijab dan qabul dalam akad nikah diucapkan di hadapan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/ijab_qabul_pernikahan.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/ijab_qabul_pernikahan.jpeg",
               "image_placeholder": "ijab_qabul_pernikahan",
               "options": [
                 "Wali dan Dua Saksi Adil",
@@ -9250,7 +9250,7 @@
               "id": "q_2002_03",
               "type": "image_quiz",
               "question": "Ahli waris yang mendapatkan sisa harta warisan setelah bagian pasti (furudh) dibagikan disebut kelompok ahli waris...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/pembagian_waris_ashabah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/pembagian_waris_ashabah.jpeg",
               "image_placeholder": "pembagian_waris_ashabah",
               "options": [
                 "Ashabah",
@@ -9389,7 +9389,7 @@
               "id": "q_2003_03",
               "type": "image_quiz",
               "question": "Kewajiban menjaga lima prinsip pokok syariat Islam (Al-Kulliyyat Al-Khams) dipelopori pembahasannya oleh ulama besar...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/imam_al_ghazali.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/imam_al_ghazali.jpeg",
               "image_placeholder": "imam_al_ghazali",
               "options": [
                 "Imam Al-Ghazali",
@@ -9528,7 +9528,7 @@
               "id": "q_2004_03",
               "type": "image_quiz",
               "question": "Akad jual beli barang dengan menyatakan harga perolehan dan margin keuntungan yang disepakati antara bank dan nasabah disebut...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/transaksi_murabahah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/transaksi_murabahah.jpeg",
               "image_placeholder": "transaksi_murabahah",
               "options": [
                 "Murabahah",
@@ -9676,7 +9676,7 @@
               "id": "q_2101_03",
               "type": "image_quiz",
               "question": "Bangunan bersejarah di Istanbul yang diubah dari katedral menjadi masjid oleh Muhammad Al-Fatih bernama...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/masjid_hagia_sophia.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/masjid_hagia_sophia.jpeg",
               "image_placeholder": "masjid_hagia_sophia",
               "options": [
                 "Hagia Sophia (Aya Sofya)",
@@ -9815,7 +9815,7 @@
               "id": "q_2102_03",
               "type": "image_quiz",
               "question": "Pusat perpustakaan, penerjemahan, dan akademi ilmu pengetahuan masa Dinasti Abbasiyah di Baghdad bernama...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/baitul_hikmah_baghdad.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/baitul_hikmah_baghdad.jpeg",
               "image_placeholder": "baitul_hikmah_baghdad",
               "options": [
                 "Baitul Hikmah",
@@ -9963,7 +9963,7 @@
               "id": "q_2201_03",
               "type": "image_quiz",
               "question": "Bagan mahram dalam pernikahan: wanita yang haram dinikahi karena hubungan persusuan (radha'ah) berkedudukan sama seperti mahram karena nasab. Tipe mahram ini termasuk mahram...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/bagan_mahram_radhaah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/bagan_mahram_radhaah.jpeg",
               "image_placeholder": "bagan_mahram_radhaah",
               "options": [
                 "Muabbad (selamanya)",
@@ -10102,7 +10102,7 @@
               "id": "q_2202_03",
               "type": "image_quiz",
               "question": "Perhatikan ilustrasi hak keluarga: pemenuhan pangan, sandang, dan tempat tinggal bagi istri dan anak-anak merupakan kewajiban suami dalam bentuk...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kewajiban_nafkah_keluarga.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kewajiban_nafkah_keluarga.jpeg",
               "image_placeholder": "kewajiban_nafkah_keluarga",
               "options": [
                 "Nafkah Lahir",
@@ -10241,7 +10241,7 @@
               "id": "q_2203_03",
               "type": "image_quiz",
               "question": "Masa tunggu seorang wanita muslimah setelah thalaq atau ditinggal mati suaminya sebelum boleh menikah lagi disebut...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/diagram_masa_iddah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/diagram_masa_iddah.jpeg",
               "image_placeholder": "diagram_masa_iddah",
               "options": [
                 "Iddah",
@@ -10380,7 +10380,7 @@
               "id": "q_2204_03",
               "type": "image_quiz",
               "question": "Ahli waris yang bagian perolehannya telah ditentukan secara pasti dalam Al-Qur'an (seperti 1/2, 1/4, 1/8, 2/3, 1/3, 1/6) disebut...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/tabel_ashabul_furudh.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/tabel_ashabul_furudh.jpeg",
               "image_placeholder": "tabel_ashabul_furudh",
               "options": [
                 "Ashabul Furudh",
@@ -10519,7 +10519,7 @@
               "id": "q_2205_03",
               "type": "image_quiz",
               "question": "Ahli waris yang mengambil seluruh sisa harta warisan setelah para Ashabul Furudh menerima bagiannya disebut...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/pembagian_sisa_asabah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/pembagian_sisa_asabah.jpeg",
               "image_placeholder": "pembagian_sisa_asabah",
               "options": [
                 "Ashabah",
@@ -10658,7 +10658,7 @@
               "id": "q_2206_03",
               "type": "image_quiz",
               "question": "Tiga hal utama yang mutlak menggugurkan hak waris: perbudakan, pembunuhan, dan perbedaan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/penghalang_hak_waris.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/penghalang_hak_waris.jpeg",
               "image_placeholder": "penghalang_hak_waris",
               "options": [
                 "Agama",
@@ -10794,7 +10794,7 @@
               "id": "q_2207_03",
               "type": "image_quiz",
               "question": "Tindak pidana perampokan bersenjata di jalan raya yang mengancam ketertiban umum dalam istilah fiqih jinayat disebut...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/perampokan_hirabah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/perampokan_hirabah.jpeg",
               "image_placeholder": "perampokan_hirabah",
               "options": [
                 "Hirabah (Quththa'ut Thariq)",
@@ -10933,7 +10933,7 @@
               "id": "q_2208_03",
               "type": "image_quiz",
               "question": "Diyat terbagi dua macam: Diyat Mughalladhah (diyat berat) dan Diyat Mukhaffafah (diyat ringan). Keduanya dibedakan berdasarkan usia dan jenis...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/unta_diyat_jenjang.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/unta_diyat_jenjang.jpeg",
               "image_placeholder": "unta_diyat_jenjang",
               "options": [
                 "Unta",
@@ -11072,7 +11072,7 @@
               "id": "q_2209_03",
               "type": "image_quiz",
               "question": "Prinsip keadilan dalam persidangan: Hakim wajib memperlakukan kedua pihak yang bersengketa secara setara dalam hal tempat duduk, pandangan, dan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/prinsip_keadilan_hakim.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/prinsip_keadilan_hakim.jpeg",
               "image_placeholder": "prinsip_keadilan_hakim",
               "options": [
                 "Tutur kata / sapaan",
@@ -11211,7 +11211,7 @@
               "id": "q_2210_03",
               "type": "image_quiz",
               "question": "Transaksi jual beli barang dengan menegaskan harga pokok perolehan ditambah marjin keuntungan yang disepakati bersama disebut...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/akad_jual_beli_murabahah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/akad_jual_beli_murabahah.jpeg",
               "image_placeholder": "akad_jual_beli_murabahah",
               "options": [
                 "Murabahah",
@@ -11359,7 +11359,7 @@
               "id": "q_2301_03",
               "type": "image_quiz",
               "question": "Monumen kubah emas megah di kompleks Masjid Al-Aqsha Yerusalem yang dibangun oleh Khalifah Abdul Malik bin Marwan bernama...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kubah_batu_dome_of_rock.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kubah_batu_dome_of_rock.jpeg",
               "image_placeholder": "kubah_batu_dome_of_rock",
               "options": [
                 "Dome of the Rock (Qubbatush Shakhrah)",
@@ -11498,7 +11498,7 @@
               "id": "q_2302_03",
               "type": "image_quiz",
               "question": "Akademi ilmu pengetahuan, observatorium, dan perpustakaan raya di Baghdad masa Abbasiyah bernama...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/baitul_hikmah_abbasiyah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/baitul_hikmah_abbasiyah.jpeg",
               "image_placeholder": "baitul_hikmah_abbasiyah",
               "options": [
                 "Baitul Hikmah (House of Wisdom)",
@@ -11637,7 +11637,7 @@
               "id": "q_2303_03",
               "type": "image_quiz",
               "question": "Istana megah berarsitektur kaligrafi Arab yang memukau di Granada, benteng terakhir peradaban Islam di Spanyol bernama...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/istana_alhambra_granada.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/istana_alhambra_granada.jpeg",
               "image_placeholder": "istana_alhambra_granada",
               "options": [
                 "Alhambra (Qashrul Hamra)",
@@ -11776,7 +11776,7 @@
               "id": "q_2304_03",
               "type": "image_quiz",
               "question": "Benteng pertahanan kokoh di bukit Muqattam Kairo yang menjadi pusat pemerintahan kesultanan Mamluk adalah...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/benteng_citadel_kairo.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/benteng_citadel_kairo.jpeg",
               "image_placeholder": "benteng_citadel_kairo",
               "options": [
                 "Benteng Salahuddin (The Citadel of Cairo)",
@@ -11915,7 +11915,7 @@
               "id": "q_2305_03",
               "type": "image_quiz",
               "question": "Alun-alun megah terbesar kedua di dunia yang dibangun oleh Shah Abbas I di Isfahan bernama Meidan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/alun_alun_naqsh_e_jahan.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/alun_alun_naqsh_e_jahan.jpeg",
               "image_placeholder": "alun_alun_naqsh_e_jahan",
               "options": [
                 "Naqsh-e Jahan (Pola Dunia)",
@@ -12054,7 +12054,7 @@
               "id": "q_2306_03",
               "type": "image_quiz",
               "question": "Benteng bata merah megah di Delhi yang menjadi istana kediaman para kaisar Mughal bernama...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/benteng_merah_delhi.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/benteng_merah_delhi.jpeg",
               "image_placeholder": "benteng_merah_delhi",
               "options": [
                 "Red Fort (Benteng Merah / Lal Qila)",
@@ -12193,7 +12193,7 @@
               "id": "q_2307_03",
               "type": "image_quiz",
               "question": "Rumah sakit umum dalam peradaban Islam yang dilengkapi ruang operasi, apotek, dan pemisahan bangsal pasien menular disebut...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/bimaristan_rumah_sakit.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/bimaristan_rumah_sakit.jpeg",
               "image_placeholder": "bimaristan_rumah_sakit",
               "options": [
                 "Bimaristan (Darush Syifa)",
@@ -12332,7 +12332,7 @@
               "id": "q_2308_03",
               "type": "image_quiz",
               "question": "Observatorium bintang raksasa tercanggih di masanya yang dipimpin oleh Nashiruddin Ath-Thusi di Iran bernama...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/observatorium_maragha.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/observatorium_maragha.jpeg",
               "image_placeholder": "observatorium_maragha",
               "options": [
                 "Observatorium Maragha",
@@ -12471,7 +12471,7 @@
               "id": "q_2309_03",
               "type": "image_quiz",
               "question": "Filsuf muslim terkemuka asal Kordoba yang dikenal di Barat sebagai 'Sang Komentator Agung' karya-karya Aristoteles adalah...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/patung_ibnu_rusyd_averroes.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/patung_ibnu_rusyd_averroes.jpeg",
               "image_placeholder": "patung_ibnu_rusyd_averroes",
               "options": [
                 "Ibnu Rusyd (Averroes)",
@@ -12610,7 +12610,7 @@
               "id": "q_2310_03",
               "type": "image_quiz",
               "question": "Masjid bersejarah dengan menara batu bata mirip candi Hindu di Jawa Tengah yang menjadi ikon toleransi dakwah Walisongo adalah...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/menara_masjid_kudus.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/menara_masjid_kudus.jpeg",
               "image_placeholder": "menara_masjid_kudus",
               "options": [
                 "Masjid Menara Kudus",
@@ -12758,7 +12758,7 @@
               "id": "q_2401_03",
               "type": "image_quiz",
               "question": "Hadits Arba'in ke-5 melarang perbuatan bid'ah dalam perkara agama: 'Barangsiapa membuat perkara baru dalam urusan agama ini yang bukan darinya, maka amalan itu...'",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/hadits_larangan_bidah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/hadits_larangan_bidah.jpeg",
               "image_placeholder": "hadits_larangan_bidah",
               "options": [
                 "Tertolak (Mardud)",
@@ -12897,7 +12897,7 @@
               "id": "q_2402_03",
               "type": "image_quiz",
               "question": "Nasihat agung Rasulullah SAW yang diulang sebanyak 3 kali saat seorang sahabat meminta wasiat singkat adalah...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/jangan_marah_hadits.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/jangan_marah_hadits.jpeg",
               "image_placeholder": "jangan_marah_hadits",
               "options": [
                 "Janganlah engkau marah (La taghdhab)",
@@ -13036,7 +13036,7 @@
               "id": "q_2403_03",
               "type": "image_quiz",
               "question": "Kisah 3 orang yang terperangkap dalam gua tertutup batu besar berhasil selamat karena bertawassul dengan amal ikhlas mereka: berbakti orang tua, menjaga kehormatan, dan menunaikan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/tiga_orang_dalam_gua.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/tiga_orang_dalam_gua.jpeg",
               "image_placeholder": "tiga_orang_dalam_gua",
               "options": [
                 "Hak upah buruh pekerja",
@@ -13175,7 +13175,7 @@
               "id": "q_2404_03",
               "type": "image_quiz",
               "question": "Perumpamaan tawakal yang diajarkan Rasulullah SAW seperti seekor burung yang keluar di pagi hari dalam keadaan lapar dan pulang sore hari dalam keadaan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/burung_tawakal_pagi_sore.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/burung_tawakal_pagi_sore.jpeg",
               "image_placeholder": "burung_tawakal_pagi_sore",
               "options": [
                 "Kenyang",
@@ -13314,7 +13314,7 @@
               "id": "q_2405_03",
               "type": "image_quiz",
               "question": "Hak seorang muslim atas muslim lainnya ada 6 perkara: menjawab salam, menghadiri undangan, menasihati saat diminta, mendoakan saat bersin, menjenguk saat sakit, dan mengantar...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/mengantar_jenazah_muslim.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/mengantar_jenazah_muslim.jpeg",
               "image_placeholder": "mengantar_jenazah_muslim",
               "options": [
                 "Jenazah ke pemakaman",
@@ -13453,7 +13453,7 @@
               "id": "q_2406_03",
               "type": "image_quiz",
               "question": "Sikap kagum berlebihan terhadap kehebatan atau kesalehan diri sendiri tanpa menyandarkannya kepada Allah dinamakan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/penyakit_hati_ujub.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/penyakit_hati_ujub.jpeg",
               "image_placeholder": "penyakit_hati_ujub",
               "options": [
                 "'Ujub",
@@ -13592,7 +13592,7 @@
               "id": "q_2407_03",
               "type": "image_quiz",
               "question": "Sabda Nabi kepada Ibnu Umar: 'Jadilah engkau di dunia ini seakan-akan orang asing atau orang yang sedang...'",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/musafir_mengembara_dunia.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/musafir_mengembara_dunia.jpeg",
               "image_placeholder": "musafir_mengembara_dunia",
               "options": [
                 "Menyeberang jalan (Musafir)",
@@ -13728,7 +13728,7 @@
               "id": "q_2408_03",
               "type": "image_quiz",
               "question": "Doa perlindungan dari marabahaya: 'Bismillaahilladzii laa yadhurru ma'asmihii syai-un fil ardhi wa laa fis-samaa-i wa huwas...' Dibaca sebanyak 3 kali setiap pagi dan petang.",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/doa_bismillahilladzi.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/doa_bismillahilladzi.jpeg",
               "image_placeholder": "doa_bismillahilladzi",
               "options": [
                 "Samii'ul 'Aliim",
@@ -13867,7 +13867,7 @@
               "id": "q_2409_03",
               "type": "image_quiz",
               "question": "Doa naik kendaraan darat/udara: 'Subhaanal-ladzii sakh-khara lanaa haadzaa wa maa kunnaa lahu muqriniin, wa innaa ilaa Rabbinaa la...'",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/doa_naik_kendaraan.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/doa_naik_kendaraan.jpeg",
               "image_placeholder": "doa_naik_kendaraan",
               "options": [
                 "Munqalibuun (Akan kembali)",
@@ -14006,7 +14006,7 @@
               "id": "q_2410_03",
               "type": "image_quiz",
               "question": "Waktu turunnya Allah ke langit dunia pada setiap malam untuk mengabulkan doa dan mengampuni dosa para hamba adalah pada...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/sepertiga_malam_terakhir.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/sepertiga_malam_terakhir.jpeg",
               "image_placeholder": "sepertiga_malam_terakhir",
               "options": [
                 "Sepertiga malam terakhir",
@@ -14156,7 +14156,7 @@
               "id": "q_101_03",
               "type": "image_quiz",
               "question": "Malaikat manakah yang bertugas mencatat amal baik manusia?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/malaikat_raqib.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/malaikat_raqib.jpeg",
               "image_placeholder": "malaikat_raqib",
               "options": [
                 "Raqib",
@@ -14346,7 +14346,7 @@
               "id": "q_102_07",
               "type": "image_quiz",
               "question": "Kaligrafi lafadz Asmaul Husna 'Ar-Rahman' memiliki makna Maha...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/asmaul_husna_ar_rahman.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/asmaul_husna_ar_rahman.jpeg",
               "image_placeholder": "asmaul_husna_ar_rahman",
               "options": [
                 "Pengasih",
@@ -14512,7 +14512,7 @@
               "id": "q_201_07",
               "type": "image_quiz",
               "question": "Perhatikan gerakan berwudhu ini: membasuh kedua tangan batasnya sampai mana?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/wudhu_tangan_siku.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/wudhu_tangan_siku.jpeg",
               "image_placeholder": "wudhu_tangan_siku",
               "options": [
                 "Sampai kedua siku",
@@ -14649,7 +14649,7 @@
               "id": "q_202_07",
               "type": "image_quiz",
               "question": "Posisi duduk di antara dua sujud dalam shalat disebut dengan duduk...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/shalat_duduk_iftirasy.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/shalat_duduk_iftirasy.jpeg",
               "image_placeholder": "shalat_duduk_iftirasy",
               "options": [
                 "Iftirasy",
@@ -14785,7 +14785,7 @@
               "id": "q_301_07",
               "type": "image_quiz",
               "question": "Nabi Muhammad SAW dilahirkan di kota suci...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kota_suci_mekkah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kota_suci_mekkah.jpeg",
               "image_placeholder": "kota_suci_mekkah",
               "options": [
                 "Mekkah",
@@ -14936,7 +14936,7 @@
               "id": "q_302_07",
               "type": "image_quiz",
               "question": "Masjid Nabawi di Madinah dibangun pada masa hijrah, terletak di negara...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/masjid_nabawi_madinah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/masjid_nabawi_madinah.jpeg",
               "image_placeholder": "masjid_nabawi_madinah",
               "options": [
                 "Arab Saudi",
@@ -15084,7 +15084,7 @@
               "id": "q_401_07",
               "type": "image_quiz",
               "question": "Adab ketika hendak makan dan minum menurut sunnah Rasulullah SAW adalah menggunakan tangan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/adab_makan_sunnah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/adab_makan_sunnah.jpeg",
               "image_placeholder": "adab_makan_sunnah",
               "options": [
                 "Kanan",
@@ -15315,7 +15315,7 @@
               "id": "q_501_07",
               "type": "image_quiz",
               "question": "Mushaf Al-Qur'an terdiri atas berapa juz?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/al_quran_30_juz.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/al_quran_30_juz.jpeg",
               "image_placeholder": "al_quran_30_juz",
               "options": [
                 "30 Juz",
@@ -15500,7 +15500,7 @@
               "id": "q_502_07",
               "type": "image_quiz",
               "question": "Doa ketika bercermin adalah memohon kepada Allah agar sebagaimana membaguskan rupa, juga membaguskan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/adab_bercermin_akhlak.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/adab_bercermin_akhlak.jpeg",
               "image_placeholder": "adab_bercermin_akhlak",
               "options": [
                 "Akhlak",
@@ -15609,7 +15609,7 @@
               "id": "q_103_03",
               "type": "image_quiz",
               "question": "Timbangan amal perbuatan manusia yang adil di akhirat disebut dengan...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/timbangan_amal_mizan.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/timbangan_amal_mizan.jpeg",
               "image_placeholder": "timbangan_amal_mizan",
               "options": [
                 "Mizan",
@@ -15811,7 +15811,7 @@
               "id": "q_104_07",
               "type": "image_quiz",
               "question": "Senjata paling ampuh bagi seorang mukmin untuk memohon perubahan takdir muallaq adalah...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/takdir_ikhtiar_doa.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/takdir_ikhtiar_doa.jpeg",
               "image_placeholder": "takdir_ikhtiar_doa",
               "options": [
                 "Doa",
@@ -15950,7 +15950,7 @@
               "id": "q_105_07",
               "type": "image_quiz",
               "question": "Asmaul Husna 'Al-Adl' menegaskan bahwa Allah memiliki sifat Maha...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/asmaul_husna_al_adl.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/asmaul_husna_al_adl.jpeg",
               "image_placeholder": "asmaul_husna_al_adl",
               "options": [
                 "Adil",
@@ -16098,7 +16098,7 @@
               "id": "q_203_07",
               "type": "image_quiz",
               "question": "Sunnah Rasulullah SAW ketika pertama kali membatalkan puasa saat waktu maghrib tiba adalah memakan...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/buka_puasa_kurma.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/buka_puasa_kurma.jpeg",
               "image_placeholder": "buka_puasa_kurma",
               "options": [
                 "Kurma basah (ruthab)",
@@ -16168,7 +16168,7 @@
               "id": "q_203_03",
               "type": "image_quiz",
               "question": "Akad kerja sama usaha antara pemilik modal dan pengelola dengan bagi hasil keuntungan disebut akad...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/akad_mudharabah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/akad_mudharabah.jpeg",
               "image_placeholder": "akad_mudharabah",
               "options": [
                 "Mudharabah",
@@ -16370,7 +16370,7 @@
               "id": "q_204_07",
               "type": "image_quiz",
               "question": "Nisab zakat mal untuk kepemilikan emas batangan murni setara dengan bobot...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/emas_nisab_zakat.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/emas_nisab_zakat.jpeg",
               "image_placeholder": "emas_nisab_zakat",
               "options": [
                 "85 gram emas",
@@ -16440,7 +16440,7 @@
               "id": "q_204_03",
               "type": "image_quiz",
               "question": "Nisab emas yang wajib dikeluarkan zakatnya bila telah mencapai haul satu tahun adalah seberat...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/nisab_emas_zakat.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/nisab_emas_zakat.jpeg",
               "image_placeholder": "nisab_emas_zakat",
               "options": [
                 "85 Gram",
@@ -16639,7 +16639,7 @@
               "id": "q_205_07",
               "type": "image_quiz",
               "question": "Pakaian ihram untuk laki-laki terdiri dari berapa lembar kain putih yang tidak berjahit?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/haji_pakaian_ihram.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/haji_pakaian_ihram.jpeg",
               "image_placeholder": "haji_pakaian_ihram",
               "options": [
                 "Dua lembar",
@@ -16715,7 +16715,7 @@
               "id": "q_701_03",
               "type": "image_quiz",
               "question": "Berapakah jumlah lembar kain kafan yang disunnahkan untuk jenazah laki-laki?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kain_kafan_jenazah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kain_kafan_jenazah.jpeg",
               "image_placeholder": "kain_kafan_jenazah",
               "options": [
                 "3 lembar",
@@ -16854,7 +16854,7 @@
               "id": "q_702_03",
               "type": "image_quiz",
               "question": "Binatang buas yang memiliki taring untuk memangsa hewan lain hukum memakannya dalam Islam adalah?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/hewan_bertaring_buas.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/hewan_bertaring_buas.jpeg",
               "image_placeholder": "hewan_bertaring_buas",
               "options": [
                 "Haram",
@@ -17065,7 +17065,7 @@
               "id": "q_303_07",
               "type": "image_quiz",
               "question": "Kapal besar yang dibuat Nabi Nuh AS atas perintah wahyu Allah akhirnya berlabuh di atas Gunung...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kapal_nabi_nuh.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kapal_nabi_nuh.jpeg",
               "image_placeholder": "kapal_nabi_nuh",
               "options": [
                 "Judi",
@@ -17204,7 +17204,7 @@
               "id": "q_304_07",
               "type": "image_quiz",
               "question": "Mukjizat terbelahnya bulan menjadi dua bagian terjadi pada masa kenabian siapa atas izin Allah?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/mukjizat_bulan_terbelah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/mukjizat_bulan_terbelah.jpeg",
               "image_placeholder": "mukjizat_bulan_terbelah",
               "options": [
                 "Nabi Muhammad SAW",
@@ -17280,7 +17280,7 @@
               "id": "q_801_03",
               "type": "image_quiz",
               "question": "Istana megah peninggalan peradaban Islam di Granada, Spanyol (Andalusia) dikenal dengan nama istana?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/istana_alhambra_andalusia.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/istana_alhambra_andalusia.jpeg",
               "image_placeholder": "istana_alhambra_andalusia",
               "options": [
                 "Alhambra",
@@ -17419,7 +17419,7 @@
               "id": "q_802_03",
               "type": "image_quiz",
               "question": "Tokoh muslim perintis metode optik modern dan penemu prinsip kamera obscura adalah?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/ibnu_al_haitsam_optik.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/ibnu_al_haitsam_optik.jpeg",
               "image_placeholder": "ibnu_al_haitsam_optik",
               "options": [
                 "Ibnu Al-Haitsam",
@@ -17630,7 +17630,7 @@
               "id": "q_403_07",
               "type": "image_quiz",
               "question": "Adab utama seorang penuntut ilmu terhadap gurunya adalah bersikap...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/adab_menuntut_ilmu.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/adab_menuntut_ilmu.jpeg",
               "image_placeholder": "adab_menuntut_ilmu",
               "options": [
                 "Tawadhu dan takzim",
@@ -17706,7 +17706,7 @@
               "id": "q_901_03",
               "type": "image_quiz",
               "question": "Kitab adab santri dan penuntut ilmu yang amat masyhur karya Syaikh Az-Zarnuji berjudul?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kitab_talimul_mutaallim.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kitab_talimul_mutaallim.jpeg",
               "image_placeholder": "kitab_talimul_mutaallim",
               "options": [
                 "Ta'limul Muta'allim",
@@ -17845,7 +17845,7 @@
               "id": "q_902_03",
               "type": "image_quiz",
               "question": "Pedagang muslim yang jujur dan amanah kelak di hari kiamat akan dikumpulkan bersama siapa?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/pedagang_jujur_syurga.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/pedagang_jujur_syurga.jpeg",
               "image_placeholder": "pedagang_jujur_syurga",
               "options": [
                 "Para Nabi, Shiddiqin, dan Syuhada",
@@ -18131,7 +18131,7 @@
               "id": "q_504_03",
               "type": "image_quiz",
               "question": "Hukum tajwid pada lafadz yang memiliki huruf lin bertemu huruf hidup di akhir kalimat dinamakan...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/tajwid_mad_lin.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/tajwid_mad_lin.jpeg",
               "image_placeholder": "tajwid_mad_lin",
               "options": [
                 "Mad Lin",
@@ -18276,7 +18276,7 @@
               "id": "q_601_03",
               "type": "image_quiz",
               "question": "Peristiwa turunnya Al-Qur'an pertama kali ke bumi pada malam kemuliaan disebut malam...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/malam_lailatul_qadar.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/malam_lailatul_qadar.jpeg",
               "image_placeholder": "malam_lailatul_qadar",
               "options": [
                 "Lailatul Qadar",
@@ -18406,7 +18406,7 @@
               "id": "q_601_03",
               "type": "image_quiz",
               "question": "Surah Al-Fil diturunkan berkaitan dengan kegagalan tentara bergajah yang dipimpin oleh siapa?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/pasukan_gajah_abrahah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/pasukan_gajah_abrahah.jpeg",
               "image_placeholder": "pasukan_gajah_abrahah",
               "options": [
                 "Abrahah",
@@ -18545,7 +18545,7 @@
               "id": "q_602_03",
               "type": "image_quiz",
               "question": "Bahtera besar yang menyelamatkan orang beriman dan pasang-pasangan hewan dari banjir dahsyat dibuat oleh Nabi siapa?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/bahtera_nabi_nuh.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/bahtera_nabi_nuh.jpeg",
               "image_placeholder": "bahtera_nabi_nuh",
               "options": [
                 "Nabi Nuh AS",
@@ -18693,7 +18693,7 @@
               "id": "q_305_03",
               "type": "image_quiz",
               "question": "Sahabat yang mengusulkan pembuatan parit pertahanan pada Perang Khandaq bernama...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/sahabat_salman_al_farisi.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/sahabat_salman_al_farisi.jpeg",
               "image_placeholder": "sahabat_salman_al_farisi",
               "options": [
                 "Salman Al-Farisi",
@@ -18832,7 +18832,7 @@
               "id": "q_306_03",
               "type": "image_quiz",
               "question": "Putri tercinta Rasulullah SAW yang bergelar Az-Zahra dan menjadi ibunda Hasan dan Husain adalah...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/tokoh_fatimah_azzahra.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/tokoh_fatimah_azzahra.jpeg",
               "image_placeholder": "tokoh_fatimah_azzahra",
               "options": [
                 "Fatimah Az-Zahra",
@@ -18977,7 +18977,7 @@
               "id": "q_404_03",
               "type": "image_quiz",
               "question": "Posisi tidur yang dianjurkan sesuai sunnah Rasulullah SAW adalah berbaring miring ke sebelah...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/adab_tidur_sunnah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/adab_tidur_sunnah.jpeg",
               "image_placeholder": "adab_tidur_sunnah",
               "options": [
                 "Kanan",
@@ -19116,7 +19116,7 @@
               "id": "q_405_03",
               "type": "image_quiz",
               "question": "Sifat memaafkan kesalahan orang lain dengan lapang dada tanpa menyimpan dendam disebut sifat...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/sifat_pemaaf_afuw.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/sifat_pemaaf_afuw.jpeg",
               "image_placeholder": "sifat_pemaaf_afuw",
               "options": [
                 "Pemaaf (Al-'Afw)",
@@ -19264,7 +19264,7 @@
               "id": "q_505_03",
               "type": "image_quiz",
               "question": "Doa memohon ilmu yang bermanfaat, rezeki yang halal, dan amal yang diterima dibaca pada waktu...?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/doa_ilmu_rezeki.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/doa_ilmu_rezeki.jpeg",
               "image_placeholder": "doa_ilmu_rezeki",
               "options": [
                 "Setelah shalat Subuh",
@@ -19550,7 +19550,7 @@
               "id": "q_1001_03",
               "type": "image_quiz",
               "question": "Doa Nabi Yunus AS di dalam kegelapan perut ikan paus berbunyi 'Laa ilaaha illa Anta Subhaanaka inni kuntu minadz...'",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/doa_nabi_yunus_paus.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/doa_nabi_yunus_paus.jpeg",
               "image_placeholder": "doa_nabi_yunus_paus",
               "options": [
                 "Dzaalimiin",
@@ -19689,7 +19689,7 @@
               "id": "q_1002_03",
               "type": "image_quiz",
               "question": "Kalimat tauhid dzikir penentram hati 'Laa ilaaha illallaahul malikul haqqul...' dilanjutkan dengan lafadz?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kalimat_malikul_haqqul_mubin.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kalimat_malikul_haqqul_mubin.jpeg",
               "image_placeholder": "kalimat_malikul_haqqul_mubin",
               "options": [
                 "Mubin",
@@ -19897,7 +19897,7 @@
               "id": "q_1101_07",
               "type": "image_quiz",
               "question": "Kitab matan hadits pegangan umat Islam ini disusun oleh ulama bermazhab Syafi'i yang bernama Imam...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kitab_arbain_nawawi.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kitab_arbain_nawawi.jpeg",
               "image_placeholder": "kitab_arbain_nawawi",
               "options": [
                 "An-Nawawi",
@@ -20036,7 +20036,7 @@
               "id": "q_1102_07",
               "type": "image_quiz",
               "question": "Ulama ahli hadits pengarang kitab hadits paling otentik setelah Al-Qur'an lahir di kota Bukhara, bernama Imam...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/imam_bukhari.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/imam_bukhari.jpeg",
               "image_placeholder": "imam_bukhari",
               "options": [
                 "Al-Bukhari",
@@ -20316,7 +20316,7 @@
               "id": "q_1202_07",
               "type": "image_quiz",
               "question": "Skema pendanaan gotong royong digital berbasis syariah untuk UMKM dikenal dengan istilah Securities Crowdfunding atau...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/fintech_syariah_investasi.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/fintech_syariah_investasi.jpeg",
               "image_placeholder": "fintech_syariah_investasi",
               "options": [
                 "Peer-to-Peer Syariah",
@@ -20430,7 +20430,7 @@
               "id": "q_1601_06",
               "type": "image_quiz",
               "question": "Akad penitipan murni di mana penerima titipan wajib menjaga keutuhan barang titipan dinamakan akad...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/akad_wadiah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/akad_wadiah.jpeg",
               "image_placeholder": "akad_wadiah",
               "options": [
                 "Wadi'ah",
@@ -20569,7 +20569,7 @@
               "id": "q_1602_06",
               "type": "image_quiz",
               "question": "Kadar zakat emas dan perak yang wajib dikeluarkan setelah mencapai nisab adalah sebesar...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/zakat_emas_perak.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/zakat_emas_perak.jpeg",
               "image_placeholder": "zakat_emas_perak",
               "options": [
                 "2,5%",
@@ -20708,7 +20708,7 @@
               "id": "q_1603_06",
               "type": "image_quiz",
               "question": "Berapa bagian waris seorang anak laki-laki dibandingkan satu anak perempuan (Surah An-Nisa: 11)?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/bagian_waris_anak.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/bagian_waris_anak.jpeg",
               "image_placeholder": "bagian_waris_anak",
               "options": [
                 "Dua berbanding satu",
@@ -20847,7 +20847,7 @@
               "id": "q_1604_06",
               "type": "image_quiz",
               "question": "Adab sunnah ketika bersin adalah menutup mulut dengan tangan atau pakaian lalu mengucapkan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/adab_bersin_alhamdulillah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/adab_bersin_alhamdulillah.jpeg",
               "image_placeholder": "adab_bersin_alhamdulillah",
               "options": [
                 "Alhamdulillah",
@@ -21020,7 +21020,7 @@
               "id": "q_1301_07",
               "type": "image_quiz",
               "question": "Batu nisan kuno Sultan Malik As-Saleh di Samudera Pasai ini bercorak seni kaligrafi khas daerah asal pedagang...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/nisan_malik_assaleh.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/nisan_malik_assaleh.jpeg",
               "image_placeholder": "nisan_malik_assaleh",
               "options": [
                 "Gujarat",
@@ -21156,7 +21156,7 @@
               "id": "q_1302_07",
               "type": "image_quiz",
               "question": "Menara masjid yang memadukan arsitektur bata merah Hindu-Jawa dan Islam ini peninggalan dari Sunan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/menara_masjid_kudus.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/menara_masjid_kudus.jpeg",
               "image_placeholder": "menara_masjid_kudus",
               "options": [
                 "Kudus",
@@ -21292,7 +21292,7 @@
               "id": "q_1303_07",
               "type": "image_quiz",
               "question": "Masjid bersejarah beratap tumpang tiga bertingkat di Jawa Tengah ini didirikan para Walisongo, yaitu Masjid Agung...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/masjid_agung_demak.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/masjid_agung_demak.jpeg",
               "image_placeholder": "masjid_agung_demak",
               "options": [
                 "Demak",
@@ -21440,7 +21440,7 @@
               "id": "q_1401_07",
               "type": "image_quiz",
               "question": "Makam Imam Syafi'i yang berkubah megah ini diziarahi jutaan muslim dari seluruh dunia, terletak di kota Kairo negara...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/makam_imam_syafii_kairo.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/makam_imam_syafii_kairo.jpeg",
               "image_placeholder": "makam_imam_syafii_kairo",
               "options": [
                 "Mesir",
@@ -21579,7 +21579,7 @@
               "id": "q_1402_07",
               "type": "image_quiz",
               "question": "Kitab tafsir berbahasa Indonesia lengkap 30 juz berlatar budaya Nusantara ini mahakarya dari Buya...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kitab_tafsir_al_azhar.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kitab_tafsir_al_azhar.jpeg",
               "image_placeholder": "kitab_tafsir_al_azhar",
               "options": [
                 "Hamka",
@@ -21724,7 +21724,7 @@
               "id": "q_1501_07",
               "type": "image_quiz",
               "question": "Kitab rujukan agung tazkiyatun nafs 'Ihya Ulumuddin' ditulis oleh Hujjatul Islam yang bernama Imam...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kitab_ihya_ulumuddin.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kitab_ihya_ulumuddin.jpeg",
               "image_placeholder": "kitab_ihya_ulumuddin",
               "options": [
                 "Al-Ghazali",
@@ -21847,7 +21847,7 @@
               "id": "q_1701_06",
               "type": "image_quiz",
               "question": "Filsuf muslim yang dikenal di Barat dengan sebutan Averroes dan membela filsafat rasional Islam adalah...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/tokoh_ibnu_rusyd.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/tokoh_ibnu_rusyd.jpeg",
               "image_placeholder": "tokoh_ibnu_rusyd",
               "options": [
                 "Ibnu Rusyd",
@@ -21986,7 +21986,7 @@
               "id": "q_1702_06",
               "type": "image_quiz",
               "question": "Menara masjid bercorak perpaduan Hindu-Islam peninggalan Sunan Kudus adalah Menara...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/menara_kudus.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/menara_kudus.jpeg",
               "image_placeholder": "menara_kudus",
               "options": [
                 "Kudus",
@@ -22125,7 +22125,7 @@
               "id": "q_1703_06",
               "type": "image_quiz",
               "question": "Sultan Utsmaniyah yang memimpin penaklukan Konstantinopel pada tahun 1453 M saat usia 21 tahun adalah...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/tokoh_muhammad_al_fatih.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/tokoh_muhammad_al_fatih.jpeg",
               "image_placeholder": "tokoh_muhammad_al_fatih",
               "options": [
                 "Muhammad Al-Fatih (Mehmed II)",
@@ -22273,7 +22273,7 @@
               "id": "q_1801_06",
               "type": "image_quiz",
               "question": "Kitab kumpulan hadits shahih terlengkap rujukan nomor satu umat Islam disusun oleh Imam...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kitab_shahih_bukhari.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kitab_shahih_bukhari.jpeg",
               "image_placeholder": "kitab_shahih_bukhari",
               "options": [
                 "Al-Bukhari",
@@ -22412,7 +22412,7 @@
               "id": "q_1802_06",
               "type": "image_quiz",
               "question": "Sikap menyandarkan segala hasil usaha dan berserah diri secara penuh kepada Allah SWT disebut...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/makna_tawakal_allah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/makna_tawakal_allah.jpeg",
               "image_placeholder": "makna_tawakal_allah",
               "options": [
                 "Tawakal",
@@ -22551,7 +22551,7 @@
               "id": "q_1803_06",
               "type": "image_quiz",
               "question": "Sayyidul Istighfar (rajanya doa istighfar) mengandung pengakuan nikmat dan ampunan dosa, dimulai dengan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/doa_sayyidul_istighfar.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/doa_sayyidul_istighfar.jpeg",
               "image_placeholder": "doa_sayyidul_istighfar",
               "options": [
                 "Allahumma Anta Rabbi laa ilaaha illa Anta",
@@ -22661,7 +22661,7 @@
               "id": "q_1901_03",
               "type": "image_quiz",
               "question": "Dalam Surah At-Tin, buah manakah yang dijadikan sumpah Allah bersama buah zaitun?",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/buah_tin_zaitun.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/buah_tin_zaitun.jpeg",
               "image_placeholder": "buah_tin_zaitun",
               "options": [
                 "Buah Tin",
@@ -22800,7 +22800,7 @@
               "id": "q_1902_03",
               "type": "image_quiz",
               "question": "Peristiwa hijrah Nabi ke kota Madinah yang menjadi batas klasifikasi Makkiyah-Madaniyah diawali di masjid pertama Islam yaitu...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/masjid_quba_madinah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/masjid_quba_madinah.jpeg",
               "image_placeholder": "masjid_quba_madinah",
               "options": [
                 "Masjid Quba",
@@ -23077,7 +23077,7 @@
               "id": "q_1904_03",
               "type": "image_quiz",
               "question": "Penghafal Al-Qur'an (hafizh) dijanjikan Allah akan menyematkan mahkota kemuliaan kepada kedua orang tuanya di...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/mahkota_kemuliaan_hafizh.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/mahkota_kemuliaan_hafizh.jpeg",
               "image_placeholder": "mahkota_kemuliaan_hafizh",
               "options": [
                 "Akhirat / Surga",
@@ -23225,7 +23225,7 @@
               "id": "q_2001_03",
               "type": "image_quiz",
               "question": "Pernyataan serah terima ijab dan qabul dalam akad nikah diucapkan di hadapan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/ijab_qabul_pernikahan.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/ijab_qabul_pernikahan.jpeg",
               "image_placeholder": "ijab_qabul_pernikahan",
               "options": [
                 "Wali dan Dua Saksi Adil",
@@ -23364,7 +23364,7 @@
               "id": "q_2002_03",
               "type": "image_quiz",
               "question": "Ahli waris yang mendapatkan sisa harta warisan setelah bagian pasti (furudh) dibagikan disebut kelompok ahli waris...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/pembagian_waris_ashabah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/pembagian_waris_ashabah.jpeg",
               "image_placeholder": "pembagian_waris_ashabah",
               "options": [
                 "Ashabah",
@@ -23503,7 +23503,7 @@
               "id": "q_2003_03",
               "type": "image_quiz",
               "question": "Kewajiban menjaga lima prinsip pokok syariat Islam (Al-Kulliyyat Al-Khams) dipelopori pembahasannya oleh ulama besar...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/imam_al_ghazali.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/imam_al_ghazali.jpeg",
               "image_placeholder": "imam_al_ghazali",
               "options": [
                 "Imam Al-Ghazali",
@@ -23642,7 +23642,7 @@
               "id": "q_2004_03",
               "type": "image_quiz",
               "question": "Akad jual beli barang dengan menyatakan harga perolehan dan margin keuntungan yang disepakati antara bank dan nasabah disebut...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/transaksi_murabahah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/transaksi_murabahah.jpeg",
               "image_placeholder": "transaksi_murabahah",
               "options": [
                 "Murabahah",
@@ -23790,7 +23790,7 @@
               "id": "q_2101_03",
               "type": "image_quiz",
               "question": "Bangunan bersejarah di Istanbul yang diubah dari katedral menjadi masjid oleh Muhammad Al-Fatih bernama...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/masjid_hagia_sophia.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/masjid_hagia_sophia.jpeg",
               "image_placeholder": "masjid_hagia_sophia",
               "options": [
                 "Hagia Sophia (Aya Sofya)",
@@ -23929,7 +23929,7 @@
               "id": "q_2102_03",
               "type": "image_quiz",
               "question": "Pusat perpustakaan, penerjemahan, dan akademi ilmu pengetahuan masa Dinasti Abbasiyah di Baghdad bernama...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/baitul_hikmah_baghdad.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/baitul_hikmah_baghdad.jpeg",
               "image_placeholder": "baitul_hikmah_baghdad",
               "options": [
                 "Baitul Hikmah",
@@ -24077,7 +24077,7 @@
               "id": "q_2201_03",
               "type": "image_quiz",
               "question": "Bagan mahram dalam pernikahan: wanita yang haram dinikahi karena hubungan persusuan (radha'ah) berkedudukan sama seperti mahram karena nasab. Tipe mahram ini termasuk mahram...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/bagan_mahram_radhaah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/bagan_mahram_radhaah.jpeg",
               "image_placeholder": "bagan_mahram_radhaah",
               "options": [
                 "Muabbad (selamanya)",
@@ -24216,7 +24216,7 @@
               "id": "q_2202_03",
               "type": "image_quiz",
               "question": "Perhatikan ilustrasi hak keluarga: pemenuhan pangan, sandang, dan tempat tinggal bagi istri dan anak-anak merupakan kewajiban suami dalam bentuk...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kewajiban_nafkah_keluarga.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kewajiban_nafkah_keluarga.jpeg",
               "image_placeholder": "kewajiban_nafkah_keluarga",
               "options": [
                 "Nafkah Lahir",
@@ -24355,7 +24355,7 @@
               "id": "q_2203_03",
               "type": "image_quiz",
               "question": "Masa tunggu seorang wanita muslimah setelah thalaq atau ditinggal mati suaminya sebelum boleh menikah lagi disebut...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/diagram_masa_iddah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/diagram_masa_iddah.jpeg",
               "image_placeholder": "diagram_masa_iddah",
               "options": [
                 "Iddah",
@@ -24494,7 +24494,7 @@
               "id": "q_2204_03",
               "type": "image_quiz",
               "question": "Ahli waris yang bagian perolehannya telah ditentukan secara pasti dalam Al-Qur'an (seperti 1/2, 1/4, 1/8, 2/3, 1/3, 1/6) disebut...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/tabel_ashabul_furudh.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/tabel_ashabul_furudh.jpeg",
               "image_placeholder": "tabel_ashabul_furudh",
               "options": [
                 "Ashabul Furudh",
@@ -24633,7 +24633,7 @@
               "id": "q_2205_03",
               "type": "image_quiz",
               "question": "Ahli waris yang mengambil seluruh sisa harta warisan setelah para Ashabul Furudh menerima bagiannya disebut...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/pembagian_sisa_asabah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/pembagian_sisa_asabah.jpeg",
               "image_placeholder": "pembagian_sisa_asabah",
               "options": [
                 "Ashabah",
@@ -24772,7 +24772,7 @@
               "id": "q_2206_03",
               "type": "image_quiz",
               "question": "Tiga hal utama yang mutlak menggugurkan hak waris: perbudakan, pembunuhan, dan perbedaan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/penghalang_hak_waris.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/penghalang_hak_waris.jpeg",
               "image_placeholder": "penghalang_hak_waris",
               "options": [
                 "Agama",
@@ -24908,7 +24908,7 @@
               "id": "q_2207_03",
               "type": "image_quiz",
               "question": "Tindak pidana perampokan bersenjata di jalan raya yang mengancam ketertiban umum dalam istilah fiqih jinayat disebut...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/perampokan_hirabah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/perampokan_hirabah.jpeg",
               "image_placeholder": "perampokan_hirabah",
               "options": [
                 "Hirabah (Quththa'ut Thariq)",
@@ -25047,7 +25047,7 @@
               "id": "q_2208_03",
               "type": "image_quiz",
               "question": "Diyat terbagi dua macam: Diyat Mughalladhah (diyat berat) dan Diyat Mukhaffafah (diyat ringan). Keduanya dibedakan berdasarkan usia dan jenis...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/unta_diyat_jenjang.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/unta_diyat_jenjang.jpeg",
               "image_placeholder": "unta_diyat_jenjang",
               "options": [
                 "Unta",
@@ -25186,7 +25186,7 @@
               "id": "q_2209_03",
               "type": "image_quiz",
               "question": "Prinsip keadilan dalam persidangan: Hakim wajib memperlakukan kedua pihak yang bersengketa secara setara dalam hal tempat duduk, pandangan, dan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/prinsip_keadilan_hakim.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/prinsip_keadilan_hakim.jpeg",
               "image_placeholder": "prinsip_keadilan_hakim",
               "options": [
                 "Tutur kata / sapaan",
@@ -25325,7 +25325,7 @@
               "id": "q_2210_03",
               "type": "image_quiz",
               "question": "Transaksi jual beli barang dengan menegaskan harga pokok perolehan ditambah marjin keuntungan yang disepakati bersama disebut...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/akad_jual_beli_murabahah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/akad_jual_beli_murabahah.jpeg",
               "image_placeholder": "akad_jual_beli_murabahah",
               "options": [
                 "Murabahah",
@@ -25473,7 +25473,7 @@
               "id": "q_2301_03",
               "type": "image_quiz",
               "question": "Monumen kubah emas megah di kompleks Masjid Al-Aqsha Yerusalem yang dibangun oleh Khalifah Abdul Malik bin Marwan bernama...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/kubah_batu_dome_of_rock.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/kubah_batu_dome_of_rock.jpeg",
               "image_placeholder": "kubah_batu_dome_of_rock",
               "options": [
                 "Dome of the Rock (Qubbatush Shakhrah)",
@@ -25612,7 +25612,7 @@
               "id": "q_2302_03",
               "type": "image_quiz",
               "question": "Akademi ilmu pengetahuan, observatorium, dan perpustakaan raya di Baghdad masa Abbasiyah bernama...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/baitul_hikmah_abbasiyah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/baitul_hikmah_abbasiyah.jpeg",
               "image_placeholder": "baitul_hikmah_abbasiyah",
               "options": [
                 "Baitul Hikmah (House of Wisdom)",
@@ -25751,7 +25751,7 @@
               "id": "q_2303_03",
               "type": "image_quiz",
               "question": "Istana megah berarsitektur kaligrafi Arab yang memukau di Granada, benteng terakhir peradaban Islam di Spanyol bernama...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/istana_alhambra_granada.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/istana_alhambra_granada.jpeg",
               "image_placeholder": "istana_alhambra_granada",
               "options": [
                 "Alhambra (Qashrul Hamra)",
@@ -25890,7 +25890,7 @@
               "id": "q_2304_03",
               "type": "image_quiz",
               "question": "Benteng pertahanan kokoh di bukit Muqattam Kairo yang menjadi pusat pemerintahan kesultanan Mamluk adalah...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/benteng_citadel_kairo.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/benteng_citadel_kairo.jpeg",
               "image_placeholder": "benteng_citadel_kairo",
               "options": [
                 "Benteng Salahuddin (The Citadel of Cairo)",
@@ -26029,7 +26029,7 @@
               "id": "q_2305_03",
               "type": "image_quiz",
               "question": "Alun-alun megah terbesar kedua di dunia yang dibangun oleh Shah Abbas I di Isfahan bernama Meidan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/alun_alun_naqsh_e_jahan.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/alun_alun_naqsh_e_jahan.jpeg",
               "image_placeholder": "alun_alun_naqsh_e_jahan",
               "options": [
                 "Naqsh-e Jahan (Pola Dunia)",
@@ -26168,7 +26168,7 @@
               "id": "q_2306_03",
               "type": "image_quiz",
               "question": "Benteng bata merah megah di Delhi yang menjadi istana kediaman para kaisar Mughal bernama...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/benteng_merah_delhi.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/benteng_merah_delhi.jpeg",
               "image_placeholder": "benteng_merah_delhi",
               "options": [
                 "Red Fort (Benteng Merah / Lal Qila)",
@@ -26307,7 +26307,7 @@
               "id": "q_2307_03",
               "type": "image_quiz",
               "question": "Rumah sakit umum dalam peradaban Islam yang dilengkapi ruang operasi, apotek, dan pemisahan bangsal pasien menular disebut...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/bimaristan_rumah_sakit.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/bimaristan_rumah_sakit.jpeg",
               "image_placeholder": "bimaristan_rumah_sakit",
               "options": [
                 "Bimaristan (Darush Syifa)",
@@ -26446,7 +26446,7 @@
               "id": "q_2308_03",
               "type": "image_quiz",
               "question": "Observatorium bintang raksasa tercanggih di masanya yang dipimpin oleh Nashiruddin Ath-Thusi di Iran bernama...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/observatorium_maragha.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/observatorium_maragha.jpeg",
               "image_placeholder": "observatorium_maragha",
               "options": [
                 "Observatorium Maragha",
@@ -26585,7 +26585,7 @@
               "id": "q_2309_03",
               "type": "image_quiz",
               "question": "Filsuf muslim terkemuka asal Kordoba yang dikenal di Barat sebagai 'Sang Komentator Agung' karya-karya Aristoteles adalah...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/patung_ibnu_rusyd_averroes.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/patung_ibnu_rusyd_averroes.jpeg",
               "image_placeholder": "patung_ibnu_rusyd_averroes",
               "options": [
                 "Ibnu Rusyd (Averroes)",
@@ -26724,7 +26724,7 @@
               "id": "q_2310_03",
               "type": "image_quiz",
               "question": "Masjid bersejarah dengan menara batu bata mirip candi Hindu di Jawa Tengah yang menjadi ikon toleransi dakwah Walisongo adalah...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/menara_masjid_kudus.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/menara_masjid_kudus.jpeg",
               "image_placeholder": "menara_masjid_kudus",
               "options": [
                 "Masjid Menara Kudus",
@@ -26872,7 +26872,7 @@
               "id": "q_2401_03",
               "type": "image_quiz",
               "question": "Hadits Arba'in ke-5 melarang perbuatan bid'ah dalam perkara agama: 'Barangsiapa membuat perkara baru dalam urusan agama ini yang bukan darinya, maka amalan itu...'",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/hadits_larangan_bidah.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/hadits_larangan_bidah.jpeg",
               "image_placeholder": "hadits_larangan_bidah",
               "options": [
                 "Tertolak (Mardud)",
@@ -27011,7 +27011,7 @@
               "id": "q_2402_03",
               "type": "image_quiz",
               "question": "Nasihat agung Rasulullah SAW yang diulang sebanyak 3 kali saat seorang sahabat meminta wasiat singkat adalah...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/jangan_marah_hadits.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/jangan_marah_hadits.jpeg",
               "image_placeholder": "jangan_marah_hadits",
               "options": [
                 "Janganlah engkau marah (La taghdhab)",
@@ -27150,7 +27150,7 @@
               "id": "q_2403_03",
               "type": "image_quiz",
               "question": "Kisah 3 orang yang terperangkap dalam gua tertutup batu besar berhasil selamat karena bertawassul dengan amal ikhlas mereka: berbakti orang tua, menjaga kehormatan, dan menunaikan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/tiga_orang_dalam_gua.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/tiga_orang_dalam_gua.jpeg",
               "image_placeholder": "tiga_orang_dalam_gua",
               "options": [
                 "Hak upah buruh pekerja",
@@ -27289,7 +27289,7 @@
               "id": "q_2404_03",
               "type": "image_quiz",
               "question": "Perumpamaan tawakal yang diajarkan Rasulullah SAW seperti seekor burung yang keluar di pagi hari dalam keadaan lapar dan pulang sore hari dalam keadaan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/burung_tawakal_pagi_sore.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/burung_tawakal_pagi_sore.jpeg",
               "image_placeholder": "burung_tawakal_pagi_sore",
               "options": [
                 "Kenyang",
@@ -27428,7 +27428,7 @@
               "id": "q_2405_03",
               "type": "image_quiz",
               "question": "Hak seorang muslim atas muslim lainnya ada 6 perkara: menjawab salam, menghadiri undangan, menasihati saat diminta, mendoakan saat bersin, menjenguk saat sakit, dan mengantar...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/mengantar_jenazah_muslim.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/mengantar_jenazah_muslim.jpeg",
               "image_placeholder": "mengantar_jenazah_muslim",
               "options": [
                 "Jenazah ke pemakaman",
@@ -27567,7 +27567,7 @@
               "id": "q_2406_03",
               "type": "image_quiz",
               "question": "Sikap kagum berlebihan terhadap kehebatan atau kesalehan diri sendiri tanpa menyandarkannya kepada Allah dinamakan...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/penyakit_hati_ujub.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/penyakit_hati_ujub.jpeg",
               "image_placeholder": "penyakit_hati_ujub",
               "options": [
                 "'Ujub",
@@ -27706,7 +27706,7 @@
               "id": "q_2407_03",
               "type": "image_quiz",
               "question": "Sabda Nabi kepada Ibnu Umar: 'Jadilah engkau di dunia ini seakan-akan orang asing atau orang yang sedang...'",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/musafir_mengembara_dunia.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/musafir_mengembara_dunia.jpeg",
               "image_placeholder": "musafir_mengembara_dunia",
               "options": [
                 "Menyeberang jalan (Musafir)",
@@ -27842,7 +27842,7 @@
               "id": "q_2408_03",
               "type": "image_quiz",
               "question": "Doa perlindungan dari marabahaya: 'Bismillaahilladzii laa yadhurru ma'asmihii syai-un fil ardhi wa laa fis-samaa-i wa huwas...' Dibaca sebanyak 3 kali setiap pagi dan petang.",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/doa_bismillahilladzi.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/doa_bismillahilladzi.jpeg",
               "image_placeholder": "doa_bismillahilladzi",
               "options": [
                 "Samii'ul 'Aliim",
@@ -27981,7 +27981,7 @@
               "id": "q_2409_03",
               "type": "image_quiz",
               "question": "Doa naik kendaraan darat/udara: 'Subhaanal-ladzii sakh-khara lanaa haadzaa wa maa kunnaa lahu muqriniin, wa innaa ilaa Rabbinaa la...'",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/doa_naik_kendaraan.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/doa_naik_kendaraan.jpeg",
               "image_placeholder": "doa_naik_kendaraan",
               "options": [
                 "Munqalibuun (Akan kembali)",
@@ -28120,7 +28120,7 @@
               "id": "q_2410_03",
               "type": "image_quiz",
               "question": "Waktu turunnya Allah ke langit dunia pada setiap malam untuk mengabulkan doa dan mengampuni dosa para hamba adalah pada...",
-              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/images/sepertiga_malam_terakhir.jpeg",
+              "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/images/sepertiga_malam_terakhir.jpeg",
               "image_placeholder": "sepertiga_malam_terakhir",
               "options": [
                 "Sepertiga malam terakhir",
