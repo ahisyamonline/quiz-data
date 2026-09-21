@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T23:41:23+07:00",
-  "last_updated": "2026-09-20",
+  "generated_at": "2026-09-21T07:55:29+07:00",
+  "last_updated": "2026-09-21",
   "settings": {
     "ads_enable": true,
     "ads_enabled": true,
@@ -20,8 +20,9 @@
     "privacy_policy_url": "https://mationetic.com/apps/privacy-policy",
     "app_title": "Quizora",
     "settings_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/settings.json",
-    "ota_update_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/data.json",
-    "sync_endpoint": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/quizora/data.json",
+    "ota_update_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/data.json",
+    "sync_endpoint": "https://cdn.jsdelivr.net/gh/ahisyamonline/quiz-data@main/kuispedia/data.json",
+    "report_url": "https://script.google.com/macros/s/AKfycbz_jqsVfMCXhHymb_iswwqs8KLLC0tt0iDQJDyEhhQGUBKjUD4J1nNctBDhsRcG1SibGg/exec",
     "github_repo": "ahisyamonline/quiz-data",
     "github_branch": "main",
     "github_path": "quizora/data.json",
