@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T08:22:44+07:00",
-  "last_updated": "2026-09-21",
+  "generated_at": "2026-10-09T08:50:54+07:00",
+  "last_updated": "2026-10-09",
   "settings": {
     "ads_enable": true,
     "ads_enabled": true,
-    "ads_open_unit": "ca-app-pub-3940256099942544/9257395921",
-    "ads_banner_unit": "ca-app-pub-3940256099942544/6300978111",
-    "ads_reward_unit": "ca-app-pub-3940256099942544/5224354917",
-    "ads_interstitial_unit": "ca-app-pub-3940256099942544/1033173712",
+    "ads_open_unit": "ca-app-pub-7366078751976453/9674070725",
+    "ads_banner_unit": "ca-app-pub-7366078751976453/6968016330",
+    "ads_reward_unit": "ca-app-pub-7366078751976453/3356074383",
+    "ads_interstitial_unit": "ca-app-pub-7366078751976453/7534069100",
     "ads_open_enabled": true,
     "ads_open_enable": true,
     "ads_banner_enabled": true,
@@ -27,6 +27,6 @@
     "github_branch": "main",
     "github_path": "kuispedia/data.json",
     "github_settings_path": "kuispedia/settings.json",
-    "ads_interstitial": "ca-app-pub-3940256099942544/1033173712"
+    "ads_interstitial": "ca-app-pub-7366078751976453/7534069100"
   }
 }
